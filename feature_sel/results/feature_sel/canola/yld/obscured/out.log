@@ -1,0 +1,881 @@
+After clean(removal of rows with high missing values + redundancy removal) X.shape:  (402, 10792)
+Fold 1, k_feat 8
+X_train.shape:  (268, 8)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.956 Training Pearson r:0.182 AVG Test Loss:1.071 Test Pearson r:0.138
+Epoch:2/20 AVG Training Loss:0.938 Training Pearson r:0.228 AVG Test Loss:1.084 Test Pearson r:0.135
+Epoch:3/20 AVG Training Loss:0.931 Training Pearson r:0.242 AVG Test Loss:1.106 Test Pearson r:0.161
+Epoch:4/20 AVG Training Loss:0.929 Training Pearson r:0.245 AVG Test Loss:1.109 Test Pearson r:0.125
+Epoch:5/20 AVG Training Loss:0.928 Training Pearson r:0.247 AVG Test Loss:1.089 Test Pearson r:0.143
+Epoch:6/20 AVG Training Loss:0.926 Training Pearson r:0.251 AVG Test Loss:1.058 Test Pearson r:0.171
+Epoch:7/20 AVG Training Loss:0.926 Training Pearson r:0.252 AVG Test Loss:1.078 Test Pearson r:0.148
+Epoch:8/20 AVG Training Loss:0.925 Training Pearson r:0.254 AVG Test Loss:1.066 Test Pearson r:0.168
+Epoch:9/20 AVG Training Loss:0.926 Training Pearson r:0.253 AVG Test Loss:1.082 Test Pearson r:0.165
+Epoch:10/20 AVG Training Loss:0.922 Training Pearson r:0.260 AVG Test Loss:1.088 Test Pearson r:0.161
+Epoch:11/20 AVG Training Loss:0.923 Training Pearson r:0.257 AVG Test Loss:1.047 Test Pearson r:0.170
+Epoch:12/20 AVG Training Loss:0.921 Training Pearson r:0.262 AVG Test Loss:1.057 Test Pearson r:0.171
+Epoch:13/20 AVG Training Loss:0.918 Training Pearson r:0.267 AVG Test Loss:1.067 Test Pearson r:0.178
+Epoch:14/20 AVG Training Loss:0.920 Training Pearson r:0.265 AVG Test Loss:1.061 Test Pearson r:0.172
+Epoch:15/20 AVG Training Loss:0.922 Training Pearson r:0.260 AVG Test Loss:1.061 Test Pearson r:0.186
+Epoch:16/20 AVG Training Loss:0.917 Training Pearson r:0.269 AVG Test Loss:1.067 Test Pearson r:0.181
+Epoch:17/20 AVG Training Loss:0.920 Training Pearson r:0.263 AVG Test Loss:1.070 Test Pearson r:0.178
+Epoch:18/20 AVG Training Loss:0.920 Training Pearson r:0.265 AVG Test Loss:1.066 Test Pearson r:0.184
+Epoch:19/20 AVG Training Loss:0.918 Training Pearson r:0.268 AVG Test Loss:1.053 Test Pearson r:0.184
+Epoch:20/20 AVG Training Loss:0.917 Training Pearson r:0.269 AVG Test Loss:1.072 Test Pearson r:0.160
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.397
+MSE: 1.014
+Fold 2, k_feat 8
+X_train.shape:  (268, 8)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.967 Training Pearson r:0.175 AVG Test Loss:0.774 Test Pearson r:0.161
+Epoch:2/20 AVG Training Loss:0.954 Training Pearson r:0.205 AVG Test Loss:0.765 Test Pearson r:0.175
+Epoch:3/20 AVG Training Loss:0.951 Training Pearson r:0.212 AVG Test Loss:0.755 Test Pearson r:0.171
+Epoch:4/20 AVG Training Loss:0.948 Training Pearson r:0.219 AVG Test Loss:0.770 Test Pearson r:0.169
+Epoch:5/20 AVG Training Loss:0.948 Training Pearson r:0.220 AVG Test Loss:0.774 Test Pearson r:0.172
+Epoch:6/20 AVG Training Loss:0.946 Training Pearson r:0.225 AVG Test Loss:0.783 Test Pearson r:0.166
+Epoch:7/20 AVG Training Loss:0.946 Training Pearson r:0.224 AVG Test Loss:0.768 Test Pearson r:0.181
+Epoch:8/20 AVG Training Loss:0.946 Training Pearson r:0.224 AVG Test Loss:0.767 Test Pearson r:0.173
+Epoch:9/20 AVG Training Loss:0.947 Training Pearson r:0.221 AVG Test Loss:0.759 Test Pearson r:0.174
+Epoch:10/20 AVG Training Loss:0.944 Training Pearson r:0.229 AVG Test Loss:0.752 Test Pearson r:0.178
+Epoch:11/20 AVG Training Loss:0.946 Training Pearson r:0.225 AVG Test Loss:0.754 Test Pearson r:0.176
+Epoch:12/20 AVG Training Loss:0.944 Training Pearson r:0.229 AVG Test Loss:0.756 Test Pearson r:0.180
+Epoch:13/20 AVG Training Loss:0.943 Training Pearson r:0.231 AVG Test Loss:0.763 Test Pearson r:0.172
+Epoch:14/20 AVG Training Loss:0.944 Training Pearson r:0.228 AVG Test Loss:0.770 Test Pearson r:0.176
+Epoch:15/20 AVG Training Loss:0.944 Training Pearson r:0.230 AVG Test Loss:0.770 Test Pearson r:0.174
+Epoch:16/20 AVG Training Loss:0.947 Training Pearson r:0.223 AVG Test Loss:0.754 Test Pearson r:0.179
+Epoch:17/20 AVG Training Loss:0.944 Training Pearson r:0.228 AVG Test Loss:0.767 Test Pearson r:0.175
+Epoch:18/20 AVG Training Loss:0.946 Training Pearson r:0.224 AVG Test Loss:0.760 Test Pearson r:0.184
+Epoch:19/20 AVG Training Loss:0.942 Training Pearson r:0.234 AVG Test Loss:0.746 Test Pearson r:0.173
+Epoch:20/20 AVG Training Loss:0.944 Training Pearson r:0.228 AVG Test Loss:0.760 Test Pearson r:0.181
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.356
+MSE: 0.730
+Fold 3, k_feat 8
+X_train.shape:  (268, 8)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.994 Training Pearson r:0.111 AVG Test Loss:1.164 Test Pearson r:0.130
+Epoch:2/20 AVG Training Loss:0.984 Training Pearson r:0.145 AVG Test Loss:1.161 Test Pearson r:0.149
+Epoch:3/20 AVG Training Loss:0.983 Training Pearson r:0.147 AVG Test Loss:1.156 Test Pearson r:0.154
+Epoch:4/20 AVG Training Loss:0.982 Training Pearson r:0.150 AVG Test Loss:1.160 Test Pearson r:0.153
+Epoch:5/20 AVG Training Loss:0.981 Training Pearson r:0.154 AVG Test Loss:1.162 Test Pearson r:0.139
+Epoch:6/20 AVG Training Loss:0.980 Training Pearson r:0.156 AVG Test Loss:1.163 Test Pearson r:0.151
+Epoch:7/20 AVG Training Loss:0.979 Training Pearson r:0.158 AVG Test Loss:1.156 Test Pearson r:0.159
+Epoch:8/20 AVG Training Loss:0.981 Training Pearson r:0.153 AVG Test Loss:1.155 Test Pearson r:0.161
+Epoch:9/20 AVG Training Loss:0.980 Training Pearson r:0.157 AVG Test Loss:1.162 Test Pearson r:0.155
+Epoch:10/20 AVG Training Loss:0.980 Training Pearson r:0.157 AVG Test Loss:1.158 Test Pearson r:0.156
+Epoch:11/20 AVG Training Loss:0.980 Training Pearson r:0.155 AVG Test Loss:1.158 Test Pearson r:0.158
+Epoch:12/20 AVG Training Loss:0.979 Training Pearson r:0.158 AVG Test Loss:1.155 Test Pearson r:0.157
+Epoch:13/20 AVG Training Loss:0.979 Training Pearson r:0.158 AVG Test Loss:1.163 Test Pearson r:0.159
+Epoch:14/20 AVG Training Loss:0.979 Training Pearson r:0.158 AVG Test Loss:1.159 Test Pearson r:0.154
+Epoch:15/20 AVG Training Loss:0.978 Training Pearson r:0.161 AVG Test Loss:1.166 Test Pearson r:0.156
+Epoch:16/20 AVG Training Loss:0.979 Training Pearson r:0.158 AVG Test Loss:1.157 Test Pearson r:0.158
+Epoch:17/20 AVG Training Loss:0.980 Training Pearson r:0.157 AVG Test Loss:1.160 Test Pearson r:0.163
+Epoch:18/20 AVG Training Loss:0.979 Training Pearson r:0.157 AVG Test Loss:1.153 Test Pearson r:0.165
+Epoch:19/20 AVG Training Loss:0.978 Training Pearson r:0.161 AVG Test Loss:1.155 Test Pearson r:0.166
+Epoch:20/20 AVG Training Loss:0.979 Training Pearson r:0.158 AVG Test Loss:1.153 Test Pearson r:0.167
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.460
+MSE: 1.136
+Average pearson_r accross all folds = 0.4044670515826061
+Average mse accross all folds = 0.9600012338780776
+Fold 1, k_feat 16
+X_train.shape:  (268, 16)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.902 Training Pearson r:0.296 AVG Test Loss:1.027 Test Pearson r:0.282
+Epoch:2/20 AVG Training Loss:0.870 Training Pearson r:0.346 AVG Test Loss:1.012 Test Pearson r:0.294
+Epoch:3/20 AVG Training Loss:0.863 Training Pearson r:0.356 AVG Test Loss:0.991 Test Pearson r:0.312
+Epoch:4/20 AVG Training Loss:0.861 Training Pearson r:0.359 AVG Test Loss:0.998 Test Pearson r:0.309
+Epoch:5/20 AVG Training Loss:0.856 Training Pearson r:0.366 AVG Test Loss:0.997 Test Pearson r:0.318
+Epoch:6/20 AVG Training Loss:0.851 Training Pearson r:0.373 AVG Test Loss:0.981 Test Pearson r:0.308
+Epoch:7/20 AVG Training Loss:0.844 Training Pearson r:0.383 AVG Test Loss:0.993 Test Pearson r:0.306
+Epoch:8/20 AVG Training Loss:0.846 Training Pearson r:0.380 AVG Test Loss:0.990 Test Pearson r:0.312
+Epoch:9/20 AVG Training Loss:0.845 Training Pearson r:0.382 AVG Test Loss:0.978 Test Pearson r:0.322
+Epoch:10/20 AVG Training Loss:0.845 Training Pearson r:0.381 AVG Test Loss:0.988 Test Pearson r:0.313
+Epoch:11/20 AVG Training Loss:0.844 Training Pearson r:0.383 AVG Test Loss:0.990 Test Pearson r:0.322
+Epoch:12/20 AVG Training Loss:0.844 Training Pearson r:0.383 AVG Test Loss:0.986 Test Pearson r:0.317
+Epoch:13/20 AVG Training Loss:0.843 Training Pearson r:0.384 AVG Test Loss:0.968 Test Pearson r:0.318
+Epoch:14/20 AVG Training Loss:0.840 Training Pearson r:0.388 AVG Test Loss:0.987 Test Pearson r:0.326
+Epoch:15/20 AVG Training Loss:0.838 Training Pearson r:0.390 AVG Test Loss:0.968 Test Pearson r:0.319
+Epoch:16/20 AVG Training Loss:0.839 Training Pearson r:0.389 AVG Test Loss:0.990 Test Pearson r:0.300
+Epoch:17/20 AVG Training Loss:0.841 Training Pearson r:0.387 AVG Test Loss:0.992 Test Pearson r:0.323
+Epoch:18/20 AVG Training Loss:0.837 Training Pearson r:0.392 AVG Test Loss:1.000 Test Pearson r:0.323
+Epoch:19/20 AVG Training Loss:0.837 Training Pearson r:0.392 AVG Test Loss:1.001 Test Pearson r:0.300
+Epoch:20/20 AVG Training Loss:0.836 Training Pearson r:0.394 AVG Test Loss:1.004 Test Pearson r:0.307
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.654
+MSE: 0.823
+Fold 2, k_feat 16
+X_train.shape:  (268, 16)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.948 Training Pearson r:0.220 AVG Test Loss:0.726 Test Pearson r:0.227
+Epoch:2/20 AVG Training Loss:0.933 Training Pearson r:0.251 AVG Test Loss:0.739 Test Pearson r:0.262
+Epoch:3/20 AVG Training Loss:0.924 Training Pearson r:0.270 AVG Test Loss:0.708 Test Pearson r:0.268
+Epoch:4/20 AVG Training Loss:0.921 Training Pearson r:0.275 AVG Test Loss:0.728 Test Pearson r:0.267
+Epoch:5/20 AVG Training Loss:0.920 Training Pearson r:0.277 AVG Test Loss:0.733 Test Pearson r:0.258
+Epoch:6/20 AVG Training Loss:0.917 Training Pearson r:0.283 AVG Test Loss:0.732 Test Pearson r:0.247
+Epoch:7/20 AVG Training Loss:0.916 Training Pearson r:0.284 AVG Test Loss:0.726 Test Pearson r:0.251
+Epoch:8/20 AVG Training Loss:0.914 Training Pearson r:0.287 AVG Test Loss:0.716 Test Pearson r:0.264
+Epoch:9/20 AVG Training Loss:0.916 Training Pearson r:0.285 AVG Test Loss:0.725 Test Pearson r:0.275
+Epoch:10/20 AVG Training Loss:0.913 Training Pearson r:0.288 AVG Test Loss:0.722 Test Pearson r:0.273
+Epoch:11/20 AVG Training Loss:0.911 Training Pearson r:0.292 AVG Test Loss:0.743 Test Pearson r:0.279
+Epoch:12/20 AVG Training Loss:0.909 Training Pearson r:0.295 AVG Test Loss:0.717 Test Pearson r:0.275
+Epoch:13/20 AVG Training Loss:0.910 Training Pearson r:0.294 AVG Test Loss:0.735 Test Pearson r:0.266
+Epoch:14/20 AVG Training Loss:0.909 Training Pearson r:0.296 AVG Test Loss:0.735 Test Pearson r:0.283
+Epoch:15/20 AVG Training Loss:0.910 Training Pearson r:0.295 AVG Test Loss:0.713 Test Pearson r:0.273
+Epoch:16/20 AVG Training Loss:0.909 Training Pearson r:0.295 AVG Test Loss:0.708 Test Pearson r:0.281
+Epoch:17/20 AVG Training Loss:0.907 Training Pearson r:0.300 AVG Test Loss:0.737 Test Pearson r:0.251
+Epoch:18/20 AVG Training Loss:0.908 Training Pearson r:0.297 AVG Test Loss:0.718 Test Pearson r:0.276
+Epoch:19/20 AVG Training Loss:0.907 Training Pearson r:0.299 AVG Test Loss:0.714 Test Pearson r:0.280
+Epoch:20/20 AVG Training Loss:0.906 Training Pearson r:0.301 AVG Test Loss:0.726 Test Pearson r:0.281
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.546
+MSE: 0.688
+Fold 3, k_feat 16
+X_train.shape:  (268, 16)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.927 Training Pearson r:0.278 AVG Test Loss:1.092 Test Pearson r:0.286
+Epoch:2/20 AVG Training Loss:0.913 Training Pearson r:0.302 AVG Test Loss:1.086 Test Pearson r:0.288
+Epoch:3/20 AVG Training Loss:0.907 Training Pearson r:0.311 AVG Test Loss:1.080 Test Pearson r:0.296
+Epoch:4/20 AVG Training Loss:0.907 Training Pearson r:0.312 AVG Test Loss:1.089 Test Pearson r:0.289
+Epoch:5/20 AVG Training Loss:0.905 Training Pearson r:0.314 AVG Test Loss:1.088 Test Pearson r:0.293
+Epoch:6/20 AVG Training Loss:0.906 Training Pearson r:0.313 AVG Test Loss:1.084 Test Pearson r:0.292
+Epoch:7/20 AVG Training Loss:0.905 Training Pearson r:0.315 AVG Test Loss:1.082 Test Pearson r:0.294
+Epoch:8/20 AVG Training Loss:0.902 Training Pearson r:0.319 AVG Test Loss:1.085 Test Pearson r:0.289
+Epoch:9/20 AVG Training Loss:0.902 Training Pearson r:0.320 AVG Test Loss:1.083 Test Pearson r:0.293
+Epoch:10/20 AVG Training Loss:0.901 Training Pearson r:0.321 AVG Test Loss:1.086 Test Pearson r:0.292
+Epoch:11/20 AVG Training Loss:0.903 Training Pearson r:0.318 AVG Test Loss:1.086 Test Pearson r:0.293
+Epoch:12/20 AVG Training Loss:0.899 Training Pearson r:0.324 AVG Test Loss:1.089 Test Pearson r:0.287
+Epoch:13/20 AVG Training Loss:0.901 Training Pearson r:0.321 AVG Test Loss:1.082 Test Pearson r:0.297
+Epoch:14/20 AVG Training Loss:0.898 Training Pearson r:0.325 AVG Test Loss:1.084 Test Pearson r:0.293
+Epoch:15/20 AVG Training Loss:0.901 Training Pearson r:0.321 AVG Test Loss:1.086 Test Pearson r:0.293
+Epoch:16/20 AVG Training Loss:0.899 Training Pearson r:0.324 AVG Test Loss:1.085 Test Pearson r:0.295
+Epoch:17/20 AVG Training Loss:0.901 Training Pearson r:0.320 AVG Test Loss:1.083 Test Pearson r:0.294
+Epoch:18/20 AVG Training Loss:0.899 Training Pearson r:0.323 AVG Test Loss:1.077 Test Pearson r:0.303
+Epoch:19/20 AVG Training Loss:0.901 Training Pearson r:0.321 AVG Test Loss:1.079 Test Pearson r:0.299
+Epoch:20/20 AVG Training Loss:0.898 Training Pearson r:0.325 AVG Test Loss:1.082 Test Pearson r:0.298
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.573
+MSE: 1.007
+Average pearson_r accross all folds = 0.5911578323056085
+Average mse accross all folds = 0.8391854219779642
+Fold 1, k_feat 32
+X_train.shape:  (268, 32)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.892 Training Pearson r:0.312 AVG Test Loss:1.037 Test Pearson r:0.266
+Epoch:2/20 AVG Training Loss:0.854 Training Pearson r:0.370 AVG Test Loss:1.004 Test Pearson r:0.281
+Epoch:3/20 AVG Training Loss:0.845 Training Pearson r:0.381 AVG Test Loss:1.004 Test Pearson r:0.299
+Epoch:4/20 AVG Training Loss:0.838 Training Pearson r:0.391 AVG Test Loss:0.993 Test Pearson r:0.306
+Epoch:5/20 AVG Training Loss:0.834 Training Pearson r:0.396 AVG Test Loss:0.998 Test Pearson r:0.322
+Epoch:6/20 AVG Training Loss:0.830 Training Pearson r:0.400 AVG Test Loss:1.028 Test Pearson r:0.292
+Epoch:7/20 AVG Training Loss:0.825 Training Pearson r:0.406 AVG Test Loss:0.994 Test Pearson r:0.316
+Epoch:8/20 AVG Training Loss:0.823 Training Pearson r:0.409 AVG Test Loss:0.987 Test Pearson r:0.320
+Epoch:9/20 AVG Training Loss:0.816 Training Pearson r:0.419 AVG Test Loss:0.976 Test Pearson r:0.322
+Epoch:10/20 AVG Training Loss:0.817 Training Pearson r:0.417 AVG Test Loss:0.979 Test Pearson r:0.317
+Epoch:11/20 AVG Training Loss:0.817 Training Pearson r:0.417 AVG Test Loss:1.007 Test Pearson r:0.302
+Epoch:12/20 AVG Training Loss:0.815 Training Pearson r:0.419 AVG Test Loss:0.989 Test Pearson r:0.317
+Epoch:13/20 AVG Training Loss:0.813 Training Pearson r:0.422 AVG Test Loss:0.998 Test Pearson r:0.323
+Epoch:14/20 AVG Training Loss:0.805 Training Pearson r:0.431 AVG Test Loss:0.989 Test Pearson r:0.318
+Epoch:15/20 AVG Training Loss:0.813 Training Pearson r:0.422 AVG Test Loss:0.969 Test Pearson r:0.317
+Epoch:16/20 AVG Training Loss:0.807 Training Pearson r:0.429 AVG Test Loss:0.979 Test Pearson r:0.319
+Epoch:17/20 AVG Training Loss:0.809 Training Pearson r:0.426 AVG Test Loss:1.004 Test Pearson r:0.326
+Epoch:18/20 AVG Training Loss:0.802 Training Pearson r:0.434 AVG Test Loss:1.014 Test Pearson r:0.317
+Epoch:19/20 AVG Training Loss:0.804 Training Pearson r:0.432 AVG Test Loss:0.983 Test Pearson r:0.327
+Epoch:20/20 AVG Training Loss:0.808 Training Pearson r:0.427 AVG Test Loss:0.996 Test Pearson r:0.319
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.622
+MSE: 0.805
+Fold 2, k_feat 32
+X_train.shape:  (268, 32)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.951 Training Pearson r:0.214 AVG Test Loss:0.731 Test Pearson r:0.277
+Epoch:2/20 AVG Training Loss:0.921 Training Pearson r:0.276 AVG Test Loss:0.715 Test Pearson r:0.294
+Epoch:3/20 AVG Training Loss:0.915 Training Pearson r:0.286 AVG Test Loss:0.682 Test Pearson r:0.315
+Epoch:4/20 AVG Training Loss:0.905 Training Pearson r:0.302 AVG Test Loss:0.687 Test Pearson r:0.306
+Epoch:5/20 AVG Training Loss:0.903 Training Pearson r:0.306 AVG Test Loss:0.702 Test Pearson r:0.298
+Epoch:6/20 AVG Training Loss:0.897 Training Pearson r:0.316 AVG Test Loss:0.698 Test Pearson r:0.311
+Epoch:7/20 AVG Training Loss:0.896 Training Pearson r:0.317 AVG Test Loss:0.706 Test Pearson r:0.306
+Epoch:8/20 AVG Training Loss:0.894 Training Pearson r:0.320 AVG Test Loss:0.686 Test Pearson r:0.328
+Epoch:9/20 AVG Training Loss:0.891 Training Pearson r:0.324 AVG Test Loss:0.694 Test Pearson r:0.308
+Epoch:10/20 AVG Training Loss:0.890 Training Pearson r:0.326 AVG Test Loss:0.700 Test Pearson r:0.308
+Epoch:11/20 AVG Training Loss:0.887 Training Pearson r:0.331 AVG Test Loss:0.711 Test Pearson r:0.305
+Epoch:12/20 AVG Training Loss:0.887 Training Pearson r:0.331 AVG Test Loss:0.703 Test Pearson r:0.333
+Epoch:13/20 AVG Training Loss:0.887 Training Pearson r:0.331 AVG Test Loss:0.701 Test Pearson r:0.325
+Epoch:14/20 AVG Training Loss:0.880 Training Pearson r:0.341 AVG Test Loss:0.700 Test Pearson r:0.310
+Epoch:15/20 AVG Training Loss:0.882 Training Pearson r:0.338 AVG Test Loss:0.704 Test Pearson r:0.311
+Epoch:16/20 AVG Training Loss:0.878 Training Pearson r:0.345 AVG Test Loss:0.696 Test Pearson r:0.320
+Epoch:17/20 AVG Training Loss:0.876 Training Pearson r:0.347 AVG Test Loss:0.696 Test Pearson r:0.316
+Epoch:18/20 AVG Training Loss:0.872 Training Pearson r:0.353 AVG Test Loss:0.688 Test Pearson r:0.331
+Epoch:19/20 AVG Training Loss:0.874 Training Pearson r:0.350 AVG Test Loss:0.692 Test Pearson r:0.310
+Epoch:20/20 AVG Training Loss:0.875 Training Pearson r:0.349 AVG Test Loss:0.689 Test Pearson r:0.318
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.623
+MSE: 0.637
+Fold 3, k_feat 32
+X_train.shape:  (268, 32)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.926 Training Pearson r:0.280 AVG Test Loss:1.095 Test Pearson r:0.285
+Epoch:2/20 AVG Training Loss:0.901 Training Pearson r:0.322 AVG Test Loss:1.100 Test Pearson r:0.287
+Epoch:3/20 AVG Training Loss:0.898 Training Pearson r:0.325 AVG Test Loss:1.073 Test Pearson r:0.310
+Epoch:4/20 AVG Training Loss:0.896 Training Pearson r:0.328 AVG Test Loss:1.092 Test Pearson r:0.293
+Epoch:5/20 AVG Training Loss:0.895 Training Pearson r:0.330 AVG Test Loss:1.081 Test Pearson r:0.301
+Epoch:6/20 AVG Training Loss:0.891 Training Pearson r:0.336 AVG Test Loss:1.073 Test Pearson r:0.306
+Epoch:7/20 AVG Training Loss:0.889 Training Pearson r:0.338 AVG Test Loss:1.073 Test Pearson r:0.312
+Epoch:8/20 AVG Training Loss:0.885 Training Pearson r:0.344 AVG Test Loss:1.071 Test Pearson r:0.310
+Epoch:9/20 AVG Training Loss:0.884 Training Pearson r:0.346 AVG Test Loss:1.071 Test Pearson r:0.310
+Epoch:10/20 AVG Training Loss:0.884 Training Pearson r:0.346 AVG Test Loss:1.064 Test Pearson r:0.321
+Epoch:11/20 AVG Training Loss:0.883 Training Pearson r:0.347 AVG Test Loss:1.080 Test Pearson r:0.304
+Epoch:12/20 AVG Training Loss:0.881 Training Pearson r:0.350 AVG Test Loss:1.065 Test Pearson r:0.319
+Epoch:13/20 AVG Training Loss:0.883 Training Pearson r:0.347 AVG Test Loss:1.075 Test Pearson r:0.305
+Epoch:14/20 AVG Training Loss:0.879 Training Pearson r:0.353 AVG Test Loss:1.081 Test Pearson r:0.312
+Epoch:15/20 AVG Training Loss:0.882 Training Pearson r:0.349 AVG Test Loss:1.079 Test Pearson r:0.305
+Epoch:16/20 AVG Training Loss:0.879 Training Pearson r:0.353 AVG Test Loss:1.073 Test Pearson r:0.312
+Epoch:17/20 AVG Training Loss:0.879 Training Pearson r:0.353 AVG Test Loss:1.072 Test Pearson r:0.315
+Epoch:18/20 AVG Training Loss:0.882 Training Pearson r:0.350 AVG Test Loss:1.069 Test Pearson r:0.316
+Epoch:19/20 AVG Training Loss:0.879 Training Pearson r:0.354 AVG Test Loss:1.066 Test Pearson r:0.316
+Epoch:20/20 AVG Training Loss:0.876 Training Pearson r:0.357 AVG Test Loss:1.065 Test Pearson r:0.318
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.603
+MSE: 0.981
+Average pearson_r accross all folds = 0.6161774892522414
+Average mse accross all folds = 0.8078918156851834
+Fold 1, k_feat 64
+X_train.shape:  (268, 64)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.881 Training Pearson r:0.331 AVG Test Loss:1.012 Test Pearson r:0.273
+Epoch:2/20 AVG Training Loss:0.837 Training Pearson r:0.392 AVG Test Loss:1.026 Test Pearson r:0.292
+Epoch:3/20 AVG Training Loss:0.818 Training Pearson r:0.415 AVG Test Loss:0.996 Test Pearson r:0.314
+Epoch:4/20 AVG Training Loss:0.810 Training Pearson r:0.425 AVG Test Loss:1.001 Test Pearson r:0.302
+Epoch:5/20 AVG Training Loss:0.808 Training Pearson r:0.427 AVG Test Loss:0.982 Test Pearson r:0.323
+Epoch:6/20 AVG Training Loss:0.793 Training Pearson r:0.445 AVG Test Loss:0.979 Test Pearson r:0.322
+Epoch:7/20 AVG Training Loss:0.793 Training Pearson r:0.445 AVG Test Loss:1.009 Test Pearson r:0.318
+Epoch:8/20 AVG Training Loss:0.783 Training Pearson r:0.456 AVG Test Loss:0.985 Test Pearson r:0.319
+Epoch:9/20 AVG Training Loss:0.782 Training Pearson r:0.457 AVG Test Loss:0.964 Test Pearson r:0.329
+Epoch:10/20 AVG Training Loss:0.781 Training Pearson r:0.458 AVG Test Loss:0.991 Test Pearson r:0.310
+Epoch:11/20 AVG Training Loss:0.774 Training Pearson r:0.466 AVG Test Loss:1.003 Test Pearson r:0.319
+Epoch:12/20 AVG Training Loss:0.768 Training Pearson r:0.472 AVG Test Loss:0.970 Test Pearson r:0.325
+Epoch:13/20 AVG Training Loss:0.766 Training Pearson r:0.475 AVG Test Loss:1.011 Test Pearson r:0.319
+Epoch:14/20 AVG Training Loss:0.767 Training Pearson r:0.474 AVG Test Loss:0.982 Test Pearson r:0.330
+Epoch:15/20 AVG Training Loss:0.764 Training Pearson r:0.477 AVG Test Loss:0.999 Test Pearson r:0.315
+Epoch:16/20 AVG Training Loss:0.759 Training Pearson r:0.482 AVG Test Loss:0.989 Test Pearson r:0.316
+Epoch:17/20 AVG Training Loss:0.765 Training Pearson r:0.475 AVG Test Loss:0.979 Test Pearson r:0.313
+Epoch:18/20 AVG Training Loss:0.755 Training Pearson r:0.486 AVG Test Loss:0.988 Test Pearson r:0.318
+Epoch:19/20 AVG Training Loss:0.761 Training Pearson r:0.480 AVG Test Loss:1.002 Test Pearson r:0.320
+Epoch:20/20 AVG Training Loss:0.754 Training Pearson r:0.487 AVG Test Loss:0.971 Test Pearson r:0.333
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.640
+MSE: 0.776
+Fold 2, k_feat 64
+X_train.shape:  (268, 64)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.934 Training Pearson r:0.250 AVG Test Loss:0.703 Test Pearson r:0.332
+Epoch:2/20 AVG Training Loss:0.876 Training Pearson r:0.347 AVG Test Loss:0.664 Test Pearson r:0.356
+Epoch:3/20 AVG Training Loss:0.857 Training Pearson r:0.373 AVG Test Loss:0.674 Test Pearson r:0.363
+Epoch:4/20 AVG Training Loss:0.849 Training Pearson r:0.384 AVG Test Loss:0.684 Test Pearson r:0.365
+Epoch:5/20 AVG Training Loss:0.840 Training Pearson r:0.396 AVG Test Loss:0.683 Test Pearson r:0.360
+Epoch:6/20 AVG Training Loss:0.838 Training Pearson r:0.398 AVG Test Loss:0.660 Test Pearson r:0.359
+Epoch:7/20 AVG Training Loss:0.833 Training Pearson r:0.405 AVG Test Loss:0.655 Test Pearson r:0.370
+Epoch:8/20 AVG Training Loss:0.827 Training Pearson r:0.412 AVG Test Loss:0.666 Test Pearson r:0.360
+Epoch:9/20 AVG Training Loss:0.830 Training Pearson r:0.408 AVG Test Loss:0.657 Test Pearson r:0.372
+Epoch:10/20 AVG Training Loss:0.822 Training Pearson r:0.418 AVG Test Loss:0.673 Test Pearson r:0.369
+Epoch:11/20 AVG Training Loss:0.818 Training Pearson r:0.423 AVG Test Loss:0.668 Test Pearson r:0.372
+Epoch:12/20 AVG Training Loss:0.817 Training Pearson r:0.424 AVG Test Loss:0.673 Test Pearson r:0.349
+Epoch:13/20 AVG Training Loss:0.816 Training Pearson r:0.426 AVG Test Loss:0.656 Test Pearson r:0.373
+Epoch:14/20 AVG Training Loss:0.812 Training Pearson r:0.429 AVG Test Loss:0.668 Test Pearson r:0.377
+Epoch:15/20 AVG Training Loss:0.812 Training Pearson r:0.430 AVG Test Loss:0.663 Test Pearson r:0.371
+Epoch:16/20 AVG Training Loss:0.809 Training Pearson r:0.433 AVG Test Loss:0.651 Test Pearson r:0.383
+Epoch:17/20 AVG Training Loss:0.807 Training Pearson r:0.436 AVG Test Loss:0.674 Test Pearson r:0.367
+Epoch:18/20 AVG Training Loss:0.803 Training Pearson r:0.441 AVG Test Loss:0.660 Test Pearson r:0.375
+Epoch:19/20 AVG Training Loss:0.803 Training Pearson r:0.441 AVG Test Loss:0.665 Test Pearson r:0.372
+Epoch:20/20 AVG Training Loss:0.805 Training Pearson r:0.438 AVG Test Loss:0.663 Test Pearson r:0.383
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.643
+MSE: 0.562
+Fold 3, k_feat 64
+X_train.shape:  (268, 64)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.899 Training Pearson r:0.325 AVG Test Loss:1.053 Test Pearson r:0.335
+Epoch:2/20 AVG Training Loss:0.874 Training Pearson r:0.360 AVG Test Loss:1.040 Test Pearson r:0.351
+Epoch:3/20 AVG Training Loss:0.867 Training Pearson r:0.370 AVG Test Loss:1.039 Test Pearson r:0.355
+Epoch:4/20 AVG Training Loss:0.865 Training Pearson r:0.373 AVG Test Loss:1.042 Test Pearson r:0.353
+Epoch:5/20 AVG Training Loss:0.861 Training Pearson r:0.377 AVG Test Loss:1.037 Test Pearson r:0.352
+Epoch:6/20 AVG Training Loss:0.858 Training Pearson r:0.382 AVG Test Loss:1.033 Test Pearson r:0.361
+Epoch:7/20 AVG Training Loss:0.853 Training Pearson r:0.388 AVG Test Loss:1.031 Test Pearson r:0.361
+Epoch:8/20 AVG Training Loss:0.851 Training Pearson r:0.391 AVG Test Loss:1.022 Test Pearson r:0.370
+Epoch:9/20 AVG Training Loss:0.850 Training Pearson r:0.391 AVG Test Loss:1.035 Test Pearson r:0.358
+Epoch:10/20 AVG Training Loss:0.845 Training Pearson r:0.398 AVG Test Loss:1.022 Test Pearson r:0.372
+Epoch:11/20 AVG Training Loss:0.843 Training Pearson r:0.400 AVG Test Loss:1.031 Test Pearson r:0.361
+Epoch:12/20 AVG Training Loss:0.845 Training Pearson r:0.398 AVG Test Loss:1.032 Test Pearson r:0.364
+Epoch:13/20 AVG Training Loss:0.846 Training Pearson r:0.397 AVG Test Loss:1.022 Test Pearson r:0.371
+Epoch:14/20 AVG Training Loss:0.838 Training Pearson r:0.406 AVG Test Loss:1.023 Test Pearson r:0.369
+Epoch:15/20 AVG Training Loss:0.840 Training Pearson r:0.405 AVG Test Loss:1.027 Test Pearson r:0.368
+Epoch:16/20 AVG Training Loss:0.840 Training Pearson r:0.404 AVG Test Loss:1.018 Test Pearson r:0.378
+Epoch:17/20 AVG Training Loss:0.836 Training Pearson r:0.409 AVG Test Loss:1.029 Test Pearson r:0.366
+Epoch:18/20 AVG Training Loss:0.837 Training Pearson r:0.409 AVG Test Loss:1.022 Test Pearson r:0.373
+Epoch:19/20 AVG Training Loss:0.835 Training Pearson r:0.410 AVG Test Loss:1.020 Test Pearson r:0.374
+Epoch:20/20 AVG Training Loss:0.836 Training Pearson r:0.409 AVG Test Loss:1.022 Test Pearson r:0.370
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.669
+MSE: 0.902
+Average pearson_r accross all folds = 0.6506384313251149
+Average mse accross all folds = 0.7465562051606396
+Fold 1, k_feat 128
+X_train.shape:  (268, 128)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.850 Training Pearson r:0.375 AVG Test Loss:1.027 Test Pearson r:0.290
+Epoch:2/20 AVG Training Loss:0.803 Training Pearson r:0.434 AVG Test Loss:0.989 Test Pearson r:0.337
+Epoch:3/20 AVG Training Loss:0.782 Training Pearson r:0.457 AVG Test Loss:0.976 Test Pearson r:0.331
+Epoch:4/20 AVG Training Loss:0.769 Training Pearson r:0.472 AVG Test Loss:0.995 Test Pearson r:0.344
+Epoch:5/20 AVG Training Loss:0.755 Training Pearson r:0.487 AVG Test Loss:0.951 Test Pearson r:0.362
+Epoch:6/20 AVG Training Loss:0.747 Training Pearson r:0.494 AVG Test Loss:0.962 Test Pearson r:0.353
+Epoch:7/20 AVG Training Loss:0.736 Training Pearson r:0.505 AVG Test Loss:0.985 Test Pearson r:0.351
+Epoch:8/20 AVG Training Loss:0.734 Training Pearson r:0.508 AVG Test Loss:0.960 Test Pearson r:0.355
+Epoch:9/20 AVG Training Loss:0.731 Training Pearson r:0.511 AVG Test Loss:0.987 Test Pearson r:0.354
+Epoch:10/20 AVG Training Loss:0.723 Training Pearson r:0.519 AVG Test Loss:0.937 Test Pearson r:0.359
+Epoch:11/20 AVG Training Loss:0.710 Training Pearson r:0.531 AVG Test Loss:0.988 Test Pearson r:0.353
+Epoch:12/20 AVG Training Loss:0.705 Training Pearson r:0.535 AVG Test Loss:0.955 Test Pearson r:0.359
+Epoch:13/20 AVG Training Loss:0.703 Training Pearson r:0.537 AVG Test Loss:0.941 Test Pearson r:0.366
+Epoch:14/20 AVG Training Loss:0.699 Training Pearson r:0.541 AVG Test Loss:0.959 Test Pearson r:0.358
+Epoch:15/20 AVG Training Loss:0.699 Training Pearson r:0.541 AVG Test Loss:0.992 Test Pearson r:0.357
+Epoch:16/20 AVG Training Loss:0.693 Training Pearson r:0.547 AVG Test Loss:0.957 Test Pearson r:0.360
+Epoch:17/20 AVG Training Loss:0.696 Training Pearson r:0.544 AVG Test Loss:0.987 Test Pearson r:0.358
+Epoch:18/20 AVG Training Loss:0.689 Training Pearson r:0.550 AVG Test Loss:0.965 Test Pearson r:0.372
+Epoch:19/20 AVG Training Loss:0.688 Training Pearson r:0.551 AVG Test Loss:0.967 Test Pearson r:0.359
+Epoch:20/20 AVG Training Loss:0.688 Training Pearson r:0.552 AVG Test Loss:0.948 Test Pearson r:0.369
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.671
+MSE: 0.706
+Fold 2, k_feat 128
+X_train.shape:  (268, 128)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.887 Training Pearson r:0.331 AVG Test Loss:0.671 Test Pearson r:0.359
+Epoch:2/20 AVG Training Loss:0.849 Training Pearson r:0.384 AVG Test Loss:0.665 Test Pearson r:0.363
+Epoch:3/20 AVG Training Loss:0.827 Training Pearson r:0.412 AVG Test Loss:0.656 Test Pearson r:0.380
+Epoch:4/20 AVG Training Loss:0.815 Training Pearson r:0.427 AVG Test Loss:0.651 Test Pearson r:0.390
+Epoch:5/20 AVG Training Loss:0.810 Training Pearson r:0.432 AVG Test Loss:0.657 Test Pearson r:0.386
+Epoch:6/20 AVG Training Loss:0.802 Training Pearson r:0.441 AVG Test Loss:0.666 Test Pearson r:0.382
+Epoch:7/20 AVG Training Loss:0.791 Training Pearson r:0.454 AVG Test Loss:0.671 Test Pearson r:0.371
+Epoch:8/20 AVG Training Loss:0.787 Training Pearson r:0.459 AVG Test Loss:0.661 Test Pearson r:0.376
+Epoch:9/20 AVG Training Loss:0.781 Training Pearson r:0.465 AVG Test Loss:0.656 Test Pearson r:0.379
+Epoch:10/20 AVG Training Loss:0.775 Training Pearson r:0.471 AVG Test Loss:0.680 Test Pearson r:0.392
+Epoch:11/20 AVG Training Loss:0.777 Training Pearson r:0.469 AVG Test Loss:0.671 Test Pearson r:0.380
+Epoch:12/20 AVG Training Loss:0.770 Training Pearson r:0.477 AVG Test Loss:0.684 Test Pearson r:0.376
+Epoch:13/20 AVG Training Loss:0.766 Training Pearson r:0.481 AVG Test Loss:0.684 Test Pearson r:0.361
+Epoch:14/20 AVG Training Loss:0.762 Training Pearson r:0.485 AVG Test Loss:0.669 Test Pearson r:0.379
+Epoch:15/20 AVG Training Loss:0.759 Training Pearson r:0.488 AVG Test Loss:0.674 Test Pearson r:0.372
+Epoch:16/20 AVG Training Loss:0.760 Training Pearson r:0.487 AVG Test Loss:0.708 Test Pearson r:0.365
+Epoch:17/20 AVG Training Loss:0.753 Training Pearson r:0.494 AVG Test Loss:0.690 Test Pearson r:0.377
+Epoch:18/20 AVG Training Loss:0.750 Training Pearson r:0.497 AVG Test Loss:0.704 Test Pearson r:0.351
+Epoch:19/20 AVG Training Loss:0.750 Training Pearson r:0.497 AVG Test Loss:0.709 Test Pearson r:0.358
+Epoch:20/20 AVG Training Loss:0.748 Training Pearson r:0.499 AVG Test Loss:0.700 Test Pearson r:0.365
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.661
+MSE: 0.582
+Fold 3, k_feat 128
+X_train.shape:  (268, 128)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.886 Training Pearson r:0.343 AVG Test Loss:1.032 Test Pearson r:0.365
+Epoch:2/20 AVG Training Loss:0.851 Training Pearson r:0.390 AVG Test Loss:1.016 Test Pearson r:0.379
+Epoch:3/20 AVG Training Loss:0.835 Training Pearson r:0.410 AVG Test Loss:1.007 Test Pearson r:0.386
+Epoch:4/20 AVG Training Loss:0.827 Training Pearson r:0.420 AVG Test Loss:0.985 Test Pearson r:0.415
+Epoch:5/20 AVG Training Loss:0.815 Training Pearson r:0.434 AVG Test Loss:0.998 Test Pearson r:0.400
+Epoch:6/20 AVG Training Loss:0.802 Training Pearson r:0.449 AVG Test Loss:0.988 Test Pearson r:0.415
+Epoch:7/20 AVG Training Loss:0.801 Training Pearson r:0.450 AVG Test Loss:0.987 Test Pearson r:0.410
+Epoch:8/20 AVG Training Loss:0.795 Training Pearson r:0.456 AVG Test Loss:0.995 Test Pearson r:0.400
+Epoch:9/20 AVG Training Loss:0.794 Training Pearson r:0.458 AVG Test Loss:0.981 Test Pearson r:0.418
+Epoch:10/20 AVG Training Loss:0.789 Training Pearson r:0.463 AVG Test Loss:0.994 Test Pearson r:0.403
+Epoch:11/20 AVG Training Loss:0.780 Training Pearson r:0.472 AVG Test Loss:0.974 Test Pearson r:0.422
+Epoch:12/20 AVG Training Loss:0.779 Training Pearson r:0.473 AVG Test Loss:0.977 Test Pearson r:0.418
+Epoch:13/20 AVG Training Loss:0.776 Training Pearson r:0.476 AVG Test Loss:0.966 Test Pearson r:0.429
+Epoch:14/20 AVG Training Loss:0.768 Training Pearson r:0.485 AVG Test Loss:0.973 Test Pearson r:0.423
+Epoch:15/20 AVG Training Loss:0.774 Training Pearson r:0.479 AVG Test Loss:0.983 Test Pearson r:0.412
+Epoch:16/20 AVG Training Loss:0.768 Training Pearson r:0.485 AVG Test Loss:0.966 Test Pearson r:0.429
+Epoch:17/20 AVG Training Loss:0.764 Training Pearson r:0.489 AVG Test Loss:0.978 Test Pearson r:0.417
+Epoch:18/20 AVG Training Loss:0.762 Training Pearson r:0.491 AVG Test Loss:0.990 Test Pearson r:0.407
+Epoch:19/20 AVG Training Loss:0.762 Training Pearson r:0.491 AVG Test Loss:0.978 Test Pearson r:0.417
+Epoch:20/20 AVG Training Loss:0.763 Training Pearson r:0.490 AVG Test Loss:0.987 Test Pearson r:0.411
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.716
+MSE: 0.835
+Average pearson_r accross all folds = 0.6824822240425784
+Average mse accross all folds = 0.7078231470848867
+Fold 1, k_feat 256
+X_train.shape:  (268, 256)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.831 Training Pearson r:0.399 AVG Test Loss:1.000 Test Pearson r:0.326
+Epoch:2/20 AVG Training Loss:0.756 Training Pearson r:0.485 AVG Test Loss:0.995 Test Pearson r:0.326
+Epoch:3/20 AVG Training Loss:0.723 Training Pearson r:0.518 AVG Test Loss:1.000 Test Pearson r:0.316
+Epoch:4/20 AVG Training Loss:0.695 Training Pearson r:0.545 AVG Test Loss:1.003 Test Pearson r:0.343
+Epoch:5/20 AVG Training Loss:0.675 Training Pearson r:0.563 AVG Test Loss:1.000 Test Pearson r:0.351
+Epoch:6/20 AVG Training Loss:0.661 Training Pearson r:0.576 AVG Test Loss:0.986 Test Pearson r:0.355
+Epoch:7/20 AVG Training Loss:0.649 Training Pearson r:0.586 AVG Test Loss:1.056 Test Pearson r:0.322
+Epoch:8/20 AVG Training Loss:0.638 Training Pearson r:0.596 AVG Test Loss:1.027 Test Pearson r:0.329
+Epoch:9/20 AVG Training Loss:0.625 Training Pearson r:0.607 AVG Test Loss:1.042 Test Pearson r:0.322
+Epoch:10/20 AVG Training Loss:0.616 Training Pearson r:0.614 AVG Test Loss:1.048 Test Pearson r:0.307
+Epoch:11/20 AVG Training Loss:0.605 Training Pearson r:0.623 AVG Test Loss:1.003 Test Pearson r:0.321
+Epoch:12/20 AVG Training Loss:0.600 Training Pearson r:0.627 AVG Test Loss:1.061 Test Pearson r:0.292
+Epoch:13/20 AVG Training Loss:0.591 Training Pearson r:0.634 AVG Test Loss:1.095 Test Pearson r:0.314
+Epoch:14/20 AVG Training Loss:0.581 Training Pearson r:0.642 AVG Test Loss:1.074 Test Pearson r:0.315
+Epoch:15/20 AVG Training Loss:0.578 Training Pearson r:0.644 AVG Test Loss:1.114 Test Pearson r:0.294
+Epoch:16/20 AVG Training Loss:0.573 Training Pearson r:0.649 AVG Test Loss:1.070 Test Pearson r:0.305
+Epoch:17/20 AVG Training Loss:0.569 Training Pearson r:0.652 AVG Test Loss:1.122 Test Pearson r:0.291
+Epoch:18/20 AVG Training Loss:0.564 Training Pearson r:0.655 AVG Test Loss:1.087 Test Pearson r:0.298
+Epoch:19/20 AVG Training Loss:0.564 Training Pearson r:0.655 AVG Test Loss:1.094 Test Pearson r:0.283
+Epoch:20/20 AVG Training Loss:0.558 Training Pearson r:0.660 AVG Test Loss:1.200 Test Pearson r:0.278
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.605
+MSE: 0.774
+Fold 2, k_feat 256
+X_train.shape:  (268, 256)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.864 Training Pearson r:0.365 AVG Test Loss:0.648 Test Pearson r:0.421
+Epoch:2/20 AVG Training Loss:0.802 Training Pearson r:0.441 AVG Test Loss:0.621 Test Pearson r:0.437
+Epoch:3/20 AVG Training Loss:0.772 Training Pearson r:0.474 AVG Test Loss:0.624 Test Pearson r:0.442
+Epoch:4/20 AVG Training Loss:0.751 Training Pearson r:0.496 AVG Test Loss:0.634 Test Pearson r:0.445
+Epoch:5/20 AVG Training Loss:0.731 Training Pearson r:0.516 AVG Test Loss:0.609 Test Pearson r:0.454
+Epoch:6/20 AVG Training Loss:0.721 Training Pearson r:0.526 AVG Test Loss:0.617 Test Pearson r:0.459
+Epoch:7/20 AVG Training Loss:0.713 Training Pearson r:0.533 AVG Test Loss:0.624 Test Pearson r:0.436
+Epoch:8/20 AVG Training Loss:0.700 Training Pearson r:0.546 AVG Test Loss:0.618 Test Pearson r:0.453
+Epoch:9/20 AVG Training Loss:0.697 Training Pearson r:0.548 AVG Test Loss:0.627 Test Pearson r:0.452
+Epoch:10/20 AVG Training Loss:0.686 Training Pearson r:0.558 AVG Test Loss:0.626 Test Pearson r:0.454
+Epoch:11/20 AVG Training Loss:0.681 Training Pearson r:0.562 AVG Test Loss:0.677 Test Pearson r:0.442
+Epoch:12/20 AVG Training Loss:0.681 Training Pearson r:0.562 AVG Test Loss:0.625 Test Pearson r:0.452
+Epoch:13/20 AVG Training Loss:0.673 Training Pearson r:0.570 AVG Test Loss:0.675 Test Pearson r:0.448
+Epoch:14/20 AVG Training Loss:0.672 Training Pearson r:0.571 AVG Test Loss:0.614 Test Pearson r:0.441
+Epoch:15/20 AVG Training Loss:0.666 Training Pearson r:0.576 AVG Test Loss:0.653 Test Pearson r:0.436
+Epoch:16/20 AVG Training Loss:0.658 Training Pearson r:0.583 AVG Test Loss:0.646 Test Pearson r:0.436
+Epoch:17/20 AVG Training Loss:0.655 Training Pearson r:0.585 AVG Test Loss:0.619 Test Pearson r:0.454
+Epoch:18/20 AVG Training Loss:0.652 Training Pearson r:0.588 AVG Test Loss:0.641 Test Pearson r:0.440
+Epoch:19/20 AVG Training Loss:0.649 Training Pearson r:0.591 AVG Test Loss:0.637 Test Pearson r:0.428
+Epoch:20/20 AVG Training Loss:0.649 Training Pearson r:0.590 AVG Test Loss:0.639 Test Pearson r:0.448
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.724
+MSE: 0.467
+Fold 3, k_feat 256
+X_train.shape:  (268, 256)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.857 Training Pearson r:0.384 AVG Test Loss:0.962 Test Pearson r:0.436
+Epoch:2/20 AVG Training Loss:0.802 Training Pearson r:0.449 AVG Test Loss:0.983 Test Pearson r:0.428
+Epoch:3/20 AVG Training Loss:0.779 Training Pearson r:0.473 AVG Test Loss:0.960 Test Pearson r:0.438
+Epoch:4/20 AVG Training Loss:0.760 Training Pearson r:0.493 AVG Test Loss:0.995 Test Pearson r:0.441
+Epoch:5/20 AVG Training Loss:0.743 Training Pearson r:0.510 AVG Test Loss:0.956 Test Pearson r:0.447
+Epoch:6/20 AVG Training Loss:0.734 Training Pearson r:0.519 AVG Test Loss:0.936 Test Pearson r:0.458
+Epoch:7/20 AVG Training Loss:0.725 Training Pearson r:0.528 AVG Test Loss:0.951 Test Pearson r:0.447
+Epoch:8/20 AVG Training Loss:0.716 Training Pearson r:0.536 AVG Test Loss:0.952 Test Pearson r:0.445
+Epoch:9/20 AVG Training Loss:0.705 Training Pearson r:0.546 AVG Test Loss:0.942 Test Pearson r:0.456
+Epoch:10/20 AVG Training Loss:0.693 Training Pearson r:0.557 AVG Test Loss:0.944 Test Pearson r:0.451
+Epoch:11/20 AVG Training Loss:0.690 Training Pearson r:0.559 AVG Test Loss:0.946 Test Pearson r:0.451
+Epoch:12/20 AVG Training Loss:0.680 Training Pearson r:0.568 AVG Test Loss:0.959 Test Pearson r:0.436
+Epoch:13/20 AVG Training Loss:0.682 Training Pearson r:0.566 AVG Test Loss:0.970 Test Pearson r:0.438
+Epoch:14/20 AVG Training Loss:0.671 Training Pearson r:0.576 AVG Test Loss:0.949 Test Pearson r:0.450
+Epoch:15/20 AVG Training Loss:0.667 Training Pearson r:0.580 AVG Test Loss:0.949 Test Pearson r:0.453
+Epoch:16/20 AVG Training Loss:0.661 Training Pearson r:0.585 AVG Test Loss:0.952 Test Pearson r:0.446
+Epoch:17/20 AVG Training Loss:0.658 Training Pearson r:0.587 AVG Test Loss:0.957 Test Pearson r:0.441
+Epoch:18/20 AVG Training Loss:0.656 Training Pearson r:0.589 AVG Test Loss:0.951 Test Pearson r:0.446
+Epoch:19/20 AVG Training Loss:0.651 Training Pearson r:0.593 AVG Test Loss:0.979 Test Pearson r:0.438
+Epoch:20/20 AVG Training Loss:0.650 Training Pearson r:0.594 AVG Test Loss:0.958 Test Pearson r:0.440
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.749
+MSE: 0.753
+Average pearson_r accross all folds = 0.692573216431556
+Average mse accross all folds = 0.6648729177156444
+Fold 1, k_feat 512
+X_train.shape:  (268, 512)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.793 Training Pearson r:0.445 AVG Test Loss:0.998 Test Pearson r:0.315
+Epoch:2/20 AVG Training Loss:0.713 Training Pearson r:0.528 AVG Test Loss:0.990 Test Pearson r:0.359
+Epoch:3/20 AVG Training Loss:0.680 Training Pearson r:0.559 AVG Test Loss:1.001 Test Pearson r:0.338
+Epoch:4/20 AVG Training Loss:0.649 Training Pearson r:0.587 AVG Test Loss:1.004 Test Pearson r:0.322
+Epoch:5/20 AVG Training Loss:0.623 Training Pearson r:0.609 AVG Test Loss:1.026 Test Pearson r:0.304
+Epoch:6/20 AVG Training Loss:0.592 Training Pearson r:0.633 AVG Test Loss:1.048 Test Pearson r:0.300
+Epoch:7/20 AVG Training Loss:0.579 Training Pearson r:0.644 AVG Test Loss:1.053 Test Pearson r:0.307
+Epoch:8/20 AVG Training Loss:0.566 Training Pearson r:0.654 AVG Test Loss:1.135 Test Pearson r:0.271
+Epoch:9/20 AVG Training Loss:0.547 Training Pearson r:0.669 AVG Test Loss:1.099 Test Pearson r:0.289
+Epoch:10/20 AVG Training Loss:0.535 Training Pearson r:0.677 AVG Test Loss:1.114 Test Pearson r:0.295
+Epoch:11/20 AVG Training Loss:0.527 Training Pearson r:0.683 AVG Test Loss:1.107 Test Pearson r:0.282
+Epoch:12/20 AVG Training Loss:0.520 Training Pearson r:0.688 AVG Test Loss:1.141 Test Pearson r:0.268
+Epoch:13/20 AVG Training Loss:0.508 Training Pearson r:0.698 AVG Test Loss:1.190 Test Pearson r:0.255
+Epoch:14/20 AVG Training Loss:0.502 Training Pearson r:0.702 AVG Test Loss:1.132 Test Pearson r:0.285
+Epoch:15/20 AVG Training Loss:0.496 Training Pearson r:0.706 AVG Test Loss:1.097 Test Pearson r:0.289
+Epoch:16/20 AVG Training Loss:0.489 Training Pearson r:0.711 AVG Test Loss:1.068 Test Pearson r:0.292
+Epoch:17/20 AVG Training Loss:0.487 Training Pearson r:0.712 AVG Test Loss:1.114 Test Pearson r:0.289
+Epoch:18/20 AVG Training Loss:0.477 Training Pearson r:0.720 AVG Test Loss:1.144 Test Pearson r:0.272
+Epoch:19/20 AVG Training Loss:0.466 Training Pearson r:0.727 AVG Test Loss:1.099 Test Pearson r:0.286
+Epoch:20/20 AVG Training Loss:0.466 Training Pearson r:0.727 AVG Test Loss:1.128 Test Pearson r:0.285
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.595
+MSE: 0.742
+Fold 2, k_feat 512
+X_train.shape:  (268, 512)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.811 Training Pearson r:0.431 AVG Test Loss:0.622 Test Pearson r:0.453
+Epoch:2/20 AVG Training Loss:0.751 Training Pearson r:0.496 AVG Test Loss:0.636 Test Pearson r:0.473
+Epoch:3/20 AVG Training Loss:0.719 Training Pearson r:0.528 AVG Test Loss:0.611 Test Pearson r:0.478
+Epoch:4/20 AVG Training Loss:0.697 Training Pearson r:0.548 AVG Test Loss:0.622 Test Pearson r:0.450
+Epoch:5/20 AVG Training Loss:0.673 Training Pearson r:0.569 AVG Test Loss:0.667 Test Pearson r:0.451
+Epoch:6/20 AVG Training Loss:0.655 Training Pearson r:0.585 AVG Test Loss:0.679 Test Pearson r:0.415
+Epoch:7/20 AVG Training Loss:0.642 Training Pearson r:0.596 AVG Test Loss:0.671 Test Pearson r:0.426
+Epoch:8/20 AVG Training Loss:0.626 Training Pearson r:0.610 AVG Test Loss:0.675 Test Pearson r:0.423
+Epoch:9/20 AVG Training Loss:0.614 Training Pearson r:0.619 AVG Test Loss:0.692 Test Pearson r:0.415
+Epoch:10/20 AVG Training Loss:0.599 Training Pearson r:0.631 AVG Test Loss:0.671 Test Pearson r:0.409
+Epoch:11/20 AVG Training Loss:0.596 Training Pearson r:0.634 AVG Test Loss:0.666 Test Pearson r:0.410
+Epoch:12/20 AVG Training Loss:0.587 Training Pearson r:0.641 AVG Test Loss:0.638 Test Pearson r:0.419
+Epoch:13/20 AVG Training Loss:0.583 Training Pearson r:0.644 AVG Test Loss:0.707 Test Pearson r:0.405
+Epoch:14/20 AVG Training Loss:0.579 Training Pearson r:0.647 AVG Test Loss:0.680 Test Pearson r:0.402
+Epoch:15/20 AVG Training Loss:0.568 Training Pearson r:0.656 AVG Test Loss:0.650 Test Pearson r:0.418
+Epoch:16/20 AVG Training Loss:0.556 Training Pearson r:0.665 AVG Test Loss:0.685 Test Pearson r:0.392
+Epoch:17/20 AVG Training Loss:0.552 Training Pearson r:0.668 AVG Test Loss:0.679 Test Pearson r:0.409
+Epoch:18/20 AVG Training Loss:0.543 Training Pearson r:0.675 AVG Test Loss:0.673 Test Pearson r:0.406
+Epoch:19/20 AVG Training Loss:0.539 Training Pearson r:0.678 AVG Test Loss:0.729 Test Pearson r:0.375
+Epoch:20/20 AVG Training Loss:0.530 Training Pearson r:0.684 AVG Test Loss:0.740 Test Pearson r:0.370
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.688
+MSE: 0.490
+Fold 3, k_feat 512
+X_train.shape:  (268, 512)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.806 Training Pearson r:0.444 AVG Test Loss:0.902 Test Pearson r:0.490
+Epoch:2/20 AVG Training Loss:0.734 Training Pearson r:0.519 AVG Test Loss:0.896 Test Pearson r:0.494
+Epoch:3/20 AVG Training Loss:0.697 Training Pearson r:0.554 AVG Test Loss:0.932 Test Pearson r:0.462
+Epoch:4/20 AVG Training Loss:0.668 Training Pearson r:0.579 AVG Test Loss:0.926 Test Pearson r:0.490
+Epoch:5/20 AVG Training Loss:0.638 Training Pearson r:0.604 AVG Test Loss:0.890 Test Pearson r:0.501
+Epoch:6/20 AVG Training Loss:0.613 Training Pearson r:0.624 AVG Test Loss:0.942 Test Pearson r:0.471
+Epoch:7/20 AVG Training Loss:0.602 Training Pearson r:0.633 AVG Test Loss:0.920 Test Pearson r:0.484
+Epoch:8/20 AVG Training Loss:0.580 Training Pearson r:0.650 AVG Test Loss:0.942 Test Pearson r:0.466
+Epoch:9/20 AVG Training Loss:0.567 Training Pearson r:0.660 AVG Test Loss:0.945 Test Pearson r:0.479
+Epoch:10/20 AVG Training Loss:0.555 Training Pearson r:0.669 AVG Test Loss:0.933 Test Pearson r:0.479
+Epoch:11/20 AVG Training Loss:0.537 Training Pearson r:0.682 AVG Test Loss:0.926 Test Pearson r:0.478
+Epoch:12/20 AVG Training Loss:0.530 Training Pearson r:0.687 AVG Test Loss:0.911 Test Pearson r:0.484
+Epoch:13/20 AVG Training Loss:0.518 Training Pearson r:0.696 AVG Test Loss:0.943 Test Pearson r:0.466
+Epoch:14/20 AVG Training Loss:0.507 Training Pearson r:0.704 AVG Test Loss:0.927 Test Pearson r:0.477
+Epoch:15/20 AVG Training Loss:0.504 Training Pearson r:0.706 AVG Test Loss:0.914 Test Pearson r:0.489
+Epoch:16/20 AVG Training Loss:0.490 Training Pearson r:0.715 AVG Test Loss:0.924 Test Pearson r:0.480
+Epoch:17/20 AVG Training Loss:0.485 Training Pearson r:0.719 AVG Test Loss:0.920 Test Pearson r:0.480
+Epoch:18/20 AVG Training Loss:0.483 Training Pearson r:0.720 AVG Test Loss:0.937 Test Pearson r:0.479
+Epoch:19/20 AVG Training Loss:0.474 Training Pearson r:0.727 AVG Test Loss:0.918 Test Pearson r:0.479
+Epoch:20/20 AVG Training Loss:0.472 Training Pearson r:0.728 AVG Test Loss:0.941 Test Pearson r:0.468
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.753
+MSE: 0.674
+Average pearson_r accross all folds = 0.6787364228017191
+Average mse accross all folds = 0.635377768711752
+Fold 1, k_feat 1024
+X_train.shape:  (268, 1024)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.785 Training Pearson r:0.454 AVG Test Loss:0.981 Test Pearson r:0.349
+Epoch:2/20 AVG Training Loss:0.640 Training Pearson r:0.594 AVG Test Loss:1.062 Test Pearson r:0.326
+Epoch:3/20 AVG Training Loss:0.582 Training Pearson r:0.642 AVG Test Loss:1.000 Test Pearson r:0.344
+Epoch:4/20 AVG Training Loss:0.554 Training Pearson r:0.663 AVG Test Loss:1.043 Test Pearson r:0.317
+Epoch:5/20 AVG Training Loss:0.528 Training Pearson r:0.682 AVG Test Loss:0.995 Test Pearson r:0.342
+Epoch:6/20 AVG Training Loss:0.514 Training Pearson r:0.693 AVG Test Loss:1.104 Test Pearson r:0.314
+Epoch:7/20 AVG Training Loss:0.496 Training Pearson r:0.706 AVG Test Loss:1.015 Test Pearson r:0.349
+Epoch:8/20 AVG Training Loss:0.483 Training Pearson r:0.715 AVG Test Loss:1.076 Test Pearson r:0.322
+Epoch:9/20 AVG Training Loss:0.471 Training Pearson r:0.724 AVG Test Loss:1.047 Test Pearson r:0.328
+Epoch:10/20 AVG Training Loss:0.460 Training Pearson r:0.732 AVG Test Loss:1.090 Test Pearson r:0.322
+Epoch:11/20 AVG Training Loss:0.447 Training Pearson r:0.741 AVG Test Loss:1.088 Test Pearson r:0.314
+Epoch:12/20 AVG Training Loss:0.440 Training Pearson r:0.745 AVG Test Loss:1.132 Test Pearson r:0.307
+Epoch:13/20 AVG Training Loss:0.434 Training Pearson r:0.749 AVG Test Loss:1.049 Test Pearson r:0.323
+Epoch:14/20 AVG Training Loss:0.428 Training Pearson r:0.753 AVG Test Loss:1.051 Test Pearson r:0.322
+Epoch:15/20 AVG Training Loss:0.419 Training Pearson r:0.759 AVG Test Loss:1.122 Test Pearson r:0.325
+Epoch:16/20 AVG Training Loss:0.418 Training Pearson r:0.760 AVG Test Loss:1.065 Test Pearson r:0.315
+Epoch:17/20 AVG Training Loss:0.409 Training Pearson r:0.766 AVG Test Loss:1.143 Test Pearson r:0.304
+Epoch:18/20 AVG Training Loss:0.406 Training Pearson r:0.768 AVG Test Loss:1.164 Test Pearson r:0.306
+Epoch:19/20 AVG Training Loss:0.406 Training Pearson r:0.767 AVG Test Loss:1.116 Test Pearson r:0.313
+Epoch:20/20 AVG Training Loss:0.396 Training Pearson r:0.774 AVG Test Loss:1.108 Test Pearson r:0.311
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.657
+MSE: 0.705
+Fold 2, k_feat 1024
+X_train.shape:  (268, 1024)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.776 Training Pearson r:0.470 AVG Test Loss:0.719 Test Pearson r:0.371
+Epoch:2/20 AVG Training Loss:0.658 Training Pearson r:0.583 AVG Test Loss:0.667 Test Pearson r:0.415
+Epoch:3/20 AVG Training Loss:0.598 Training Pearson r:0.632 AVG Test Loss:0.682 Test Pearson r:0.403
+Epoch:4/20 AVG Training Loss:0.546 Training Pearson r:0.673 AVG Test Loss:0.743 Test Pearson r:0.357
+Epoch:5/20 AVG Training Loss:0.508 Training Pearson r:0.700 AVG Test Loss:0.775 Test Pearson r:0.324
+Epoch:6/20 AVG Training Loss:0.485 Training Pearson r:0.716 AVG Test Loss:0.764 Test Pearson r:0.331
+Epoch:7/20 AVG Training Loss:0.463 Training Pearson r:0.732 AVG Test Loss:0.724 Test Pearson r:0.362
+Epoch:8/20 AVG Training Loss:0.449 Training Pearson r:0.741 AVG Test Loss:0.746 Test Pearson r:0.340
+Epoch:9/20 AVG Training Loss:0.436 Training Pearson r:0.750 AVG Test Loss:0.711 Test Pearson r:0.365
+Epoch:10/20 AVG Training Loss:0.425 Training Pearson r:0.757 AVG Test Loss:0.778 Test Pearson r:0.353
+Epoch:11/20 AVG Training Loss:0.415 Training Pearson r:0.764 AVG Test Loss:0.798 Test Pearson r:0.345
+Epoch:12/20 AVG Training Loss:0.414 Training Pearson r:0.765 AVG Test Loss:0.749 Test Pearson r:0.344
+Epoch:13/20 AVG Training Loss:0.404 Training Pearson r:0.771 AVG Test Loss:0.766 Test Pearson r:0.337
+Epoch:14/20 AVG Training Loss:0.397 Training Pearson r:0.775 AVG Test Loss:0.763 Test Pearson r:0.332
+Epoch:15/20 AVG Training Loss:0.396 Training Pearson r:0.776 AVG Test Loss:0.771 Test Pearson r:0.350
+Epoch:16/20 AVG Training Loss:0.393 Training Pearson r:0.778 AVG Test Loss:0.749 Test Pearson r:0.345
+Epoch:17/20 AVG Training Loss:0.387 Training Pearson r:0.782 AVG Test Loss:0.790 Test Pearson r:0.325
+Epoch:18/20 AVG Training Loss:0.386 Training Pearson r:0.782 AVG Test Loss:0.778 Test Pearson r:0.329
+Epoch:19/20 AVG Training Loss:0.382 Training Pearson r:0.785 AVG Test Loss:0.787 Test Pearson r:0.337
+Epoch:20/20 AVG Training Loss:0.377 Training Pearson r:0.789 AVG Test Loss:0.755 Test Pearson r:0.351
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.630
+MSE: 0.507
+Fold 3, k_feat 1024
+X_train.shape:  (268, 1024)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.768 Training Pearson r:0.485 AVG Test Loss:0.864 Test Pearson r:0.521
+Epoch:2/20 AVG Training Loss:0.660 Training Pearson r:0.586 AVG Test Loss:0.916 Test Pearson r:0.490
+Epoch:3/20 AVG Training Loss:0.589 Training Pearson r:0.643 AVG Test Loss:0.881 Test Pearson r:0.507
+Epoch:4/20 AVG Training Loss:0.549 Training Pearson r:0.673 AVG Test Loss:0.937 Test Pearson r:0.492
+Epoch:5/20 AVG Training Loss:0.512 Training Pearson r:0.700 AVG Test Loss:0.877 Test Pearson r:0.514
+Epoch:6/20 AVG Training Loss:0.486 Training Pearson r:0.719 AVG Test Loss:0.943 Test Pearson r:0.472
+Epoch:7/20 AVG Training Loss:0.469 Training Pearson r:0.730 AVG Test Loss:0.917 Test Pearson r:0.481
+Epoch:8/20 AVG Training Loss:0.451 Training Pearson r:0.742 AVG Test Loss:0.911 Test Pearson r:0.496
+Epoch:9/20 AVG Training Loss:0.433 Training Pearson r:0.754 AVG Test Loss:0.988 Test Pearson r:0.448
+Epoch:10/20 AVG Training Loss:0.425 Training Pearson r:0.759 AVG Test Loss:0.926 Test Pearson r:0.488
+Epoch:11/20 AVG Training Loss:0.409 Training Pearson r:0.770 AVG Test Loss:0.923 Test Pearson r:0.475
+Epoch:12/20 AVG Training Loss:0.405 Training Pearson r:0.772 AVG Test Loss:0.919 Test Pearson r:0.489
+Epoch:13/20 AVG Training Loss:0.394 Training Pearson r:0.779 AVG Test Loss:0.964 Test Pearson r:0.465
+Epoch:14/20 AVG Training Loss:0.389 Training Pearson r:0.783 AVG Test Loss:0.952 Test Pearson r:0.463
+Epoch:15/20 AVG Training Loss:0.387 Training Pearson r:0.784 AVG Test Loss:0.949 Test Pearson r:0.471
+Epoch:16/20 AVG Training Loss:0.384 Training Pearson r:0.786 AVG Test Loss:0.944 Test Pearson r:0.496
+Epoch:17/20 AVG Training Loss:0.375 Training Pearson r:0.791 AVG Test Loss:0.949 Test Pearson r:0.480
+Epoch:18/20 AVG Training Loss:0.370 Training Pearson r:0.795 AVG Test Loss:0.965 Test Pearson r:0.468
+Epoch:19/20 AVG Training Loss:0.370 Training Pearson r:0.795 AVG Test Loss:0.953 Test Pearson r:0.480
+Epoch:20/20 AVG Training Loss:0.369 Training Pearson r:0.795 AVG Test Loss:0.923 Test Pearson r:0.493
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.778
+MSE: 0.594
+Average pearson_r accross all folds = 0.6884374997130306
+Average mse accross all folds = 0.6020344275782858
+Fold 1, k_feat 2048
+X_train.shape:  (268, 2048)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.650 Training Pearson r:0.586 AVG Test Loss:0.996 Test Pearson r:0.379
+Epoch:2/20 AVG Training Loss:0.497 Training Pearson r:0.705 AVG Test Loss:1.003 Test Pearson r:0.373
+Epoch:3/20 AVG Training Loss:0.445 Training Pearson r:0.742 AVG Test Loss:1.038 Test Pearson r:0.366
+Epoch:4/20 AVG Training Loss:0.408 Training Pearson r:0.766 AVG Test Loss:1.116 Test Pearson r:0.339
+Epoch:5/20 AVG Training Loss:0.384 Training Pearson r:0.782 AVG Test Loss:1.078 Test Pearson r:0.332
+Epoch:6/20 AVG Training Loss:0.365 Training Pearson r:0.794 AVG Test Loss:1.053 Test Pearson r:0.353
+Epoch:7/20 AVG Training Loss:0.359 Training Pearson r:0.798 AVG Test Loss:1.224 Test Pearson r:0.327
+Epoch:8/20 AVG Training Loss:0.342 Training Pearson r:0.809 AVG Test Loss:1.133 Test Pearson r:0.336
+Epoch:9/20 AVG Training Loss:0.338 Training Pearson r:0.811 AVG Test Loss:1.233 Test Pearson r:0.305
+Epoch:10/20 AVG Training Loss:0.328 Training Pearson r:0.817 AVG Test Loss:1.077 Test Pearson r:0.358
+Epoch:11/20 AVG Training Loss:0.316 Training Pearson r:0.825 AVG Test Loss:1.059 Test Pearson r:0.353
+Epoch:12/20 AVG Training Loss:0.314 Training Pearson r:0.826 AVG Test Loss:1.129 Test Pearson r:0.328
+Epoch:13/20 AVG Training Loss:0.314 Training Pearson r:0.826 AVG Test Loss:1.141 Test Pearson r:0.349
+Epoch:14/20 AVG Training Loss:0.310 Training Pearson r:0.828 AVG Test Loss:1.073 Test Pearson r:0.333
+Epoch:15/20 AVG Training Loss:0.303 Training Pearson r:0.833 AVG Test Loss:1.231 Test Pearson r:0.306
+Epoch:16/20 AVG Training Loss:0.302 Training Pearson r:0.834 AVG Test Loss:1.075 Test Pearson r:0.358
+Epoch:17/20 AVG Training Loss:0.297 Training Pearson r:0.836 AVG Test Loss:1.038 Test Pearson r:0.348
+Epoch:18/20 AVG Training Loss:0.295 Training Pearson r:0.837 AVG Test Loss:1.080 Test Pearson r:0.351
+Epoch:19/20 AVG Training Loss:0.287 Training Pearson r:0.843 AVG Test Loss:1.080 Test Pearson r:0.328
+Epoch:20/20 AVG Training Loss:0.288 Training Pearson r:0.842 AVG Test Loss:1.141 Test Pearson r:0.321
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.677
+MSE: 0.627
+Fold 2, k_feat 2048
+X_train.shape:  (268, 2048)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.671 Training Pearson r:0.571 AVG Test Loss:0.693 Test Pearson r:0.382
+Epoch:2/20 AVG Training Loss:0.510 Training Pearson r:0.699 AVG Test Loss:0.782 Test Pearson r:0.355
+Epoch:3/20 AVG Training Loss:0.450 Training Pearson r:0.740 AVG Test Loss:0.787 Test Pearson r:0.331
+Epoch:4/20 AVG Training Loss:0.411 Training Pearson r:0.767 AVG Test Loss:0.773 Test Pearson r:0.338
+Epoch:5/20 AVG Training Loss:0.383 Training Pearson r:0.785 AVG Test Loss:0.824 Test Pearson r:0.344
+Epoch:6/20 AVG Training Loss:0.363 Training Pearson r:0.797 AVG Test Loss:0.798 Test Pearson r:0.331
+Epoch:7/20 AVG Training Loss:0.347 Training Pearson r:0.808 AVG Test Loss:0.795 Test Pearson r:0.356
+Epoch:8/20 AVG Training Loss:0.327 Training Pearson r:0.819 AVG Test Loss:0.782 Test Pearson r:0.359
+Epoch:9/20 AVG Training Loss:0.324 Training Pearson r:0.821 AVG Test Loss:0.802 Test Pearson r:0.355
+Epoch:10/20 AVG Training Loss:0.316 Training Pearson r:0.826 AVG Test Loss:0.901 Test Pearson r:0.336
+Epoch:11/20 AVG Training Loss:0.312 Training Pearson r:0.829 AVG Test Loss:0.797 Test Pearson r:0.358
+Epoch:12/20 AVG Training Loss:0.306 Training Pearson r:0.833 AVG Test Loss:0.818 Test Pearson r:0.354
+Epoch:13/20 AVG Training Loss:0.295 Training Pearson r:0.839 AVG Test Loss:0.816 Test Pearson r:0.354
+Epoch:14/20 AVG Training Loss:0.297 Training Pearson r:0.838 AVG Test Loss:0.797 Test Pearson r:0.336
+Epoch:15/20 AVG Training Loss:0.295 Training Pearson r:0.839 AVG Test Loss:0.757 Test Pearson r:0.349
+Epoch:16/20 AVG Training Loss:0.290 Training Pearson r:0.842 AVG Test Loss:0.874 Test Pearson r:0.341
+Epoch:17/20 AVG Training Loss:0.288 Training Pearson r:0.843 AVG Test Loss:0.880 Test Pearson r:0.325
+Epoch:18/20 AVG Training Loss:0.283 Training Pearson r:0.846 AVG Test Loss:0.831 Test Pearson r:0.341
+Epoch:19/20 AVG Training Loss:0.283 Training Pearson r:0.846 AVG Test Loss:0.850 Test Pearson r:0.335
+Epoch:20/20 AVG Training Loss:0.274 Training Pearson r:0.851 AVG Test Loss:0.847 Test Pearson r:0.344
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.625
+MSE: 0.501
+Fold 3, k_feat 2048
+X_train.shape:  (268, 2048)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.752 Training Pearson r:0.501 AVG Test Loss:0.887 Test Pearson r:0.504
+Epoch:2/20 AVG Training Loss:0.626 Training Pearson r:0.613 AVG Test Loss:0.882 Test Pearson r:0.512
+Epoch:3/20 AVG Training Loss:0.546 Training Pearson r:0.675 AVG Test Loss:0.863 Test Pearson r:0.533
+Epoch:4/20 AVG Training Loss:0.498 Training Pearson r:0.710 AVG Test Loss:0.924 Test Pearson r:0.515
+Epoch:5/20 AVG Training Loss:0.459 Training Pearson r:0.737 AVG Test Loss:0.899 Test Pearson r:0.522
+Epoch:6/20 AVG Training Loss:0.430 Training Pearson r:0.756 AVG Test Loss:0.919 Test Pearson r:0.503
+Epoch:7/20 AVG Training Loss:0.421 Training Pearson r:0.762 AVG Test Loss:0.894 Test Pearson r:0.514
+Epoch:8/20 AVG Training Loss:0.397 Training Pearson r:0.778 AVG Test Loss:0.911 Test Pearson r:0.517
+Epoch:9/20 AVG Training Loss:0.388 Training Pearson r:0.783 AVG Test Loss:0.919 Test Pearson r:0.507
+Epoch:10/20 AVG Training Loss:0.376 Training Pearson r:0.791 AVG Test Loss:0.910 Test Pearson r:0.492
+Epoch:11/20 AVG Training Loss:0.364 Training Pearson r:0.798 AVG Test Loss:0.890 Test Pearson r:0.509
+Epoch:12/20 AVG Training Loss:0.359 Training Pearson r:0.801 AVG Test Loss:0.871 Test Pearson r:0.527
+Epoch:13/20 AVG Training Loss:0.350 Training Pearson r:0.807 AVG Test Loss:0.883 Test Pearson r:0.516
+Epoch:14/20 AVG Training Loss:0.345 Training Pearson r:0.810 AVG Test Loss:0.894 Test Pearson r:0.504
+Epoch:15/20 AVG Training Loss:0.339 Training Pearson r:0.814 AVG Test Loss:0.868 Test Pearson r:0.530
+Epoch:16/20 AVG Training Loss:0.339 Training Pearson r:0.814 AVG Test Loss:0.890 Test Pearson r:0.527
+Epoch:17/20 AVG Training Loss:0.332 Training Pearson r:0.818 AVG Test Loss:0.939 Test Pearson r:0.487
+Epoch:18/20 AVG Training Loss:0.326 Training Pearson r:0.822 AVG Test Loss:0.897 Test Pearson r:0.522
+Epoch:19/20 AVG Training Loss:0.327 Training Pearson r:0.821 AVG Test Loss:0.905 Test Pearson r:0.513
+Epoch:20/20 AVG Training Loss:0.325 Training Pearson r:0.822 AVG Test Loss:0.899 Test Pearson r:0.525
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.792
+MSE: 0.550
+Average pearson_r accross all folds = 0.698216247544207
+Average mse accross all folds = 0.559094542203374
+Fold 1, k_feat 4096
+X_train.shape:  (268, 4096)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.602 Training Pearson r:0.626 AVG Test Loss:1.058 Test Pearson r:0.375
+Epoch:2/20 AVG Training Loss:0.395 Training Pearson r:0.775 AVG Test Loss:1.096 Test Pearson r:0.333
+Epoch:3/20 AVG Training Loss:0.339 Training Pearson r:0.811 AVG Test Loss:1.110 Test Pearson r:0.339
+Epoch:4/20 AVG Training Loss:0.312 Training Pearson r:0.827 AVG Test Loss:1.112 Test Pearson r:0.346
+Epoch:5/20 AVG Training Loss:0.297 Training Pearson r:0.837 AVG Test Loss:1.152 Test Pearson r:0.331
+Epoch:6/20 AVG Training Loss:0.283 Training Pearson r:0.845 AVG Test Loss:1.111 Test Pearson r:0.330
+Epoch:7/20 AVG Training Loss:0.270 Training Pearson r:0.853 AVG Test Loss:1.103 Test Pearson r:0.338
+Epoch:8/20 AVG Training Loss:0.265 Training Pearson r:0.855 AVG Test Loss:1.179 Test Pearson r:0.354
+Epoch:9/20 AVG Training Loss:0.264 Training Pearson r:0.856 AVG Test Loss:1.173 Test Pearson r:0.342
+Epoch:10/20 AVG Training Loss:0.256 Training Pearson r:0.861 AVG Test Loss:1.121 Test Pearson r:0.346
+Epoch:11/20 AVG Training Loss:0.256 Training Pearson r:0.861 AVG Test Loss:1.120 Test Pearson r:0.318
+Epoch:12/20 AVG Training Loss:0.248 Training Pearson r:0.866 AVG Test Loss:1.131 Test Pearson r:0.342
+Epoch:13/20 AVG Training Loss:0.240 Training Pearson r:0.870 AVG Test Loss:1.168 Test Pearson r:0.340
+Epoch:14/20 AVG Training Loss:0.241 Training Pearson r:0.869 AVG Test Loss:1.089 Test Pearson r:0.361
+Epoch:15/20 AVG Training Loss:0.235 Training Pearson r:0.873 AVG Test Loss:1.123 Test Pearson r:0.348
+Epoch:16/20 AVG Training Loss:0.236 Training Pearson r:0.872 AVG Test Loss:1.096 Test Pearson r:0.340
+Epoch:17/20 AVG Training Loss:0.232 Training Pearson r:0.875 AVG Test Loss:1.115 Test Pearson r:0.349
+Epoch:18/20 AVG Training Loss:0.227 Training Pearson r:0.878 AVG Test Loss:1.079 Test Pearson r:0.356
+Epoch:19/20 AVG Training Loss:0.229 Training Pearson r:0.877 AVG Test Loss:1.130 Test Pearson r:0.349
+Epoch:20/20 AVG Training Loss:0.228 Training Pearson r:0.877 AVG Test Loss:1.108 Test Pearson r:0.344
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.681
+MSE: 0.617
+Fold 2, k_feat 4096
+X_train.shape:  (268, 4096)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.595 Training Pearson r:0.635 AVG Test Loss:0.703 Test Pearson r:0.370
+Epoch:2/20 AVG Training Loss:0.424 Training Pearson r:0.758 AVG Test Loss:0.751 Test Pearson r:0.357
+Epoch:3/20 AVG Training Loss:0.368 Training Pearson r:0.794 AVG Test Loss:0.768 Test Pearson r:0.381
+Epoch:4/20 AVG Training Loss:0.335 Training Pearson r:0.815 AVG Test Loss:0.769 Test Pearson r:0.372
+Epoch:5/20 AVG Training Loss:0.309 Training Pearson r:0.831 AVG Test Loss:0.793 Test Pearson r:0.337
+Epoch:6/20 AVG Training Loss:0.297 Training Pearson r:0.838 AVG Test Loss:0.767 Test Pearson r:0.341
+Epoch:7/20 AVG Training Loss:0.289 Training Pearson r:0.843 AVG Test Loss:0.766 Test Pearson r:0.352
+Epoch:8/20 AVG Training Loss:0.276 Training Pearson r:0.850 AVG Test Loss:0.801 Test Pearson r:0.359
+Epoch:9/20 AVG Training Loss:0.272 Training Pearson r:0.853 AVG Test Loss:0.794 Test Pearson r:0.364
+Epoch:10/20 AVG Training Loss:0.267 Training Pearson r:0.855 AVG Test Loss:0.837 Test Pearson r:0.359
+Epoch:11/20 AVG Training Loss:0.259 Training Pearson r:0.860 AVG Test Loss:0.775 Test Pearson r:0.372
+Epoch:12/20 AVG Training Loss:0.259 Training Pearson r:0.860 AVG Test Loss:0.816 Test Pearson r:0.355
+Epoch:13/20 AVG Training Loss:0.251 Training Pearson r:0.865 AVG Test Loss:0.782 Test Pearson r:0.375
+Epoch:14/20 AVG Training Loss:0.250 Training Pearson r:0.866 AVG Test Loss:0.833 Test Pearson r:0.340
+Epoch:15/20 AVG Training Loss:0.247 Training Pearson r:0.867 AVG Test Loss:0.766 Test Pearson r:0.381
+Epoch:16/20 AVG Training Loss:0.242 Training Pearson r:0.870 AVG Test Loss:0.788 Test Pearson r:0.377
+Epoch:17/20 AVG Training Loss:0.242 Training Pearson r:0.870 AVG Test Loss:0.868 Test Pearson r:0.336
+Epoch:18/20 AVG Training Loss:0.242 Training Pearson r:0.870 AVG Test Loss:0.755 Test Pearson r:0.375
+Epoch:19/20 AVG Training Loss:0.233 Training Pearson r:0.875 AVG Test Loss:0.733 Test Pearson r:0.376
+Epoch:20/20 AVG Training Loss:0.237 Training Pearson r:0.873 AVG Test Loss:0.846 Test Pearson r:0.372
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.647
+MSE: 0.445
+Fold 3, k_feat 4096
+X_train.shape:  (268, 4096)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.687 Training Pearson r:0.562 AVG Test Loss:0.816 Test Pearson r:0.564
+Epoch:2/20 AVG Training Loss:0.487 Training Pearson r:0.718 AVG Test Loss:0.859 Test Pearson r:0.564
+Epoch:3/20 AVG Training Loss:0.413 Training Pearson r:0.767 AVG Test Loss:0.888 Test Pearson r:0.514
+Epoch:4/20 AVG Training Loss:0.372 Training Pearson r:0.793 AVG Test Loss:0.911 Test Pearson r:0.527
+Epoch:5/20 AVG Training Loss:0.350 Training Pearson r:0.807 AVG Test Loss:0.924 Test Pearson r:0.518
+Epoch:6/20 AVG Training Loss:0.330 Training Pearson r:0.819 AVG Test Loss:0.872 Test Pearson r:0.541
+Epoch:7/20 AVG Training Loss:0.315 Training Pearson r:0.828 AVG Test Loss:0.924 Test Pearson r:0.524
+Epoch:8/20 AVG Training Loss:0.304 Training Pearson r:0.835 AVG Test Loss:0.961 Test Pearson r:0.506
+Epoch:9/20 AVG Training Loss:0.300 Training Pearson r:0.838 AVG Test Loss:0.917 Test Pearson r:0.533
+Epoch:10/20 AVG Training Loss:0.284 Training Pearson r:0.847 AVG Test Loss:0.938 Test Pearson r:0.534
+Epoch:11/20 AVG Training Loss:0.278 Training Pearson r:0.850 AVG Test Loss:0.899 Test Pearson r:0.532
+Epoch:12/20 AVG Training Loss:0.275 Training Pearson r:0.852 AVG Test Loss:0.949 Test Pearson r:0.519
+Epoch:13/20 AVG Training Loss:0.272 Training Pearson r:0.854 AVG Test Loss:0.910 Test Pearson r:0.532
+Epoch:14/20 AVG Training Loss:0.272 Training Pearson r:0.854 AVG Test Loss:0.899 Test Pearson r:0.522
+Epoch:15/20 AVG Training Loss:0.263 Training Pearson r:0.859 AVG Test Loss:0.879 Test Pearson r:0.529
+Epoch:16/20 AVG Training Loss:0.263 Training Pearson r:0.859 AVG Test Loss:0.911 Test Pearson r:0.520
+Epoch:17/20 AVG Training Loss:0.256 Training Pearson r:0.863 AVG Test Loss:0.904 Test Pearson r:0.526
+Epoch:18/20 AVG Training Loss:0.260 Training Pearson r:0.861 AVG Test Loss:0.938 Test Pearson r:0.539
+Epoch:19/20 AVG Training Loss:0.256 Training Pearson r:0.863 AVG Test Loss:0.900 Test Pearson r:0.536
+Epoch:20/20 AVG Training Loss:0.253 Training Pearson r:0.865 AVG Test Loss:0.913 Test Pearson r:0.512
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.793
+MSE: 0.578
+Average pearson_r accross all folds = 0.7072590223019931
+Average mse accross all folds = 0.546811925525279
+Fold 1, k_feat 8192
+X_train.shape:  (268, 8192)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.494 Training Pearson r:0.708 AVG Test Loss:1.139 Test Pearson r:0.341
+Epoch:2/20 AVG Training Loss:0.321 Training Pearson r:0.822 AVG Test Loss:1.097 Test Pearson r:0.381
+Epoch:3/20 AVG Training Loss:0.277 Training Pearson r:0.849 AVG Test Loss:1.110 Test Pearson r:0.398
+Epoch:4/20 AVG Training Loss:0.259 Training Pearson r:0.859 AVG Test Loss:1.158 Test Pearson r:0.350
+Epoch:5/20 AVG Training Loss:0.245 Training Pearson r:0.868 AVG Test Loss:1.140 Test Pearson r:0.376
+Epoch:6/20 AVG Training Loss:0.235 Training Pearson r:0.873 AVG Test Loss:1.109 Test Pearson r:0.335
+Epoch:7/20 AVG Training Loss:0.229 Training Pearson r:0.876 AVG Test Loss:1.158 Test Pearson r:0.362
+Epoch:8/20 AVG Training Loss:0.221 Training Pearson r:0.881 AVG Test Loss:1.110 Test Pearson r:0.368
+Epoch:9/20 AVG Training Loss:0.215 Training Pearson r:0.885 AVG Test Loss:1.115 Test Pearson r:0.355
+Epoch:10/20 AVG Training Loss:0.210 Training Pearson r:0.887 AVG Test Loss:1.070 Test Pearson r:0.386
+Epoch:11/20 AVG Training Loss:0.205 Training Pearson r:0.890 AVG Test Loss:1.133 Test Pearson r:0.362
+Epoch:12/20 AVG Training Loss:0.202 Training Pearson r:0.892 AVG Test Loss:1.112 Test Pearson r:0.359
+Epoch:13/20 AVG Training Loss:0.202 Training Pearson r:0.892 AVG Test Loss:1.134 Test Pearson r:0.363
+Epoch:14/20 AVG Training Loss:0.199 Training Pearson r:0.893 AVG Test Loss:1.115 Test Pearson r:0.371
+Epoch:15/20 AVG Training Loss:0.197 Training Pearson r:0.895 AVG Test Loss:1.100 Test Pearson r:0.377
+Epoch:16/20 AVG Training Loss:0.199 Training Pearson r:0.894 AVG Test Loss:1.115 Test Pearson r:0.351
+Epoch:17/20 AVG Training Loss:0.194 Training Pearson r:0.896 AVG Test Loss:1.117 Test Pearson r:0.369
+Epoch:18/20 AVG Training Loss:0.196 Training Pearson r:0.895 AVG Test Loss:1.116 Test Pearson r:0.350
+Epoch:19/20 AVG Training Loss:0.192 Training Pearson r:0.898 AVG Test Loss:1.069 Test Pearson r:0.386
+Epoch:20/20 AVG Training Loss:0.195 Training Pearson r:0.896 AVG Test Loss:1.141 Test Pearson r:0.363
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.686
+MSE: 0.603
+Fold 2, k_feat 8192
+X_train.shape:  (268, 8192)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.530 Training Pearson r:0.684 AVG Test Loss:0.858 Test Pearson r:0.375
+Epoch:2/20 AVG Training Loss:0.350 Training Pearson r:0.806 AVG Test Loss:0.850 Test Pearson r:0.368
+Epoch:3/20 AVG Training Loss:0.304 Training Pearson r:0.834 AVG Test Loss:0.735 Test Pearson r:0.411
+Epoch:4/20 AVG Training Loss:0.280 Training Pearson r:0.848 AVG Test Loss:0.821 Test Pearson r:0.395
+Epoch:5/20 AVG Training Loss:0.263 Training Pearson r:0.858 AVG Test Loss:0.868 Test Pearson r:0.350
+Epoch:6/20 AVG Training Loss:0.251 Training Pearson r:0.865 AVG Test Loss:0.769 Test Pearson r:0.394
+Epoch:7/20 AVG Training Loss:0.245 Training Pearson r:0.868 AVG Test Loss:0.810 Test Pearson r:0.377
+Epoch:8/20 AVG Training Loss:0.234 Training Pearson r:0.875 AVG Test Loss:0.856 Test Pearson r:0.344
+Epoch:9/20 AVG Training Loss:0.232 Training Pearson r:0.876 AVG Test Loss:0.822 Test Pearson r:0.380
+Epoch:10/20 AVG Training Loss:0.225 Training Pearson r:0.880 AVG Test Loss:0.854 Test Pearson r:0.357
+Epoch:11/20 AVG Training Loss:0.224 Training Pearson r:0.881 AVG Test Loss:0.840 Test Pearson r:0.372
+Epoch:12/20 AVG Training Loss:0.215 Training Pearson r:0.886 AVG Test Loss:0.834 Test Pearson r:0.387
+Epoch:13/20 AVG Training Loss:0.218 Training Pearson r:0.884 AVG Test Loss:0.864 Test Pearson r:0.351
+Epoch:14/20 AVG Training Loss:0.212 Training Pearson r:0.887 AVG Test Loss:0.775 Test Pearson r:0.369
+Epoch:15/20 AVG Training Loss:0.214 Training Pearson r:0.886 AVG Test Loss:0.912 Test Pearson r:0.370
+Epoch:16/20 AVG Training Loss:0.210 Training Pearson r:0.888 AVG Test Loss:0.824 Test Pearson r:0.394
+Epoch:17/20 AVG Training Loss:0.208 Training Pearson r:0.889 AVG Test Loss:0.814 Test Pearson r:0.375
+Epoch:18/20 AVG Training Loss:0.205 Training Pearson r:0.891 AVG Test Loss:0.810 Test Pearson r:0.383
+Epoch:19/20 AVG Training Loss:0.211 Training Pearson r:0.888 AVG Test Loss:0.822 Test Pearson r:0.356
+Epoch:20/20 AVG Training Loss:0.201 Training Pearson r:0.893 AVG Test Loss:0.848 Test Pearson r:0.367
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.656
+MSE: 0.490
+Fold 3, k_feat 8192
+X_train.shape:  (268, 8192)
+train_loader.dataset len:  36046
+Epoch:1/20 AVG Training Loss:0.607 Training Pearson r:0.629 AVG Test Loss:0.806 Test Pearson r:0.583
+Epoch:2/20 AVG Training Loss:0.392 Training Pearson r:0.781 AVG Test Loss:0.910 Test Pearson r:0.513
+Epoch:3/20 AVG Training Loss:0.341 Training Pearson r:0.812 AVG Test Loss:0.962 Test Pearson r:0.539
+Epoch:4/20 AVG Training Loss:0.311 Training Pearson r:0.831 AVG Test Loss:0.880 Test Pearson r:0.535
+Epoch:5/20 AVG Training Loss:0.296 Training Pearson r:0.840 AVG Test Loss:0.867 Test Pearson r:0.542
+Epoch:6/20 AVG Training Loss:0.276 Training Pearson r:0.852 AVG Test Loss:0.858 Test Pearson r:0.545
+Epoch:7/20 AVG Training Loss:0.270 Training Pearson r:0.855 AVG Test Loss:0.848 Test Pearson r:0.550
+Epoch:8/20 AVG Training Loss:0.262 Training Pearson r:0.860 AVG Test Loss:0.846 Test Pearson r:0.554
+Epoch:9/20 AVG Training Loss:0.261 Training Pearson r:0.860 AVG Test Loss:0.881 Test Pearson r:0.559
+Epoch:10/20 AVG Training Loss:0.252 Training Pearson r:0.865 AVG Test Loss:0.849 Test Pearson r:0.573
+Epoch:11/20 AVG Training Loss:0.255 Training Pearson r:0.864 AVG Test Loss:0.851 Test Pearson r:0.566
+Epoch:12/20 AVG Training Loss:0.242 Training Pearson r:0.871 AVG Test Loss:0.821 Test Pearson r:0.578
+Epoch:13/20 AVG Training Loss:0.239 Training Pearson r:0.873 AVG Test Loss:0.914 Test Pearson r:0.542
+Epoch:14/20 AVG Training Loss:0.237 Training Pearson r:0.874 AVG Test Loss:0.845 Test Pearson r:0.558
+Epoch:15/20 AVG Training Loss:0.236 Training Pearson r:0.875 AVG Test Loss:0.864 Test Pearson r:0.575
+Epoch:16/20 AVG Training Loss:0.234 Training Pearson r:0.876 AVG Test Loss:0.792 Test Pearson r:0.585
+Epoch:17/20 AVG Training Loss:0.228 Training Pearson r:0.879 AVG Test Loss:0.821 Test Pearson r:0.582
+Epoch:18/20 AVG Training Loss:0.228 Training Pearson r:0.879 AVG Test Loss:0.783 Test Pearson r:0.590
+Epoch:19/20 AVG Training Loss:0.230 Training Pearson r:0.878 AVG Test Loss:0.871 Test Pearson r:0.555
+Epoch:20/20 AVG Training Loss:0.226 Training Pearson r:0.880 AVG Test Loss:0.838 Test Pearson r:0.570
+Estimating traits of samples from test set using training samples as reference:
+Pearson r: 0.805
+MSE: 0.534
+Average pearson_r accross all folds = 0.7153649375980463
+Average mse accross all folds = 0.5423461982182628

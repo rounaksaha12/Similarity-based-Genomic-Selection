@@ -1,0 +1,155 @@
+After clean(removal of rows with high missing values + redundancy removal) X.shape:  (402, 10792)
+Fold 1, k_feat 8
+X_train.shape:  (268, 8)
+Pearson r: 0.413
+MSE: 0.874
+Fold 2, k_feat 8
+X_train.shape:  (268, 8)
+Pearson r: 0.441
+MSE: 0.870
+Fold 3, k_feat 8
+X_train.shape:  (268, 8)
+Pearson r: 0.387
+MSE: 0.779
+Average pearson_r accross all folds = 0.4137952862349521
+Average mse accross all folds = 0.8411006331443787
+Fold 1, k_feat 16
+X_train.shape:  (268, 16)
+Pearson r: 0.401
+MSE: 0.887
+Fold 2, k_feat 16
+X_train.shape:  (268, 16)
+Pearson r: 0.467
+MSE: 0.846
+Fold 3, k_feat 16
+X_train.shape:  (268, 16)
+Pearson r: 0.484
+MSE: 0.701
+Average pearson_r accross all folds = 0.4506710564453508
+Average mse accross all folds = 0.8110173344612122
+Fold 1, k_feat 32
+X_train.shape:  (268, 32)
+Pearson r: 0.395
+MSE: 0.892
+Fold 2, k_feat 32
+X_train.shape:  (268, 32)
+Pearson r: 0.501
+MSE: 0.805
+Fold 3, k_feat 32
+X_train.shape:  (268, 32)
+Pearson r: 0.584
+MSE: 0.606
+Average pearson_r accross all folds = 0.49311827041511097
+Average mse accross all folds = 0.7673986554145813
+Fold 1, k_feat 64
+X_train.shape:  (268, 64)
+Pearson r: 0.419
+MSE: 0.885
+Fold 2, k_feat 64
+X_train.shape:  (268, 64)
+Pearson r: 0.543
+MSE: 0.756
+Fold 3, k_feat 64
+X_train.shape:  (268, 64)
+Pearson r: 0.617
+MSE: 0.561
+Average pearson_r accross all folds = 0.5262784196637242
+Average mse accross all folds = 0.7342398166656494
+Fold 1, k_feat 128
+X_train.shape:  (268, 128)
+Pearson r: 0.498
+MSE: 0.801
+Fold 2, k_feat 128
+X_train.shape:  (268, 128)
+Pearson r: 0.608
+MSE: 0.676
+Fold 3, k_feat 128
+X_train.shape:  (268, 128)
+Pearson r: 0.664
+MSE: 0.507
+Average pearson_r accross all folds = 0.5901103985187398
+Average mse accross all folds = 0.6613283157348633
+Fold 1, k_feat 256
+X_train.shape:  (268, 256)
+Pearson r: 0.583
+MSE: 0.699
+Fold 2, k_feat 256
+X_train.shape:  (268, 256)
+Pearson r: 0.574
+MSE: 0.732
+Fold 3, k_feat 256
+X_train.shape:  (268, 256)
+Pearson r: 0.673
+MSE: 0.504
+Average pearson_r accross all folds = 0.6099564006105385
+Average mse accross all folds = 0.6451988816261292
+Fold 1, k_feat 512
+X_train.shape:  (268, 512)
+Pearson r: 0.604
+MSE: 0.688
+Fold 2, k_feat 512
+X_train.shape:  (268, 512)
+Pearson r: 0.518
+MSE: 0.832
+Fold 3, k_feat 512
+X_train.shape:  (268, 512)
+Pearson r: 0.660
+MSE: 0.561
+Average pearson_r accross all folds = 0.5940204326448144
+Average mse accross all folds = 0.6934251189231873
+Fold 1, k_feat 1024
+X_train.shape:  (268, 1024)
+Pearson r: 0.652
+MSE: 0.613
+Fold 2, k_feat 1024
+X_train.shape:  (268, 1024)
+Pearson r: 0.621
+MSE: 0.690
+Fold 3, k_feat 1024
+X_train.shape:  (268, 1024)
+Pearson r: 0.640
+MSE: 0.587
+Average pearson_r accross all folds = 0.6378558154309312
+Average mse accross all folds = 0.6298813223838806
+Fold 1, k_feat 2048
+X_train.shape:  (268, 2048)
+Pearson r: 0.683
+MSE: 0.565
+Fold 2, k_feat 2048
+X_train.shape:  (268, 2048)
+Pearson r: 0.629
+MSE: 0.697
+Fold 3, k_feat 2048
+X_train.shape:  (268, 2048)
+Pearson r: 0.593
+MSE: 0.669
+Average pearson_r accross all folds = 0.6347959273811008
+Average mse accross all folds = 0.6435779929161072
+Fold 1, k_feat 4096
+X_train.shape:  (268, 4096)
+Pearson r: 0.666
+MSE: 0.599
+Fold 2, k_feat 4096
+X_train.shape:  (268, 4096)
+Pearson r: 0.688
+MSE: 0.579
+Fold 3, k_feat 4096
+X_train.shape:  (268, 4096)
+Pearson r: 0.568
+MSE: 0.696
+Average pearson_r accross all folds = 0.6407173293111414
+Average mse accross all folds = 0.6248096823692322
+Fold 1, k_feat 8192
+X_train.shape:  (268, 8192)
+Pearson r: 0.667
+MSE: 0.615
+Fold 2, k_feat 8192
+X_train.shape:  (268, 8192)
+Pearson r: 0.692
+MSE: 0.565
+Fold 3, k_feat 8192
+X_train.shape:  (268, 8192)
+Pearson r: 0.601
+MSE: 0.626
+Average pearson_r accross all folds = 0.6531983106439788
+Average mse accross all folds = 0.601771891117096

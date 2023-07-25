@@ -1,0 +1,16 @@
+After clean X.shape:  (397, 24108)
+Fold 1, k_feat 24108
+X_train.shape:  (264, 24108)
+train_loader.dataset len:  34980
+Epoch:10/20 AVG Training Loss:0.162 Training Pearson r:0.915 AVG Test Loss:0.760 Test Pearson r:0.594
+Epoch:20/20 AVG Training Loss:0.154 Training Pearson r:0.920 AVG Test Loss:0.781 Test Pearson r:0.601
+Fold 2, k_feat 24108
+X_train.shape:  (265, 24108)
+train_loader.dataset len:  35245
+Epoch:10/20 AVG Training Loss:0.169 Training Pearson r:0.912 AVG Test Loss:0.750 Test Pearson r:0.622
+Epoch:20/20 AVG Training Loss:0.161 Training Pearson r:0.916 AVG Test Loss:0.785 Test Pearson r:0.614
+Fold 3, k_feat 24108
+X_train.shape:  (265, 24108)
+train_loader.dataset len:  35245
+Epoch:10/20 AVG Training Loss:0.159 Training Pearson r:0.917 AVG Test Loss:0.540 Test Pearson r:0.618
+Epoch:20/20 AVG Training Loss:0.146 Training Pearson r:0.924 AVG Test Loss:0.560 Test Pearson r:0.606

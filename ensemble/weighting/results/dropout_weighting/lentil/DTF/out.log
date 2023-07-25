@@ -1,0 +1,1512 @@
+Dropout rate: 0.99
+Fold 1
+Epoch 1/20 | Train loss: 33.4417 | Train Pearson: 0.0796 | Valid loss: 2.2129 | Valid Pearson: -0.7823
+Epoch 2/20 | Train loss: 22.0936 | Train Pearson: -0.1764 | Valid loss: 1.7359 | Valid Pearson: -0.7618
+Epoch 3/20 | Train loss: 29.1465 | Train Pearson: -0.0992 | Valid loss: 1.1317 | Valid Pearson: -0.0910
+Epoch 4/20 | Train loss: 33.6135 | Train Pearson: 0.0359 | Valid loss: 0.8373 | Valid Pearson: 0.7549
+Epoch 5/20 | Train loss: 12.2517 | Train Pearson: 0.2040 | Valid loss: 0.7185 | Valid Pearson: 0.7867
+Epoch 6/20 | Train loss: 10.2680 | Train Pearson: 0.2759 | Valid loss: 0.7266 | Valid Pearson: 0.7870
+Epoch 7/20 | Train loss: 9.3498 | Train Pearson: 0.2569 | Valid loss: 0.7931 | Valid Pearson: 0.7795
+Epoch 8/20 | Train loss: 12.4078 | Train Pearson: 0.0766 | Valid loss: 0.6847 | Valid Pearson: 0.7941
+Epoch 9/20 | Train loss: 8.7003 | Train Pearson: 0.0646 | Valid loss: 0.5789 | Valid Pearson: 0.7994
+Epoch 10/20 | Train loss: 8.2849 | Train Pearson: 0.0949 | Valid loss: 0.5771 | Valid Pearson: 0.7998
+Epoch 11/20 | Train loss: 5.7844 | Train Pearson: 0.2493 | Valid loss: 0.5656 | Valid Pearson: 0.8011
+Epoch 12/20 | Train loss: 7.0055 | Train Pearson: 0.2691 | Valid loss: 0.5607 | Valid Pearson: 0.8014
+Epoch 13/20 | Train loss: 8.3187 | Train Pearson: 0.2973 | Valid loss: 0.5898 | Valid Pearson: 0.8008
+Epoch 14/20 | Train loss: 5.0613 | Train Pearson: 0.3138 | Valid loss: 0.5787 | Valid Pearson: 0.8008
+Epoch 15/20 | Train loss: 6.3315 | Train Pearson: 0.1342 | Valid loss: 0.5507 | Valid Pearson: 0.8009
+Epoch 16/20 | Train loss: 4.3715 | Train Pearson: 0.3225 | Valid loss: 0.5262 | Valid Pearson: 0.8029
+Epoch 17/20 | Train loss: 3.6315 | Train Pearson: 0.4091 | Valid loss: 0.5538 | Valid Pearson: 0.8023
+Epoch 18/20 | Train loss: 3.1452 | Train Pearson: 0.4529 | Valid loss: 0.5516 | Valid Pearson: 0.8022
+Epoch 19/20 | Train loss: 2.4276 | Train Pearson: 0.3979 | Valid loss: 0.5348 | Valid Pearson: 0.8026
+Epoch 20/20 | Train loss: 3.0796 | Train Pearson: 0.2852 | Valid loss: 0.4943 | Valid Pearson: 0.8031
+MSE: 0.4942644384015275
+Pearson r: 0.8031301721800046
+Fold 2
+Epoch 1/20 | Train loss: 32.4053 | Train Pearson: 0.0197 | Valid loss: 1.6742 | Valid Pearson: -0.7069
+Epoch 2/20 | Train loss: 24.3864 | Train Pearson: -0.1639 | Valid loss: 1.1039 | Valid Pearson: 0.1410
+Epoch 3/20 | Train loss: 21.4467 | Train Pearson: -0.1442 | Valid loss: 0.7566 | Valid Pearson: 0.6921
+Epoch 4/20 | Train loss: 20.7732 | Train Pearson: 0.0693 | Valid loss: 0.6501 | Valid Pearson: 0.7328
+Epoch 5/20 | Train loss: 14.1428 | Train Pearson: 0.1496 | Valid loss: 0.6295 | Valid Pearson: 0.7419
+Epoch 6/20 | Train loss: 14.4197 | Train Pearson: 0.1510 | Valid loss: 0.6606 | Valid Pearson: 0.7422
+Epoch 7/20 | Train loss: 10.4637 | Train Pearson: 0.0868 | Valid loss: 0.6202 | Valid Pearson: 0.7538
+Epoch 8/20 | Train loss: 12.4656 | Train Pearson: 0.1379 | Valid loss: 0.5833 | Valid Pearson: 0.7617
+Epoch 9/20 | Train loss: 6.1972 | Train Pearson: 0.1672 | Valid loss: 0.5146 | Valid Pearson: 0.7690
+Epoch 10/20 | Train loss: 6.6854 | Train Pearson: 0.2855 | Valid loss: 0.5445 | Valid Pearson: 0.7681
+Epoch 11/20 | Train loss: 6.9395 | Train Pearson: 0.3249 | Valid loss: 0.5646 | Valid Pearson: 0.7674
+Epoch 12/20 | Train loss: 5.9175 | Train Pearson: 0.1878 | Valid loss: 0.5224 | Valid Pearson: 0.7726
+Epoch 13/20 | Train loss: 4.2135 | Train Pearson: 0.2757 | Valid loss: 0.4847 | Valid Pearson: 0.7757
+Epoch 14/20 | Train loss: 5.6200 | Train Pearson: 0.1827 | Valid loss: 0.4684 | Valid Pearson: 0.7774
+Epoch 15/20 | Train loss: 4.0657 | Train Pearson: 0.3871 | Valid loss: 0.4747 | Valid Pearson: 0.7773
+Epoch 16/20 | Train loss: 3.0948 | Train Pearson: 0.3497 | Valid loss: 0.4710 | Valid Pearson: 0.7774
+Epoch 17/20 | Train loss: 3.4866 | Train Pearson: 0.3671 | Valid loss: 0.4592 | Valid Pearson: 0.7790
+Epoch 18/20 | Train loss: 2.8844 | Train Pearson: 0.4788 | Valid loss: 0.4967 | Valid Pearson: 0.7791
+Epoch 19/20 | Train loss: 3.5493 | Train Pearson: 0.4688 | Valid loss: 0.5451 | Valid Pearson: 0.7793
+Epoch 20/20 | Train loss: 2.1725 | Train Pearson: 0.3754 | Valid loss: 0.5497 | Valid Pearson: 0.7803
+MSE: 0.5496900497272286
+Pearson r: 0.780262960190892
+Fold 3
+Epoch 1/20 | Train loss: 37.5448 | Train Pearson: 0.0980 | Valid loss: 0.8782 | Valid Pearson: -0.3869
+Epoch 2/20 | Train loss: 23.4519 | Train Pearson: 0.0588 | Valid loss: 0.7152 | Valid Pearson: 0.4462
+Epoch 3/20 | Train loss: 17.0018 | Train Pearson: 0.0430 | Valid loss: 0.5729 | Valid Pearson: 0.7058
+Epoch 4/20 | Train loss: 19.3619 | Train Pearson: -0.0852 | Valid loss: 0.4762 | Valid Pearson: 0.7546
+Epoch 5/20 | Train loss: 15.0085 | Train Pearson: 0.1331 | Valid loss: 0.4237 | Valid Pearson: 0.7717
+Epoch 6/20 | Train loss: 8.4238 | Train Pearson: 0.1394 | Valid loss: 0.3895 | Valid Pearson: 0.7790
+Epoch 7/20 | Train loss: 9.0500 | Train Pearson: 0.2906 | Valid loss: 0.3776 | Valid Pearson: 0.7823
+Epoch 8/20 | Train loss: 8.3755 | Train Pearson: 0.1958 | Valid loss: 0.3467 | Valid Pearson: 0.7862
+Epoch 9/20 | Train loss: 12.5345 | Train Pearson: -0.1022 | Valid loss: 0.3036 | Valid Pearson: 0.7910
+Epoch 10/20 | Train loss: 8.3661 | Train Pearson: 0.4127 | Valid loss: 0.2995 | Valid Pearson: 0.7920
+Epoch 11/20 | Train loss: 6.8248 | Train Pearson: 0.4718 | Valid loss: 0.3292 | Valid Pearson: 0.7916
+Epoch 12/20 | Train loss: 4.9900 | Train Pearson: 0.2343 | Valid loss: 0.3431 | Valid Pearson: 0.7922
+Epoch 13/20 | Train loss: 3.6982 | Train Pearson: 0.3120 | Valid loss: 0.3320 | Valid Pearson: 0.7929
+Epoch 14/20 | Train loss: 5.1359 | Train Pearson: 0.4013 | Valid loss: 0.3573 | Valid Pearson: 0.7924
+Epoch 15/20 | Train loss: 3.8090 | Train Pearson: 0.4932 | Valid loss: 0.3766 | Valid Pearson: 0.7926
+Epoch 16/20 | Train loss: 2.7916 | Train Pearson: 0.2739 | Valid loss: 0.3525 | Valid Pearson: 0.7938
+Epoch 17/20 | Train loss: 3.0827 | Train Pearson: 0.3987 | Valid loss: 0.3418 | Valid Pearson: 0.7946
+Epoch 18/20 | Train loss: 2.6613 | Train Pearson: 0.3692 | Valid loss: 0.3401 | Valid Pearson: 0.7953
+Epoch 19/20 | Train loss: 2.6583 | Train Pearson: 0.3658 | Valid loss: 0.3315 | Valid Pearson: 0.7962
+Epoch 20/20 | Train loss: 2.2382 | Train Pearson: 0.4035 | Valid loss: 0.3185 | Valid Pearson: 0.7971
+MSE: 0.31850207057897145
+Pearson r: 0.7970608368957394
+Dropout rate: 0.99, Retained fraction: 0.01: MSE: 0.4541521862359092, Pearson r: 0.793484656422212
+
+Dropout rate: 0.95
+Fold 1
+Epoch 1/20 | Train loss: 6.0499 | Train Pearson: 0.2788 | Valid loss: 0.4307 | Valid Pearson: 0.7995
+Epoch 2/20 | Train loss: 4.0683 | Train Pearson: 0.2954 | Valid loss: 0.4156 | Valid Pearson: 0.8017
+Epoch 3/20 | Train loss: 3.8538 | Train Pearson: 0.4774 | Valid loss: 0.4144 | Valid Pearson: 0.8018
+Epoch 4/20 | Train loss: 3.5290 | Train Pearson: 0.4884 | Valid loss: 0.4358 | Valid Pearson: 0.7998
+Epoch 5/20 | Train loss: 2.4655 | Train Pearson: 0.4849 | Valid loss: 0.4221 | Valid Pearson: 0.8008
+Epoch 6/20 | Train loss: 2.6716 | Train Pearson: 0.5677 | Valid loss: 0.4359 | Valid Pearson: 0.7998
+Epoch 7/20 | Train loss: 2.9439 | Train Pearson: 0.3233 | Valid loss: 0.4205 | Valid Pearson: 0.8001
+Epoch 8/20 | Train loss: 1.9040 | Train Pearson: 0.5353 | Valid loss: 0.4152 | Valid Pearson: 0.8011
+Epoch 9/20 | Train loss: 2.3651 | Train Pearson: 0.6886 | Valid loss: 0.4570 | Valid Pearson: 0.7989
+Epoch 10/20 | Train loss: 1.5674 | Train Pearson: 0.5175 | Valid loss: 0.4607 | Valid Pearson: 0.8000
+Epoch 11/20 | Train loss: 1.0989 | Train Pearson: 0.5898 | Valid loss: 0.4211 | Valid Pearson: 0.8011
+Epoch 12/20 | Train loss: 1.2329 | Train Pearson: 0.7106 | Valid loss: 0.4377 | Valid Pearson: 0.8002
+Epoch 13/20 | Train loss: 1.1931 | Train Pearson: 0.6336 | Valid loss: 0.4214 | Valid Pearson: 0.8011
+Epoch 14/20 | Train loss: 0.8852 | Train Pearson: 0.7667 | Valid loss: 0.4563 | Valid Pearson: 0.8015
+Epoch 15/20 | Train loss: 0.6621 | Train Pearson: 0.6965 | Valid loss: 0.4320 | Valid Pearson: 0.8021
+Epoch 16/20 | Train loss: 0.8016 | Train Pearson: 0.6779 | Valid loss: 0.4087 | Valid Pearson: 0.8026
+Epoch 17/20 | Train loss: 0.5419 | Train Pearson: 0.8328 | Valid loss: 0.4100 | Valid Pearson: 0.8029
+Epoch 18/20 | Train loss: 0.5237 | Train Pearson: 0.7918 | Valid loss: 0.4356 | Valid Pearson: 0.8030
+Epoch 19/20 | Train loss: 0.4425 | Train Pearson: 0.8178 | Valid loss: 0.4224 | Valid Pearson: 0.8037
+Epoch 20/20 | Train loss: 0.4806 | Train Pearson: 0.8114 | Valid loss: 0.4516 | Valid Pearson: 0.8037
+MSE: 0.4516306745010302
+Pearson r: 0.8036800669309636
+Fold 2
+Epoch 1/20 | Train loss: 4.6889 | Train Pearson: 0.2089 | Valid loss: 0.4897 | Valid Pearson: 0.7622
+Epoch 2/20 | Train loss: 2.8963 | Train Pearson: 0.5175 | Valid loss: 0.4621 | Valid Pearson: 0.7700
+Epoch 3/20 | Train loss: 3.0275 | Train Pearson: 0.4032 | Valid loss: 0.4598 | Valid Pearson: 0.7720
+Epoch 4/20 | Train loss: 2.5827 | Train Pearson: 0.5612 | Valid loss: 0.4595 | Valid Pearson: 0.7732
+Epoch 5/20 | Train loss: 3.0044 | Train Pearson: 0.5213 | Valid loss: 0.4588 | Valid Pearson: 0.7718
+Epoch 6/20 | Train loss: 2.2438 | Train Pearson: 0.5027 | Valid loss: 0.4588 | Valid Pearson: 0.7728
+Epoch 7/20 | Train loss: 1.3860 | Train Pearson: 0.5106 | Valid loss: 0.4764 | Valid Pearson: 0.7774
+Epoch 8/20 | Train loss: 1.5375 | Train Pearson: 0.6457 | Valid loss: 0.4617 | Valid Pearson: 0.7781
+Epoch 9/20 | Train loss: 1.5713 | Train Pearson: 0.5932 | Valid loss: 0.4546 | Valid Pearson: 0.7781
+Epoch 10/20 | Train loss: 1.1206 | Train Pearson: 0.6702 | Valid loss: 0.4465 | Valid Pearson: 0.7778
+Epoch 11/20 | Train loss: 1.1803 | Train Pearson: 0.6013 | Valid loss: 0.4448 | Valid Pearson: 0.7785
+Epoch 12/20 | Train loss: 0.8400 | Train Pearson: 0.7428 | Valid loss: 0.4450 | Valid Pearson: 0.7785
+Epoch 13/20 | Train loss: 0.6967 | Train Pearson: 0.7250 | Valid loss: 0.4505 | Valid Pearson: 0.7783
+Epoch 14/20 | Train loss: 0.7305 | Train Pearson: 0.7431 | Valid loss: 0.4425 | Valid Pearson: 0.7798
+Epoch 15/20 | Train loss: 0.6953 | Train Pearson: 0.7265 | Valid loss: 0.4485 | Valid Pearson: 0.7797
+Epoch 16/20 | Train loss: 0.4295 | Train Pearson: 0.8297 | Valid loss: 0.4484 | Valid Pearson: 0.7799
+Epoch 17/20 | Train loss: 0.3574 | Train Pearson: 0.8421 | Valid loss: 0.4517 | Valid Pearson: 0.7800
+Epoch 18/20 | Train loss: 0.3140 | Train Pearson: 0.8602 | Valid loss: 0.4495 | Valid Pearson: 0.7806
+Epoch 19/20 | Train loss: 0.3031 | Train Pearson: 0.8407 | Valid loss: 0.4409 | Valid Pearson: 0.7806
+Epoch 20/20 | Train loss: 0.3370 | Train Pearson: 0.8492 | Valid loss: 0.4417 | Valid Pearson: 0.7814
+MSE: 0.4417406149040105
+Pearson r: 0.7814083576703813
+Fold 3
+Epoch 1/20 | Train loss: 4.6088 | Train Pearson: 0.0789 | Valid loss: 0.3125 | Valid Pearson: 0.8048
+Epoch 2/20 | Train loss: 3.2204 | Train Pearson: 0.5878 | Valid loss: 0.2890 | Valid Pearson: 0.8042
+Epoch 3/20 | Train loss: 3.5962 | Train Pearson: 0.4452 | Valid loss: 0.2985 | Valid Pearson: 0.8033
+Epoch 4/20 | Train loss: 3.1038 | Train Pearson: 0.3711 | Valid loss: 0.2973 | Valid Pearson: 0.8033
+Epoch 5/20 | Train loss: 2.3075 | Train Pearson: 0.5149 | Valid loss: 0.2862 | Valid Pearson: 0.8033
+Epoch 6/20 | Train loss: 2.5577 | Train Pearson: 0.3345 | Valid loss: 0.3099 | Valid Pearson: 0.8019
+Epoch 7/20 | Train loss: 1.5300 | Train Pearson: 0.7599 | Valid loss: 0.2897 | Valid Pearson: 0.8014
+Epoch 8/20 | Train loss: 1.7067 | Train Pearson: 0.5944 | Valid loss: 0.2867 | Valid Pearson: 0.8010
+Epoch 9/20 | Train loss: 1.4259 | Train Pearson: 0.6229 | Valid loss: 0.2962 | Valid Pearson: 0.8009
+Epoch 10/20 | Train loss: 1.3821 | Train Pearson: 0.6342 | Valid loss: 0.3420 | Valid Pearson: 0.7999
+Epoch 11/20 | Train loss: 1.4336 | Train Pearson: 0.4860 | Valid loss: 0.2930 | Valid Pearson: 0.8008
+Epoch 12/20 | Train loss: 0.8272 | Train Pearson: 0.6692 | Valid loss: 0.3104 | Valid Pearson: 0.8005
+Epoch 13/20 | Train loss: 1.2252 | Train Pearson: 0.7121 | Valid loss: 0.2950 | Valid Pearson: 0.8000
+Epoch 14/20 | Train loss: 0.5867 | Train Pearson: 0.7808 | Valid loss: 0.2877 | Valid Pearson: 0.7992
+Epoch 15/20 | Train loss: 0.7808 | Train Pearson: 0.7633 | Valid loss: 0.3008 | Valid Pearson: 0.7980
+Epoch 16/20 | Train loss: 0.8078 | Train Pearson: 0.6214 | Valid loss: 0.2886 | Valid Pearson: 0.7982
+Epoch 17/20 | Train loss: 0.4830 | Train Pearson: 0.8242 | Valid loss: 0.2974 | Valid Pearson: 0.7987
+Epoch 18/20 | Train loss: 0.4771 | Train Pearson: 0.8251 | Valid loss: 0.2883 | Valid Pearson: 0.7984
+Epoch 19/20 | Train loss: 0.4504 | Train Pearson: 0.7993 | Valid loss: 0.2898 | Valid Pearson: 0.7990
+Epoch 20/20 | Train loss: 0.4265 | Train Pearson: 0.8376 | Valid loss: 0.2871 | Valid Pearson: 0.7992
+MSE: 0.28707433378097275
+Pearson r: 0.7991894780426525
+Dropout rate: 0.95, Retained fraction: 0.05: MSE: 0.3934818743953378, Pearson r: 0.7947593008813326
+
+Dropout rate: 0.9
+Fold 1
+Epoch 1/20 | Train loss: 3.3822 | Train Pearson: 0.3088 | Valid loss: 0.4485 | Valid Pearson: 0.8012
+Epoch 2/20 | Train loss: 1.7027 | Train Pearson: 0.6547 | Valid loss: 0.4512 | Valid Pearson: 0.8006
+Epoch 3/20 | Train loss: 1.9365 | Train Pearson: 0.4933 | Valid loss: 0.4554 | Valid Pearson: 0.8019
+Epoch 4/20 | Train loss: 1.7245 | Train Pearson: 0.6645 | Valid loss: 0.4711 | Valid Pearson: 0.7998
+Epoch 5/20 | Train loss: 1.5938 | Train Pearson: 0.5172 | Valid loss: 0.4432 | Valid Pearson: 0.8016
+Epoch 6/20 | Train loss: 1.3145 | Train Pearson: 0.7092 | Valid loss: 0.4408 | Valid Pearson: 0.8015
+Epoch 7/20 | Train loss: 1.3406 | Train Pearson: 0.5790 | Valid loss: 0.4400 | Valid Pearson: 0.8011
+Epoch 8/20 | Train loss: 1.0155 | Train Pearson: 0.7277 | Valid loss: 0.4360 | Valid Pearson: 0.8014
+Epoch 9/20 | Train loss: 1.2111 | Train Pearson: 0.6917 | Valid loss: 0.4560 | Valid Pearson: 0.8013
+Epoch 10/20 | Train loss: 1.0136 | Train Pearson: 0.6294 | Valid loss: 0.4298 | Valid Pearson: 0.8025
+Epoch 11/20 | Train loss: 0.6641 | Train Pearson: 0.8049 | Valid loss: 0.4418 | Valid Pearson: 0.8025
+Epoch 12/20 | Train loss: 0.7529 | Train Pearson: 0.7046 | Valid loss: 0.4356 | Valid Pearson: 0.8024
+Epoch 13/20 | Train loss: 0.6324 | Train Pearson: 0.8014 | Valid loss: 0.4270 | Valid Pearson: 0.8024
+Epoch 14/20 | Train loss: 0.4584 | Train Pearson: 0.8078 | Valid loss: 0.4324 | Valid Pearson: 0.8020
+Epoch 15/20 | Train loss: 0.4427 | Train Pearson: 0.8308 | Valid loss: 0.4347 | Valid Pearson: 0.8021
+Epoch 16/20 | Train loss: 0.4634 | Train Pearson: 0.7884 | Valid loss: 0.4353 | Valid Pearson: 0.8019
+Epoch 17/20 | Train loss: 0.4523 | Train Pearson: 0.8427 | Valid loss: 0.4360 | Valid Pearson: 0.8017
+Epoch 18/20 | Train loss: 0.3116 | Train Pearson: 0.8590 | Valid loss: 0.4364 | Valid Pearson: 0.8018
+Epoch 19/20 | Train loss: 0.2889 | Train Pearson: 0.8639 | Valid loss: 0.4218 | Valid Pearson: 0.8020
+Epoch 20/20 | Train loss: 0.2503 | Train Pearson: 0.8972 | Valid loss: 0.4251 | Valid Pearson: 0.8021
+MSE: 0.42512099416718935
+Pearson r: 0.8021424281068411
+Fold 2
+Epoch 1/20 | Train loss: 2.4931 | Train Pearson: 0.4116 | Valid loss: 0.4397 | Valid Pearson: 0.7806
+Epoch 2/20 | Train loss: 1.8714 | Train Pearson: 0.5852 | Valid loss: 0.4747 | Valid Pearson: 0.7828
+Epoch 3/20 | Train loss: 2.3678 | Train Pearson: 0.5380 | Valid loss: 0.4778 | Valid Pearson: 0.7829
+Epoch 4/20 | Train loss: 1.4538 | Train Pearson: 0.6372 | Valid loss: 0.4430 | Valid Pearson: 0.7825
+Epoch 5/20 | Train loss: 1.4363 | Train Pearson: 0.6648 | Valid loss: 0.4382 | Valid Pearson: 0.7817
+Epoch 6/20 | Train loss: 1.1512 | Train Pearson: 0.6975 | Valid loss: 0.4405 | Valid Pearson: 0.7817
+Epoch 7/20 | Train loss: 1.1477 | Train Pearson: 0.6172 | Valid loss: 0.4391 | Valid Pearson: 0.7829
+Epoch 8/20 | Train loss: 1.0519 | Train Pearson: 0.6952 | Valid loss: 0.4369 | Valid Pearson: 0.7831
+Epoch 9/20 | Train loss: 0.9570 | Train Pearson: 0.6818 | Valid loss: 0.4390 | Valid Pearson: 0.7838
+Epoch 10/20 | Train loss: 0.7642 | Train Pearson: 0.7251 | Valid loss: 0.4834 | Valid Pearson: 0.7845
+Epoch 11/20 | Train loss: 0.8824 | Train Pearson: 0.7704 | Valid loss: 0.4450 | Valid Pearson: 0.7851
+Epoch 12/20 | Train loss: 0.6374 | Train Pearson: 0.7642 | Valid loss: 0.4320 | Valid Pearson: 0.7861
+Epoch 13/20 | Train loss: 0.5135 | Train Pearson: 0.7584 | Valid loss: 0.4468 | Valid Pearson: 0.7862
+Epoch 14/20 | Train loss: 0.6921 | Train Pearson: 0.7730 | Valid loss: 0.4532 | Valid Pearson: 0.7861
+Epoch 15/20 | Train loss: 0.4106 | Train Pearson: 0.8675 | Valid loss: 0.4311 | Valid Pearson: 0.7860
+Epoch 16/20 | Train loss: 0.3351 | Train Pearson: 0.8396 | Valid loss: 0.4379 | Valid Pearson: 0.7861
+Epoch 17/20 | Train loss: 0.3229 | Train Pearson: 0.8635 | Valid loss: 0.4411 | Valid Pearson: 0.7855
+Epoch 18/20 | Train loss: 0.2355 | Train Pearson: 0.8991 | Valid loss: 0.4322 | Valid Pearson: 0.7852
+Epoch 19/20 | Train loss: 0.2051 | Train Pearson: 0.9105 | Valid loss: 0.4328 | Valid Pearson: 0.7846
+Epoch 20/20 | Train loss: 0.1966 | Train Pearson: 0.9048 | Valid loss: 0.4376 | Valid Pearson: 0.7845
+MSE: 0.43763678493827957
+Pearson r: 0.7844827863546424
+Fold 3
+Epoch 1/20 | Train loss: 3.0800 | Train Pearson: 0.2689 | Valid loss: 0.2940 | Valid Pearson: 0.7929
+Epoch 2/20 | Train loss: 1.9682 | Train Pearson: 0.4950 | Valid loss: 0.3212 | Valid Pearson: 0.7960
+Epoch 3/20 | Train loss: 2.1269 | Train Pearson: 0.6857 | Valid loss: 0.2930 | Valid Pearson: 0.7939
+Epoch 4/20 | Train loss: 1.6847 | Train Pearson: 0.5103 | Valid loss: 0.2931 | Valid Pearson: 0.7937
+Epoch 5/20 | Train loss: 1.4471 | Train Pearson: 0.6222 | Valid loss: 0.2929 | Valid Pearson: 0.7942
+Epoch 6/20 | Train loss: 1.0981 | Train Pearson: 0.6924 | Valid loss: 0.2920 | Valid Pearson: 0.7947
+Epoch 7/20 | Train loss: 1.0543 | Train Pearson: 0.6750 | Valid loss: 0.2907 | Valid Pearson: 0.7962
+Epoch 8/20 | Train loss: 0.8248 | Train Pearson: 0.7318 | Valid loss: 0.2891 | Valid Pearson: 0.7971
+Epoch 9/20 | Train loss: 0.9244 | Train Pearson: 0.7435 | Valid loss: 0.2872 | Valid Pearson: 0.7983
+Epoch 10/20 | Train loss: 0.6443 | Train Pearson: 0.7743 | Valid loss: 0.2891 | Valid Pearson: 0.7986
+Epoch 11/20 | Train loss: 0.6138 | Train Pearson: 0.7349 | Valid loss: 0.2872 | Valid Pearson: 0.7990
+Epoch 12/20 | Train loss: 0.6045 | Train Pearson: 0.8188 | Valid loss: 0.2864 | Valid Pearson: 0.7992
+Epoch 13/20 | Train loss: 0.6100 | Train Pearson: 0.7711 | Valid loss: 0.2873 | Valid Pearson: 0.7988
+Epoch 14/20 | Train loss: 0.4133 | Train Pearson: 0.8243 | Valid loss: 0.2878 | Valid Pearson: 0.7989
+Epoch 15/20 | Train loss: 0.3882 | Train Pearson: 0.8346 | Valid loss: 0.2952 | Valid Pearson: 0.7997
+Epoch 16/20 | Train loss: 0.3805 | Train Pearson: 0.8494 | Valid loss: 0.3034 | Valid Pearson: 0.7993
+Epoch 17/20 | Train loss: 0.2386 | Train Pearson: 0.8999 | Valid loss: 0.2869 | Valid Pearson: 0.7989
+Epoch 18/20 | Train loss: 0.2980 | Train Pearson: 0.8750 | Valid loss: 0.2944 | Valid Pearson: 0.7980
+Epoch 19/20 | Train loss: 0.3343 | Train Pearson: 0.8337 | Valid loss: 0.2893 | Valid Pearson: 0.7993
+Epoch 20/20 | Train loss: 0.2281 | Train Pearson: 0.9047 | Valid loss: 0.2861 | Valid Pearson: 0.7998
+MSE: 0.2860714913373976
+Pearson r: 0.7997501029721381
+Dropout rate: 0.9, Retained fraction: 0.1: MSE: 0.3829430901476221, Pearson r: 0.7954584391445406
+
+Dropout rate: 0.85
+Fold 1
+Epoch 1/20 | Train loss: 2.5031 | Train Pearson: 0.3079 | Valid loss: 0.4731 | Valid Pearson: 0.7973
+Epoch 2/20 | Train loss: 1.5166 | Train Pearson: 0.6747 | Valid loss: 0.4258 | Valid Pearson: 0.7966
+Epoch 3/20 | Train loss: 1.6186 | Train Pearson: 0.6018 | Valid loss: 0.4237 | Valid Pearson: 0.7964
+Epoch 4/20 | Train loss: 1.0486 | Train Pearson: 0.6877 | Valid loss: 0.4247 | Valid Pearson: 0.7968
+Epoch 5/20 | Train loss: 1.4280 | Train Pearson: 0.6367 | Valid loss: 0.4250 | Valid Pearson: 0.7978
+Epoch 6/20 | Train loss: 1.0297 | Train Pearson: 0.7081 | Valid loss: 0.4187 | Valid Pearson: 0.8000
+Epoch 7/20 | Train loss: 1.1108 | Train Pearson: 0.6896 | Valid loss: 0.4224 | Valid Pearson: 0.7994
+Epoch 8/20 | Train loss: 1.0374 | Train Pearson: 0.6529 | Valid loss: 0.4147 | Valid Pearson: 0.8006
+Epoch 9/20 | Train loss: 0.7466 | Train Pearson: 0.7262 | Valid loss: 0.4149 | Valid Pearson: 0.8020
+Epoch 10/20 | Train loss: 0.7677 | Train Pearson: 0.7827 | Valid loss: 0.4273 | Valid Pearson: 0.8008
+Epoch 11/20 | Train loss: 0.9502 | Train Pearson: 0.7320 | Valid loss: 0.4466 | Valid Pearson: 0.8006
+Epoch 12/20 | Train loss: 0.4688 | Train Pearson: 0.7932 | Valid loss: 0.4311 | Valid Pearson: 0.8014
+Epoch 13/20 | Train loss: 0.5755 | Train Pearson: 0.7828 | Valid loss: 0.4096 | Valid Pearson: 0.8022
+Epoch 14/20 | Train loss: 0.4465 | Train Pearson: 0.8307 | Valid loss: 0.4192 | Valid Pearson: 0.8021
+Epoch 15/20 | Train loss: 0.3542 | Train Pearson: 0.8543 | Valid loss: 0.4095 | Valid Pearson: 0.8031
+Epoch 16/20 | Train loss: 0.4360 | Train Pearson: 0.8333 | Valid loss: 0.4229 | Valid Pearson: 0.8037
+Epoch 17/20 | Train loss: 0.3531 | Train Pearson: 0.8299 | Valid loss: 0.4151 | Valid Pearson: 0.8037
+Epoch 18/20 | Train loss: 0.3738 | Train Pearson: 0.8459 | Valid loss: 0.4107 | Valid Pearson: 0.8033
+Epoch 19/20 | Train loss: 0.2524 | Train Pearson: 0.9138 | Valid loss: 0.4289 | Valid Pearson: 0.8029
+Epoch 20/20 | Train loss: 0.2322 | Train Pearson: 0.8912 | Valid loss: 0.4172 | Valid Pearson: 0.8032
+MSE: 0.41716649493293895
+Pearson r: 0.8032115661484012
+Fold 2
+Epoch 1/20 | Train loss: 1.7388 | Train Pearson: 0.5020 | Valid loss: 0.4599 | Valid Pearson: 0.7791
+Epoch 2/20 | Train loss: 1.6294 | Train Pearson: 0.6511 | Valid loss: 0.4519 | Valid Pearson: 0.7776
+Epoch 3/20 | Train loss: 1.1496 | Train Pearson: 0.6579 | Valid loss: 0.4502 | Valid Pearson: 0.7786
+Epoch 4/20 | Train loss: 0.9799 | Train Pearson: 0.6746 | Valid loss: 0.4489 | Valid Pearson: 0.7802
+Epoch 5/20 | Train loss: 0.8131 | Train Pearson: 0.7815 | Valid loss: 0.4460 | Valid Pearson: 0.7805
+Epoch 6/20 | Train loss: 0.9485 | Train Pearson: 0.6924 | Valid loss: 0.4726 | Valid Pearson: 0.7783
+Epoch 7/20 | Train loss: 0.6026 | Train Pearson: 0.7965 | Valid loss: 0.4470 | Valid Pearson: 0.7800
+Epoch 8/20 | Train loss: 0.6701 | Train Pearson: 0.7434 | Valid loss: 0.4575 | Valid Pearson: 0.7816
+Epoch 9/20 | Train loss: 0.6209 | Train Pearson: 0.7688 | Valid loss: 0.4422 | Valid Pearson: 0.7817
+Epoch 10/20 | Train loss: 0.4782 | Train Pearson: 0.8532 | Valid loss: 0.4490 | Valid Pearson: 0.7804
+Epoch 11/20 | Train loss: 0.4550 | Train Pearson: 0.7999 | Valid loss: 0.4488 | Valid Pearson: 0.7797
+Epoch 12/20 | Train loss: 0.3737 | Train Pearson: 0.8458 | Valid loss: 0.4473 | Valid Pearson: 0.7796
+Epoch 13/20 | Train loss: 0.3597 | Train Pearson: 0.8486 | Valid loss: 0.4451 | Valid Pearson: 0.7807
+Epoch 14/20 | Train loss: 0.3042 | Train Pearson: 0.8850 | Valid loss: 0.4433 | Valid Pearson: 0.7809
+Epoch 15/20 | Train loss: 0.2537 | Train Pearson: 0.8757 | Valid loss: 0.4570 | Valid Pearson: 0.7820
+Epoch 16/20 | Train loss: 0.2917 | Train Pearson: 0.8789 | Valid loss: 0.4422 | Valid Pearson: 0.7820
+Epoch 17/20 | Train loss: 0.2135 | Train Pearson: 0.9166 | Valid loss: 0.4382 | Valid Pearson: 0.7823
+Epoch 18/20 | Train loss: 0.1940 | Train Pearson: 0.8996 | Valid loss: 0.4357 | Valid Pearson: 0.7832
+Epoch 19/20 | Train loss: 0.1418 | Train Pearson: 0.9396 | Valid loss: 0.4351 | Valid Pearson: 0.7833
+Epoch 20/20 | Train loss: 0.1515 | Train Pearson: 0.9266 | Valid loss: 0.4352 | Valid Pearson: 0.7834
+MSE: 0.43523084961410385
+Pearson r: 0.783401022423032
+Fold 3
+Epoch 1/20 | Train loss: 1.8736 | Train Pearson: 0.3104 | Valid loss: 0.3244 | Valid Pearson: 0.7905
+Epoch 2/20 | Train loss: 1.0929 | Train Pearson: 0.7704 | Valid loss: 0.3256 | Valid Pearson: 0.7916
+Epoch 3/20 | Train loss: 1.3272 | Train Pearson: 0.6517 | Valid loss: 0.3057 | Valid Pearson: 0.7872
+Epoch 4/20 | Train loss: 0.9254 | Train Pearson: 0.7429 | Valid loss: 0.3074 | Valid Pearson: 0.7872
+Epoch 5/20 | Train loss: 1.0103 | Train Pearson: 0.6595 | Valid loss: 0.3018 | Valid Pearson: 0.7892
+Epoch 6/20 | Train loss: 0.7258 | Train Pearson: 0.7261 | Valid loss: 0.3001 | Valid Pearson: 0.7923
+Epoch 7/20 | Train loss: 0.6663 | Train Pearson: 0.8222 | Valid loss: 0.2976 | Valid Pearson: 0.7924
+Epoch 8/20 | Train loss: 0.9398 | Train Pearson: 0.6961 | Valid loss: 0.3096 | Valid Pearson: 0.7912
+Epoch 9/20 | Train loss: 0.6594 | Train Pearson: 0.7486 | Valid loss: 0.3005 | Valid Pearson: 0.7925
+Epoch 10/20 | Train loss: 0.4644 | Train Pearson: 0.8062 | Valid loss: 0.3094 | Valid Pearson: 0.7954
+Epoch 11/20 | Train loss: 0.6111 | Train Pearson: 0.8279 | Valid loss: 0.3018 | Valid Pearson: 0.7939
+Epoch 12/20 | Train loss: 0.4567 | Train Pearson: 0.8032 | Valid loss: 0.2924 | Valid Pearson: 0.7956
+Epoch 13/20 | Train loss: 0.4096 | Train Pearson: 0.8504 | Valid loss: 0.2963 | Valid Pearson: 0.7954
+Epoch 14/20 | Train loss: 0.3244 | Train Pearson: 0.8554 | Valid loss: 0.2903 | Valid Pearson: 0.7970
+Epoch 15/20 | Train loss: 0.2490 | Train Pearson: 0.8947 | Valid loss: 0.2934 | Valid Pearson: 0.7979
+Epoch 16/20 | Train loss: 0.2909 | Train Pearson: 0.8818 | Valid loss: 0.2908 | Valid Pearson: 0.7975
+Epoch 17/20 | Train loss: 0.2895 | Train Pearson: 0.8610 | Valid loss: 0.2880 | Valid Pearson: 0.7984
+Epoch 18/20 | Train loss: 0.2208 | Train Pearson: 0.9188 | Valid loss: 0.2974 | Valid Pearson: 0.7986
+Epoch 19/20 | Train loss: 0.2159 | Train Pearson: 0.8922 | Valid loss: 0.2893 | Valid Pearson: 0.7988
+Epoch 20/20 | Train loss: 0.1620 | Train Pearson: 0.9251 | Valid loss: 0.2877 | Valid Pearson: 0.7988
+MSE: 0.2876605020446648
+Pearson r: 0.7987518100528468
+Dropout rate: 0.85, Retained fraction: 0.15: MSE: 0.38001928219723585, Pearson r: 0.7951214662080933
+
+Dropout rate: 0.8
+Fold 1
+Epoch 1/20 | Train loss: 1.0227 | Train Pearson: 0.6992 | Valid loss: 0.4558 | Valid Pearson: 0.7927
+Epoch 2/20 | Train loss: 0.9829 | Train Pearson: 0.6940 | Valid loss: 0.4461 | Valid Pearson: 0.7959
+Epoch 3/20 | Train loss: 1.0068 | Train Pearson: 0.7440 | Valid loss: 0.4578 | Valid Pearson: 0.7935
+Epoch 4/20 | Train loss: 0.7578 | Train Pearson: 0.7143 | Valid loss: 0.4496 | Valid Pearson: 0.7946
+Epoch 5/20 | Train loss: 0.8558 | Train Pearson: 0.7562 | Valid loss: 0.5097 | Valid Pearson: 0.7912
+Epoch 6/20 | Train loss: 0.5008 | Train Pearson: 0.8074 | Valid loss: 0.4425 | Valid Pearson: 0.7957
+Epoch 7/20 | Train loss: 0.6066 | Train Pearson: 0.7822 | Valid loss: 0.4520 | Valid Pearson: 0.7960
+Epoch 8/20 | Train loss: 0.4997 | Train Pearson: 0.8021 | Valid loss: 0.4438 | Valid Pearson: 0.7976
+Epoch 9/20 | Train loss: 0.4490 | Train Pearson: 0.8507 | Valid loss: 0.4529 | Valid Pearson: 0.7982
+Epoch 10/20 | Train loss: 0.5760 | Train Pearson: 0.7717 | Valid loss: 0.4451 | Valid Pearson: 0.7984
+Epoch 11/20 | Train loss: 0.3251 | Train Pearson: 0.8656 | Valid loss: 0.4344 | Valid Pearson: 0.7991
+Epoch 12/20 | Train loss: 0.2768 | Train Pearson: 0.8750 | Valid loss: 0.4316 | Valid Pearson: 0.8005
+Epoch 13/20 | Train loss: 0.3083 | Train Pearson: 0.8896 | Valid loss: 0.4368 | Valid Pearson: 0.7998
+Epoch 14/20 | Train loss: 0.2045 | Train Pearson: 0.9152 | Valid loss: 0.4366 | Valid Pearson: 0.7999
+Epoch 15/20 | Train loss: 0.2209 | Train Pearson: 0.8847 | Valid loss: 0.4171 | Valid Pearson: 0.8012
+Epoch 16/20 | Train loss: 0.1878 | Train Pearson: 0.9385 | Valid loss: 0.4285 | Valid Pearson: 0.8016
+Epoch 17/20 | Train loss: 0.1436 | Train Pearson: 0.9296 | Valid loss: 0.4160 | Valid Pearson: 0.8024
+Epoch 18/20 | Train loss: 0.1347 | Train Pearson: 0.9383 | Valid loss: 0.4270 | Valid Pearson: 0.8025
+Epoch 19/20 | Train loss: 0.1092 | Train Pearson: 0.9465 | Valid loss: 0.4198 | Valid Pearson: 0.8027
+Epoch 20/20 | Train loss: 0.1317 | Train Pearson: 0.9375 | Valid loss: 0.4210 | Valid Pearson: 0.8030
+MSE: 0.42098494136292103
+Pearson r: 0.8030354916897389
+Fold 2
+Epoch 1/20 | Train loss: 0.8388 | Train Pearson: 0.7475 | Valid loss: 0.4666 | Valid Pearson: 0.7655
+Epoch 2/20 | Train loss: 1.3080 | Train Pearson: 0.6367 | Valid loss: 0.4618 | Valid Pearson: 0.7703
+Epoch 3/20 | Train loss: 0.6593 | Train Pearson: 0.7525 | Valid loss: 0.4671 | Valid Pearson: 0.7728
+Epoch 4/20 | Train loss: 0.9678 | Train Pearson: 0.7010 | Valid loss: 0.4864 | Valid Pearson: 0.7753
+Epoch 5/20 | Train loss: 0.7338 | Train Pearson: 0.7517 | Valid loss: 0.4522 | Valid Pearson: 0.7736
+Epoch 6/20 | Train loss: 0.5324 | Train Pearson: 0.7862 | Valid loss: 0.4549 | Valid Pearson: 0.7762
+Epoch 7/20 | Train loss: 0.5162 | Train Pearson: 0.8288 | Valid loss: 0.4668 | Valid Pearson: 0.7780
+Epoch 8/20 | Train loss: 0.5085 | Train Pearson: 0.8168 | Valid loss: 0.4481 | Valid Pearson: 0.7767
+Epoch 9/20 | Train loss: 0.4567 | Train Pearson: 0.8204 | Valid loss: 0.4454 | Valid Pearson: 0.7778
+Epoch 10/20 | Train loss: 0.3960 | Train Pearson: 0.8386 | Valid loss: 0.4444 | Valid Pearson: 0.7785
+Epoch 11/20 | Train loss: 0.3813 | Train Pearson: 0.8423 | Valid loss: 0.4427 | Valid Pearson: 0.7790
+Epoch 12/20 | Train loss: 0.2859 | Train Pearson: 0.8769 | Valid loss: 0.4520 | Valid Pearson: 0.7802
+Epoch 13/20 | Train loss: 0.3446 | Train Pearson: 0.8576 | Valid loss: 0.4516 | Valid Pearson: 0.7810
+Epoch 14/20 | Train loss: 0.3040 | Train Pearson: 0.8872 | Valid loss: 0.4445 | Valid Pearson: 0.7803
+Epoch 15/20 | Train loss: 0.2121 | Train Pearson: 0.8935 | Valid loss: 0.4460 | Valid Pearson: 0.7815
+Epoch 16/20 | Train loss: 0.2387 | Train Pearson: 0.9031 | Valid loss: 0.4422 | Valid Pearson: 0.7809
+Epoch 17/20 | Train loss: 0.1809 | Train Pearson: 0.9204 | Valid loss: 0.4392 | Valid Pearson: 0.7810
+Epoch 18/20 | Train loss: 0.1455 | Train Pearson: 0.9269 | Valid loss: 0.4494 | Valid Pearson: 0.7817
+Epoch 19/20 | Train loss: 0.1100 | Train Pearson: 0.9508 | Valid loss: 0.4381 | Valid Pearson: 0.7815
+Epoch 20/20 | Train loss: 0.1260 | Train Pearson: 0.9406 | Valid loss: 0.4399 | Valid Pearson: 0.7815
+MSE: 0.4399069062858706
+Pearson r: 0.7814979566750665
+Fold 3
+Epoch 1/20 | Train loss: 1.2060 | Train Pearson: 0.6693 | Valid loss: 0.3034 | Valid Pearson: 0.7985
+Epoch 2/20 | Train loss: 0.9477 | Train Pearson: 0.6849 | Valid loss: 0.3007 | Valid Pearson: 0.7991
+Epoch 3/20 | Train loss: 0.7316 | Train Pearson: 0.7950 | Valid loss: 0.2938 | Valid Pearson: 0.7984
+Epoch 4/20 | Train loss: 0.9666 | Train Pearson: 0.6755 | Valid loss: 0.2981 | Valid Pearson: 0.7992
+Epoch 5/20 | Train loss: 0.5806 | Train Pearson: 0.7789 | Valid loss: 0.2946 | Valid Pearson: 0.7999
+Epoch 6/20 | Train loss: 0.6837 | Train Pearson: 0.7716 | Valid loss: 0.3204 | Valid Pearson: 0.8007
+Epoch 7/20 | Train loss: 0.5998 | Train Pearson: 0.7996 | Valid loss: 0.2882 | Valid Pearson: 0.8002
+Epoch 8/20 | Train loss: 0.4831 | Train Pearson: 0.8173 | Valid loss: 0.2864 | Valid Pearson: 0.8013
+Epoch 9/20 | Train loss: 0.5570 | Train Pearson: 0.7829 | Valid loss: 0.2878 | Valid Pearson: 0.8020
+Epoch 10/20 | Train loss: 0.4931 | Train Pearson: 0.8195 | Valid loss: 0.3070 | Valid Pearson: 0.8005
+Epoch 11/20 | Train loss: 0.3011 | Train Pearson: 0.8908 | Valid loss: 0.2870 | Valid Pearson: 0.7998
+Epoch 12/20 | Train loss: 0.2658 | Train Pearson: 0.8872 | Valid loss: 0.3023 | Valid Pearson: 0.7993
+Epoch 13/20 | Train loss: 0.3538 | Train Pearson: 0.8366 | Valid loss: 0.2925 | Valid Pearson: 0.8002
+Epoch 14/20 | Train loss: 0.1926 | Train Pearson: 0.9174 | Valid loss: 0.2875 | Valid Pearson: 0.7997
+Epoch 15/20 | Train loss: 0.2591 | Train Pearson: 0.8777 | Valid loss: 0.2986 | Valid Pearson: 0.7996
+Epoch 16/20 | Train loss: 0.2256 | Train Pearson: 0.9323 | Valid loss: 0.2881 | Valid Pearson: 0.7993
+Epoch 17/20 | Train loss: 0.1622 | Train Pearson: 0.9158 | Valid loss: 0.2896 | Valid Pearson: 0.7995
+Epoch 18/20 | Train loss: 0.1286 | Train Pearson: 0.9493 | Valid loss: 0.2880 | Valid Pearson: 0.7993
+Epoch 19/20 | Train loss: 0.1488 | Train Pearson: 0.9295 | Valid loss: 0.2866 | Valid Pearson: 0.7993
+Epoch 20/20 | Train loss: 0.1266 | Train Pearson: 0.9405 | Valid loss: 0.2862 | Valid Pearson: 0.7993
+MSE: 0.2862157730371156
+Pearson r: 0.7993289389968788
+Dropout rate: 0.8, Retained fraction: 0.2: MSE: 0.3823692068953024, Pearson r: 0.7946207957872281
+
+Dropout rate: 0.75
+Fold 1
+Epoch 1/20 | Train loss: 1.7515 | Train Pearson: 0.3971 | Valid loss: 0.6569 | Valid Pearson: 0.7816
+Epoch 2/20 | Train loss: 0.7573 | Train Pearson: 0.8443 | Valid loss: 0.4866 | Valid Pearson: 0.7627
+Epoch 3/20 | Train loss: 0.8315 | Train Pearson: 0.6714 | Valid loss: 0.4720 | Valid Pearson: 0.7685
+Epoch 4/20 | Train loss: 0.6900 | Train Pearson: 0.7908 | Valid loss: 0.4775 | Valid Pearson: 0.7673
+Epoch 5/20 | Train loss: 0.7532 | Train Pearson: 0.7511 | Valid loss: 0.5054 | Valid Pearson: 0.7631
+Epoch 6/20 | Train loss: 0.6200 | Train Pearson: 0.7766 | Valid loss: 0.4701 | Valid Pearson: 0.7723
+Epoch 7/20 | Train loss: 0.5592 | Train Pearson: 0.7616 | Valid loss: 0.4746 | Valid Pearson: 0.7832
+Epoch 8/20 | Train loss: 0.7427 | Train Pearson: 0.8113 | Valid loss: 0.5169 | Valid Pearson: 0.7684
+Epoch 9/20 | Train loss: 0.4341 | Train Pearson: 0.8043 | Valid loss: 0.4485 | Valid Pearson: 0.7825
+Epoch 10/20 | Train loss: 0.3236 | Train Pearson: 0.8674 | Valid loss: 0.4460 | Valid Pearson: 0.7855
+Epoch 11/20 | Train loss: 0.4785 | Train Pearson: 0.8320 | Valid loss: 0.4414 | Valid Pearson: 0.7851
+Epoch 12/20 | Train loss: 0.4152 | Train Pearson: 0.8472 | Valid loss: 0.4368 | Valid Pearson: 0.7863
+Epoch 13/20 | Train loss: 0.3131 | Train Pearson: 0.8599 | Valid loss: 0.4375 | Valid Pearson: 0.7865
+Epoch 14/20 | Train loss: 0.3355 | Train Pearson: 0.8808 | Valid loss: 0.4439 | Valid Pearson: 0.7874
+Epoch 15/20 | Train loss: 0.2111 | Train Pearson: 0.8996 | Valid loss: 0.4300 | Valid Pearson: 0.7903
+Epoch 16/20 | Train loss: 0.1542 | Train Pearson: 0.9325 | Valid loss: 0.4277 | Valid Pearson: 0.7917
+Epoch 17/20 | Train loss: 0.1480 | Train Pearson: 0.9297 | Valid loss: 0.4283 | Valid Pearson: 0.7935
+Epoch 18/20 | Train loss: 0.2242 | Train Pearson: 0.8944 | Valid loss: 0.4270 | Valid Pearson: 0.7929
+Epoch 19/20 | Train loss: 0.1734 | Train Pearson: 0.9362 | Valid loss: 0.4503 | Valid Pearson: 0.7915
+Epoch 20/20 | Train loss: 0.1280 | Train Pearson: 0.9364 | Valid loss: 0.4277 | Valid Pearson: 0.7936
+MSE: 0.42765941932813645
+Pearson r: 0.7936223193875815
+Fold 2
+Epoch 1/20 | Train loss: 1.0653 | Train Pearson: 0.6005 | Valid loss: 0.5388 | Valid Pearson: 0.7813
+Epoch 2/20 | Train loss: 0.6107 | Train Pearson: 0.8283 | Valid loss: 0.4557 | Valid Pearson: 0.7762
+Epoch 3/20 | Train loss: 0.6489 | Train Pearson: 0.6990 | Valid loss: 0.4501 | Valid Pearson: 0.7797
+Epoch 4/20 | Train loss: 0.6850 | Train Pearson: 0.8192 | Valid loss: 0.4517 | Valid Pearson: 0.7799
+Epoch 5/20 | Train loss: 0.6565 | Train Pearson: 0.7892 | Valid loss: 0.4458 | Valid Pearson: 0.7792
+Epoch 6/20 | Train loss: 0.6023 | Train Pearson: 0.7560 | Valid loss: 0.4505 | Valid Pearson: 0.7780
+Epoch 7/20 | Train loss: 0.3710 | Train Pearson: 0.8503 | Valid loss: 0.5313 | Valid Pearson: 0.7817
+Epoch 8/20 | Train loss: 0.5379 | Train Pearson: 0.8085 | Valid loss: 0.4445 | Valid Pearson: 0.7789
+Epoch 9/20 | Train loss: 0.3979 | Train Pearson: 0.8573 | Valid loss: 0.4466 | Valid Pearson: 0.7790
+Epoch 10/20 | Train loss: 0.2423 | Train Pearson: 0.8902 | Valid loss: 0.4428 | Valid Pearson: 0.7800
+Epoch 11/20 | Train loss: 0.3359 | Train Pearson: 0.8488 | Valid loss: 0.4458 | Valid Pearson: 0.7810
+Epoch 12/20 | Train loss: 0.2729 | Train Pearson: 0.8982 | Valid loss: 0.4413 | Valid Pearson: 0.7805
+Epoch 13/20 | Train loss: 0.1727 | Train Pearson: 0.9103 | Valid loss: 0.4426 | Valid Pearson: 0.7818
+Epoch 14/20 | Train loss: 0.2127 | Train Pearson: 0.9182 | Valid loss: 0.4390 | Valid Pearson: 0.7818
+Epoch 15/20 | Train loss: 0.1867 | Train Pearson: 0.9154 | Valid loss: 0.4400 | Valid Pearson: 0.7820
+Epoch 16/20 | Train loss: 0.1974 | Train Pearson: 0.9074 | Valid loss: 0.4376 | Valid Pearson: 0.7824
+Epoch 17/20 | Train loss: 0.1384 | Train Pearson: 0.9356 | Valid loss: 0.4411 | Valid Pearson: 0.7832
+Epoch 18/20 | Train loss: 0.1119 | Train Pearson: 0.9469 | Valid loss: 0.4355 | Valid Pearson: 0.7831
+Epoch 19/20 | Train loss: 0.1039 | Train Pearson: 0.9519 | Valid loss: 0.4364 | Valid Pearson: 0.7831
+Epoch 20/20 | Train loss: 0.1233 | Train Pearson: 0.9401 | Valid loss: 0.4360 | Valid Pearson: 0.7830
+MSE: 0.43595797914066853
+Pearson r: 0.7830012193857051
+Fold 3
+Epoch 1/20 | Train loss: 0.7372 | Train Pearson: 0.7743 | Valid loss: 0.3177 | Valid Pearson: 0.7940
+Epoch 2/20 | Train loss: 0.7214 | Train Pearson: 0.7574 | Valid loss: 0.3036 | Valid Pearson: 0.7932
+Epoch 3/20 | Train loss: 0.7168 | Train Pearson: 0.7066 | Valid loss: 0.3333 | Valid Pearson: 0.7951
+Epoch 4/20 | Train loss: 0.5358 | Train Pearson: 0.8501 | Valid loss: 0.2990 | Valid Pearson: 0.7940
+Epoch 5/20 | Train loss: 0.4904 | Train Pearson: 0.8073 | Valid loss: 0.2966 | Valid Pearson: 0.7943
+Epoch 6/20 | Train loss: 0.3469 | Train Pearson: 0.8580 | Valid loss: 0.3067 | Valid Pearson: 0.7954
+Epoch 7/20 | Train loss: 0.4047 | Train Pearson: 0.8492 | Valid loss: 0.2960 | Valid Pearson: 0.7948
+Epoch 8/20 | Train loss: 0.3654 | Train Pearson: 0.8605 | Valid loss: 0.3215 | Valid Pearson: 0.7928
+Epoch 9/20 | Train loss: 0.3062 | Train Pearson: 0.8520 | Valid loss: 0.2969 | Valid Pearson: 0.7956
+Epoch 10/20 | Train loss: 0.2193 | Train Pearson: 0.9168 | Valid loss: 0.2950 | Valid Pearson: 0.7947
+Epoch 11/20 | Train loss: 0.2275 | Train Pearson: 0.8928 | Valid loss: 0.2932 | Valid Pearson: 0.7948
+Epoch 12/20 | Train loss: 0.1845 | Train Pearson: 0.9260 | Valid loss: 0.2920 | Valid Pearson: 0.7955
+Epoch 13/20 | Train loss: 0.2206 | Train Pearson: 0.8977 | Valid loss: 0.3083 | Valid Pearson: 0.7952
+Epoch 14/20 | Train loss: 0.1347 | Train Pearson: 0.9390 | Valid loss: 0.2928 | Valid Pearson: 0.7967
+Epoch 15/20 | Train loss: 0.1583 | Train Pearson: 0.9201 | Valid loss: 0.2985 | Valid Pearson: 0.7964
+Epoch 16/20 | Train loss: 0.2124 | Train Pearson: 0.9196 | Valid loss: 0.3048 | Valid Pearson: 0.7955
+Epoch 17/20 | Train loss: 0.1166 | Train Pearson: 0.9409 | Valid loss: 0.3019 | Valid Pearson: 0.7971
+Epoch 18/20 | Train loss: 0.0824 | Train Pearson: 0.9632 | Valid loss: 0.2898 | Valid Pearson: 0.7966
+Epoch 19/20 | Train loss: 0.0907 | Train Pearson: 0.9539 | Valid loss: 0.2969 | Valid Pearson: 0.7971
+Epoch 20/20 | Train loss: 0.0884 | Train Pearson: 0.9597 | Valid loss: 0.2891 | Valid Pearson: 0.7970
+MSE: 0.2891421372002669
+Pearson r: 0.7970367685080596
+Dropout rate: 0.75, Retained fraction: 0.25: MSE: 0.38425317855635727, Pearson r: 0.7912201024271154
+
+Dropout rate: 0.7
+Fold 1
+Epoch 1/20 | Train loss: 1.1756 | Train Pearson: 0.5574 | Valid loss: 0.4619 | Valid Pearson: 0.8055
+Epoch 2/20 | Train loss: 0.7406 | Train Pearson: 0.8038 | Valid loss: 0.4343 | Valid Pearson: 0.8023
+Epoch 3/20 | Train loss: 0.6632 | Train Pearson: 0.7373 | Valid loss: 0.4137 | Valid Pearson: 0.8046
+Epoch 4/20 | Train loss: 0.6161 | Train Pearson: 0.7640 | Valid loss: 0.4111 | Valid Pearson: 0.8054
+Epoch 5/20 | Train loss: 0.6222 | Train Pearson: 0.8341 | Valid loss: 0.4086 | Valid Pearson: 0.8057
+Epoch 6/20 | Train loss: 0.3768 | Train Pearson: 0.8291 | Valid loss: 0.4068 | Valid Pearson: 0.8055
+Epoch 7/20 | Train loss: 0.3996 | Train Pearson: 0.8500 | Valid loss: 0.4393 | Valid Pearson: 0.8041
+Epoch 8/20 | Train loss: 0.3453 | Train Pearson: 0.8422 | Valid loss: 0.4066 | Valid Pearson: 0.8049
+Epoch 9/20 | Train loss: 0.4201 | Train Pearson: 0.8591 | Valid loss: 0.4123 | Valid Pearson: 0.8042
+Epoch 10/20 | Train loss: 0.3022 | Train Pearson: 0.8517 | Valid loss: 0.4137 | Valid Pearson: 0.8040
+Epoch 11/20 | Train loss: 0.2931 | Train Pearson: 0.8929 | Valid loss: 0.4083 | Valid Pearson: 0.8039
+Epoch 12/20 | Train loss: 0.2324 | Train Pearson: 0.9063 | Valid loss: 0.4278 | Valid Pearson: 0.8029
+Epoch 13/20 | Train loss: 0.2914 | Train Pearson: 0.8553 | Valid loss: 0.4116 | Valid Pearson: 0.8038
+Epoch 14/20 | Train loss: 0.2339 | Train Pearson: 0.9132 | Valid loss: 0.4089 | Valid Pearson: 0.8038
+Epoch 15/20 | Train loss: 0.2279 | Train Pearson: 0.8939 | Valid loss: 0.4146 | Valid Pearson: 0.8032
+Epoch 16/20 | Train loss: 0.2105 | Train Pearson: 0.9188 | Valid loss: 0.4134 | Valid Pearson: 0.8037
+Epoch 17/20 | Train loss: 0.1372 | Train Pearson: 0.9345 | Valid loss: 0.4134 | Valid Pearson: 0.8039
+Epoch 18/20 | Train loss: 0.1998 | Train Pearson: 0.9146 | Valid loss: 0.4207 | Valid Pearson: 0.8041
+Epoch 19/20 | Train loss: 0.1253 | Train Pearson: 0.9375 | Valid loss: 0.4088 | Valid Pearson: 0.8045
+Epoch 20/20 | Train loss: 0.1112 | Train Pearson: 0.9463 | Valid loss: 0.4114 | Valid Pearson: 0.8047
+MSE: 0.41137647080965645
+Pearson r: 0.8047339311599695
+Fold 2
+Epoch 1/20 | Train loss: 0.7456 | Train Pearson: 0.7501 | Valid loss: 0.4682 | Valid Pearson: 0.7785
+Epoch 2/20 | Train loss: 0.7555 | Train Pearson: 0.7296 | Valid loss: 0.4582 | Valid Pearson: 0.7784
+Epoch 3/20 | Train loss: 0.3964 | Train Pearson: 0.8750 | Valid loss: 0.4535 | Valid Pearson: 0.7777
+Epoch 4/20 | Train loss: 0.4338 | Train Pearson: 0.8219 | Valid loss: 0.4486 | Valid Pearson: 0.7793
+Epoch 5/20 | Train loss: 0.3678 | Train Pearson: 0.8534 | Valid loss: 0.4467 | Valid Pearson: 0.7798
+Epoch 6/20 | Train loss: 0.3300 | Train Pearson: 0.8724 | Valid loss: 0.4472 | Valid Pearson: 0.7792
+Epoch 7/20 | Train loss: 0.3841 | Train Pearson: 0.8467 | Valid loss: 0.4635 | Valid Pearson: 0.7774
+Epoch 8/20 | Train loss: 0.2867 | Train Pearson: 0.8612 | Valid loss: 0.4612 | Valid Pearson: 0.7810
+Epoch 9/20 | Train loss: 0.3152 | Train Pearson: 0.8978 | Valid loss: 0.4451 | Valid Pearson: 0.7804
+Epoch 10/20 | Train loss: 0.2882 | Train Pearson: 0.8575 | Valid loss: 0.4887 | Valid Pearson: 0.7822
+Epoch 11/20 | Train loss: 0.2649 | Train Pearson: 0.9015 | Valid loss: 0.4492 | Valid Pearson: 0.7806
+Epoch 12/20 | Train loss: 0.2257 | Train Pearson: 0.9043 | Valid loss: 0.4407 | Valid Pearson: 0.7823
+Epoch 13/20 | Train loss: 0.2357 | Train Pearson: 0.8876 | Valid loss: 0.4424 | Valid Pearson: 0.7831
+Epoch 14/20 | Train loss: 0.1668 | Train Pearson: 0.9338 | Valid loss: 0.4441 | Valid Pearson: 0.7825
+Epoch 15/20 | Train loss: 0.1347 | Train Pearson: 0.9322 | Valid loss: 0.4525 | Valid Pearson: 0.7832
+Epoch 16/20 | Train loss: 0.1229 | Train Pearson: 0.9453 | Valid loss: 0.4364 | Valid Pearson: 0.7833
+Epoch 17/20 | Train loss: 0.1473 | Train Pearson: 0.9323 | Valid loss: 0.4355 | Valid Pearson: 0.7835
+Epoch 18/20 | Train loss: 0.0935 | Train Pearson: 0.9574 | Valid loss: 0.4356 | Valid Pearson: 0.7835
+Epoch 19/20 | Train loss: 0.0648 | Train Pearson: 0.9672 | Valid loss: 0.4397 | Valid Pearson: 0.7837
+Epoch 20/20 | Train loss: 0.0849 | Train Pearson: 0.9616 | Valid loss: 0.4356 | Valid Pearson: 0.7840
+MSE: 0.43561915379321503
+Pearson r: 0.78403778870159
+Fold 3
+Epoch 1/20 | Train loss: 1.1354 | Train Pearson: 0.4940 | Valid loss: 0.5027 | Valid Pearson: 0.7955
+Epoch 2/20 | Train loss: 0.6809 | Train Pearson: 0.8486 | Valid loss: 0.3008 | Valid Pearson: 0.7917
+Epoch 3/20 | Train loss: 0.5187 | Train Pearson: 0.7782 | Valid loss: 0.2973 | Valid Pearson: 0.7912
+Epoch 4/20 | Train loss: 0.5157 | Train Pearson: 0.8228 | Valid loss: 0.3145 | Valid Pearson: 0.7933
+Epoch 5/20 | Train loss: 0.4274 | Train Pearson: 0.8267 | Valid loss: 0.2972 | Valid Pearson: 0.7923
+Epoch 6/20 | Train loss: 0.3473 | Train Pearson: 0.8657 | Valid loss: 0.3080 | Valid Pearson: 0.7896
+Epoch 7/20 | Train loss: 0.3713 | Train Pearson: 0.8351 | Valid loss: 0.3095 | Valid Pearson: 0.7944
+Epoch 8/20 | Train loss: 0.3160 | Train Pearson: 0.8790 | Valid loss: 0.3222 | Valid Pearson: 0.7897
+Epoch 9/20 | Train loss: 0.2848 | Train Pearson: 0.8856 | Valid loss: 0.2942 | Valid Pearson: 0.7935
+Epoch 10/20 | Train loss: 0.3388 | Train Pearson: 0.8451 | Valid loss: 0.2980 | Valid Pearson: 0.7935
+Epoch 11/20 | Train loss: 0.2666 | Train Pearson: 0.8860 | Valid loss: 0.2941 | Valid Pearson: 0.7935
+Epoch 12/20 | Train loss: 0.2598 | Train Pearson: 0.8993 | Valid loss: 0.2991 | Valid Pearson: 0.7923
+Epoch 13/20 | Train loss: 0.3269 | Train Pearson: 0.8525 | Valid loss: 0.2980 | Valid Pearson: 0.7931
+Epoch 14/20 | Train loss: 0.1864 | Train Pearson: 0.9151 | Valid loss: 0.2962 | Valid Pearson: 0.7933
+Epoch 15/20 | Train loss: 0.1984 | Train Pearson: 0.9097 | Valid loss: 0.2961 | Valid Pearson: 0.7941
+Epoch 16/20 | Train loss: 0.1409 | Train Pearson: 0.9366 | Valid loss: 0.2951 | Valid Pearson: 0.7947
+Epoch 17/20 | Train loss: 0.1681 | Train Pearson: 0.9201 | Valid loss: 0.2988 | Valid Pearson: 0.7961
+Epoch 18/20 | Train loss: 0.1137 | Train Pearson: 0.9494 | Valid loss: 0.2902 | Valid Pearson: 0.7960
+Epoch 19/20 | Train loss: 0.0994 | Train Pearson: 0.9540 | Valid loss: 0.2897 | Valid Pearson: 0.7964
+Epoch 20/20 | Train loss: 0.0958 | Train Pearson: 0.9526 | Valid loss: 0.3005 | Valid Pearson: 0.7967
+MSE: 0.30046092468759955
+Pearson r: 0.7967111943629639
+Dropout rate: 0.7, Retained fraction: 0.3: MSE: 0.382485516430157, Pearson r: 0.7951609714081744
+
+Dropout rate: 0.65
+Fold 1
+Epoch 1/20 | Train loss: 0.5177 | Train Pearson: 0.8068 | Valid loss: 0.4632 | Valid Pearson: 0.7972
+Epoch 2/20 | Train loss: 0.7514 | Train Pearson: 0.7347 | Valid loss: 0.4919 | Valid Pearson: 0.7914
+Epoch 3/20 | Train loss: 0.4192 | Train Pearson: 0.8639 | Valid loss: 0.4582 | Valid Pearson: 0.7950
+Epoch 4/20 | Train loss: 0.6028 | Train Pearson: 0.7526 | Valid loss: 0.4475 | Valid Pearson: 0.7987
+Epoch 5/20 | Train loss: 0.5406 | Train Pearson: 0.8380 | Valid loss: 0.4440 | Valid Pearson: 0.7980
+Epoch 6/20 | Train loss: 0.2750 | Train Pearson: 0.8723 | Valid loss: 0.4483 | Valid Pearson: 0.7974
+Epoch 7/20 | Train loss: 0.3763 | Train Pearson: 0.8745 | Valid loss: 0.4786 | Valid Pearson: 0.7956
+Epoch 8/20 | Train loss: 0.4229 | Train Pearson: 0.8050 | Valid loss: 0.4376 | Valid Pearson: 0.7993
+Epoch 9/20 | Train loss: 0.2826 | Train Pearson: 0.8833 | Valid loss: 0.4304 | Valid Pearson: 0.8005
+Epoch 10/20 | Train loss: 0.3030 | Train Pearson: 0.8704 | Valid loss: 0.4263 | Valid Pearson: 0.8014
+Epoch 11/20 | Train loss: 0.2673 | Train Pearson: 0.8998 | Valid loss: 0.4379 | Valid Pearson: 0.8003
+Epoch 12/20 | Train loss: 0.1949 | Train Pearson: 0.9091 | Valid loss: 0.4202 | Valid Pearson: 0.8018
+Epoch 13/20 | Train loss: 0.2321 | Train Pearson: 0.9078 | Valid loss: 0.4170 | Valid Pearson: 0.8022
+Epoch 14/20 | Train loss: 0.1993 | Train Pearson: 0.9039 | Valid loss: 0.4209 | Valid Pearson: 0.8029
+Epoch 15/20 | Train loss: 0.1987 | Train Pearson: 0.9240 | Valid loss: 0.4415 | Valid Pearson: 0.8029
+Epoch 16/20 | Train loss: 0.1639 | Train Pearson: 0.9215 | Valid loss: 0.4143 | Valid Pearson: 0.8035
+Epoch 17/20 | Train loss: 0.1612 | Train Pearson: 0.9242 | Valid loss: 0.4284 | Valid Pearson: 0.8033
+Epoch 18/20 | Train loss: 0.1121 | Train Pearson: 0.9500 | Valid loss: 0.4132 | Valid Pearson: 0.8038
+Epoch 19/20 | Train loss: 0.1212 | Train Pearson: 0.9401 | Valid loss: 0.4093 | Valid Pearson: 0.8040
+Epoch 20/20 | Train loss: 0.1310 | Train Pearson: 0.9406 | Valid loss: 0.4237 | Valid Pearson: 0.8040
+MSE: 0.4237247536646347
+Pearson r: 0.803994677440417
+Fold 2
+Epoch 1/20 | Train loss: 0.8098 | Train Pearson: 0.7104 | Valid loss: 0.5168 | Valid Pearson: 0.7822
+Epoch 2/20 | Train loss: 0.4873 | Train Pearson: 0.8300 | Valid loss: 0.5702 | Valid Pearson: 0.7700
+Epoch 3/20 | Train loss: 0.5572 | Train Pearson: 0.7724 | Valid loss: 0.4497 | Valid Pearson: 0.7808
+Epoch 4/20 | Train loss: 0.2759 | Train Pearson: 0.8971 | Valid loss: 0.4416 | Valid Pearson: 0.7798
+Epoch 5/20 | Train loss: 0.3402 | Train Pearson: 0.8471 | Valid loss: 0.4461 | Valid Pearson: 0.7811
+Epoch 6/20 | Train loss: 0.3047 | Train Pearson: 0.8728 | Valid loss: 0.4507 | Valid Pearson: 0.7815
+Epoch 7/20 | Train loss: 0.3451 | Train Pearson: 0.8653 | Valid loss: 0.4436 | Valid Pearson: 0.7815
+Epoch 8/20 | Train loss: 0.3868 | Train Pearson: 0.8506 | Valid loss: 0.4416 | Valid Pearson: 0.7809
+Epoch 9/20 | Train loss: 0.2338 | Train Pearson: 0.9025 | Valid loss: 0.4419 | Valid Pearson: 0.7819
+Epoch 10/20 | Train loss: 0.2243 | Train Pearson: 0.8946 | Valid loss: 0.4459 | Valid Pearson: 0.7820
+Epoch 11/20 | Train loss: 0.1749 | Train Pearson: 0.9332 | Valid loss: 0.4530 | Valid Pearson: 0.7809
+Epoch 12/20 | Train loss: 0.1823 | Train Pearson: 0.9135 | Valid loss: 0.4371 | Valid Pearson: 0.7820
+Epoch 13/20 | Train loss: 0.1545 | Train Pearson: 0.9288 | Valid loss: 0.4418 | Valid Pearson: 0.7825
+Epoch 14/20 | Train loss: 0.2054 | Train Pearson: 0.9056 | Valid loss: 0.4385 | Valid Pearson: 0.7825
+Epoch 15/20 | Train loss: 0.1805 | Train Pearson: 0.9336 | Valid loss: 0.4381 | Valid Pearson: 0.7825
+Epoch 16/20 | Train loss: 0.1337 | Train Pearson: 0.9313 | Valid loss: 0.4379 | Valid Pearson: 0.7821
+Epoch 17/20 | Train loss: 0.1366 | Train Pearson: 0.9409 | Valid loss: 0.4519 | Valid Pearson: 0.7821
+Epoch 18/20 | Train loss: 0.1005 | Train Pearson: 0.9525 | Valid loss: 0.4497 | Valid Pearson: 0.7838
+Epoch 19/20 | Train loss: 0.1002 | Train Pearson: 0.9508 | Valid loss: 0.4350 | Valid Pearson: 0.7843
+Epoch 20/20 | Train loss: 0.0793 | Train Pearson: 0.9650 | Valid loss: 0.4381 | Valid Pearson: 0.7848
+MSE: 0.43812869235652363
+Pearson r: 0.7847635196812959
+Fold 3
+Epoch 1/20 | Train loss: 0.6820 | Train Pearson: 0.7844 | Valid loss: 0.3112 | Valid Pearson: 0.8051
+Epoch 2/20 | Train loss: 0.5118 | Train Pearson: 0.7741 | Valid loss: 0.2907 | Valid Pearson: 0.8051
+Epoch 3/20 | Train loss: 0.3658 | Train Pearson: 0.8691 | Valid loss: 0.2900 | Valid Pearson: 0.8054
+Epoch 4/20 | Train loss: 0.3986 | Train Pearson: 0.8284 | Valid loss: 0.2893 | Valid Pearson: 0.8055
+Epoch 5/20 | Train loss: 0.2626 | Train Pearson: 0.8971 | Valid loss: 0.2896 | Valid Pearson: 0.8052
+Epoch 6/20 | Train loss: 0.3671 | Train Pearson: 0.8424 | Valid loss: 0.2886 | Valid Pearson: 0.8055
+Epoch 7/20 | Train loss: 0.2898 | Train Pearson: 0.8943 | Valid loss: 0.2887 | Valid Pearson: 0.8053
+Epoch 8/20 | Train loss: 0.2756 | Train Pearson: 0.8806 | Valid loss: 0.3192 | Valid Pearson: 0.8041
+Epoch 9/20 | Train loss: 0.2551 | Train Pearson: 0.8943 | Valid loss: 0.2826 | Valid Pearson: 0.8046
+Epoch 10/20 | Train loss: 0.2400 | Train Pearson: 0.9040 | Valid loss: 0.2807 | Valid Pearson: 0.8046
+Epoch 11/20 | Train loss: 0.1624 | Train Pearson: 0.9189 | Valid loss: 0.2971 | Valid Pearson: 0.8040
+Epoch 12/20 | Train loss: 0.1994 | Train Pearson: 0.9295 | Valid loss: 0.2903 | Valid Pearson: 0.8049
+Epoch 13/20 | Train loss: 0.1659 | Train Pearson: 0.9190 | Valid loss: 0.2887 | Valid Pearson: 0.8041
+Epoch 14/20 | Train loss: 0.1431 | Train Pearson: 0.9348 | Valid loss: 0.2834 | Valid Pearson: 0.8039
+Epoch 15/20 | Train loss: 0.1037 | Train Pearson: 0.9530 | Valid loss: 0.2807 | Valid Pearson: 0.8037
+Epoch 16/20 | Train loss: 0.1422 | Train Pearson: 0.9334 | Valid loss: 0.2807 | Valid Pearson: 0.8038
+Epoch 17/20 | Train loss: 0.1353 | Train Pearson: 0.9384 | Valid loss: 0.2800 | Valid Pearson: 0.8042
+Epoch 18/20 | Train loss: 0.1046 | Train Pearson: 0.9486 | Valid loss: 0.2858 | Valid Pearson: 0.8034
+Epoch 19/20 | Train loss: 0.0694 | Train Pearson: 0.9679 | Valid loss: 0.2828 | Valid Pearson: 0.8038
+Epoch 20/20 | Train loss: 0.0785 | Train Pearson: 0.9623 | Valid loss: 0.2812 | Valid Pearson: 0.8031
+MSE: 0.28122179629228994
+Pearson r: 0.8030559624906494
+Dropout rate: 0.65, Retained fraction: 0.35: MSE: 0.38102508077114944, Pearson r: 0.797271386537454
+
+Dropout rate: 0.6
+Fold 1
+Epoch 1/20 | Train loss: 0.8067 | Train Pearson: 0.7491 | Valid loss: 0.4319 | Valid Pearson: 0.7998
+Epoch 2/20 | Train loss: 0.5501 | Train Pearson: 0.7589 | Valid loss: 0.4562 | Valid Pearson: 0.7980
+Epoch 3/20 | Train loss: 0.4313 | Train Pearson: 0.8529 | Valid loss: 0.4338 | Valid Pearson: 0.8004
+Epoch 4/20 | Train loss: 0.4014 | Train Pearson: 0.8354 | Valid loss: 0.4244 | Valid Pearson: 0.8028
+Epoch 5/20 | Train loss: 0.3539 | Train Pearson: 0.8582 | Valid loss: 0.4366 | Valid Pearson: 0.8011
+Epoch 6/20 | Train loss: 0.2630 | Train Pearson: 0.8912 | Valid loss: 0.4183 | Valid Pearson: 0.8035
+Epoch 7/20 | Train loss: 0.2690 | Train Pearson: 0.8843 | Valid loss: 0.4174 | Valid Pearson: 0.8034
+Epoch 8/20 | Train loss: 0.3111 | Train Pearson: 0.8821 | Valid loss: 0.4853 | Valid Pearson: 0.7990
+Epoch 9/20 | Train loss: 0.2861 | Train Pearson: 0.8647 | Valid loss: 0.4230 | Valid Pearson: 0.8046
+Epoch 10/20 | Train loss: 0.1943 | Train Pearson: 0.9099 | Valid loss: 0.4159 | Valid Pearson: 0.8040
+Epoch 11/20 | Train loss: 0.2072 | Train Pearson: 0.9156 | Valid loss: 0.4227 | Valid Pearson: 0.8043
+Epoch 12/20 | Train loss: 0.2110 | Train Pearson: 0.9061 | Valid loss: 0.4088 | Valid Pearson: 0.8061
+Epoch 13/20 | Train loss: 0.2003 | Train Pearson: 0.9041 | Valid loss: 0.4060 | Valid Pearson: 0.8058
+Epoch 14/20 | Train loss: 0.1707 | Train Pearson: 0.9372 | Valid loss: 0.4527 | Valid Pearson: 0.8043
+Epoch 15/20 | Train loss: 0.1626 | Train Pearson: 0.9219 | Valid loss: 0.4083 | Valid Pearson: 0.8054
+Epoch 16/20 | Train loss: 0.1538 | Train Pearson: 0.9290 | Valid loss: 0.4075 | Valid Pearson: 0.8055
+Epoch 17/20 | Train loss: 0.1145 | Train Pearson: 0.9425 | Valid loss: 0.4060 | Valid Pearson: 0.8054
+Epoch 18/20 | Train loss: 0.1213 | Train Pearson: 0.9470 | Valid loss: 0.4139 | Valid Pearson: 0.8048
+Epoch 19/20 | Train loss: 0.1098 | Train Pearson: 0.9509 | Valid loss: 0.4224 | Valid Pearson: 0.8043
+Epoch 20/20 | Train loss: 0.1114 | Train Pearson: 0.9455 | Valid loss: 0.4116 | Valid Pearson: 0.8049
+MSE: 0.41160535798239145
+Pearson r: 0.8048629320277532
+Fold 2
+Epoch 1/20 | Train loss: 0.5464 | Train Pearson: 0.8118 | Valid loss: 0.4596 | Valid Pearson: 0.7722
+Epoch 2/20 | Train loss: 0.4981 | Train Pearson: 0.7998 | Valid loss: 0.4584 | Valid Pearson: 0.7727
+Epoch 3/20 | Train loss: 0.4222 | Train Pearson: 0.8406 | Valid loss: 0.4621 | Valid Pearson: 0.7758
+Epoch 4/20 | Train loss: 0.4542 | Train Pearson: 0.8270 | Valid loss: 0.4585 | Valid Pearson: 0.7765
+Epoch 5/20 | Train loss: 0.3327 | Train Pearson: 0.8704 | Valid loss: 0.4502 | Valid Pearson: 0.7763
+Epoch 6/20 | Train loss: 0.2995 | Train Pearson: 0.8721 | Valid loss: 0.4526 | Valid Pearson: 0.7752
+Epoch 7/20 | Train loss: 0.2676 | Train Pearson: 0.8890 | Valid loss: 0.4515 | Valid Pearson: 0.7775
+Epoch 8/20 | Train loss: 0.2622 | Train Pearson: 0.8870 | Valid loss: 0.4500 | Valid Pearson: 0.7763
+Epoch 9/20 | Train loss: 0.2174 | Train Pearson: 0.9053 | Valid loss: 0.4480 | Valid Pearson: 0.7769
+Epoch 10/20 | Train loss: 0.2401 | Train Pearson: 0.8978 | Valid loss: 0.4472 | Valid Pearson: 0.7779
+Epoch 11/20 | Train loss: 0.1361 | Train Pearson: 0.9346 | Valid loss: 0.4589 | Valid Pearson: 0.7792
+Epoch 12/20 | Train loss: 0.1627 | Train Pearson: 0.9266 | Valid loss: 0.4437 | Valid Pearson: 0.7791
+Epoch 13/20 | Train loss: 0.1268 | Train Pearson: 0.9446 | Valid loss: 0.4433 | Valid Pearson: 0.7801
+Epoch 14/20 | Train loss: 0.1237 | Train Pearson: 0.9429 | Valid loss: 0.4427 | Valid Pearson: 0.7798
+Epoch 15/20 | Train loss: 0.1115 | Train Pearson: 0.9477 | Valid loss: 0.4417 | Valid Pearson: 0.7804
+Epoch 16/20 | Train loss: 0.1254 | Train Pearson: 0.9395 | Valid loss: 0.4412 | Valid Pearson: 0.7805
+Epoch 17/20 | Train loss: 0.0966 | Train Pearson: 0.9559 | Valid loss: 0.4419 | Valid Pearson: 0.7804
+Epoch 18/20 | Train loss: 0.0927 | Train Pearson: 0.9557 | Valid loss: 0.4397 | Valid Pearson: 0.7808
+Epoch 19/20 | Train loss: 0.1085 | Train Pearson: 0.9477 | Valid loss: 0.4434 | Valid Pearson: 0.7811
+Epoch 20/20 | Train loss: 0.0785 | Train Pearson: 0.9648 | Valid loss: 0.4387 | Valid Pearson: 0.7817
+MSE: 0.43871369978745645
+Pearson r: 0.7817377291253595
+Fold 3
+Epoch 1/20 | Train loss: 1.1322 | Train Pearson: 0.5195 | Valid loss: 0.4561 | Valid Pearson: 0.7943
+Epoch 2/20 | Train loss: 0.5869 | Train Pearson: 0.8162 | Valid loss: 0.3146 | Valid Pearson: 0.7882
+Epoch 3/20 | Train loss: 0.4241 | Train Pearson: 0.8564 | Valid loss: 0.3071 | Valid Pearson: 0.7903
+Epoch 4/20 | Train loss: 0.3168 | Train Pearson: 0.8519 | Valid loss: 0.3113 | Valid Pearson: 0.7916
+Epoch 5/20 | Train loss: 0.3697 | Train Pearson: 0.8599 | Valid loss: 0.3068 | Valid Pearson: 0.7897
+Epoch 6/20 | Train loss: 0.2425 | Train Pearson: 0.8910 | Valid loss: 0.3045 | Valid Pearson: 0.7909
+Epoch 7/20 | Train loss: 0.2281 | Train Pearson: 0.9042 | Valid loss: 0.3198 | Valid Pearson: 0.7923
+Epoch 8/20 | Train loss: 0.2796 | Train Pearson: 0.8755 | Valid loss: 0.3037 | Valid Pearson: 0.7909
+Epoch 9/20 | Train loss: 0.2482 | Train Pearson: 0.9002 | Valid loss: 0.3018 | Valid Pearson: 0.7900
+Epoch 10/20 | Train loss: 0.2101 | Train Pearson: 0.9130 | Valid loss: 0.3023 | Valid Pearson: 0.7910
+Epoch 11/20 | Train loss: 0.2117 | Train Pearson: 0.9024 | Valid loss: 0.3009 | Valid Pearson: 0.7899
+Epoch 12/20 | Train loss: 0.1752 | Train Pearson: 0.9292 | Valid loss: 0.2990 | Valid Pearson: 0.7911
+Epoch 13/20 | Train loss: 0.1713 | Train Pearson: 0.9139 | Valid loss: 0.3072 | Valid Pearson: 0.7927
+Epoch 14/20 | Train loss: 0.1656 | Train Pearson: 0.9284 | Valid loss: 0.2970 | Valid Pearson: 0.7916
+Epoch 15/20 | Train loss: 0.1859 | Train Pearson: 0.9173 | Valid loss: 0.2961 | Valid Pearson: 0.7930
+Epoch 16/20 | Train loss: 0.1617 | Train Pearson: 0.9282 | Valid loss: 0.3284 | Valid Pearson: 0.7950
+Epoch 17/20 | Train loss: 0.1473 | Train Pearson: 0.9322 | Valid loss: 0.3015 | Valid Pearson: 0.7926
+Epoch 18/20 | Train loss: 0.1967 | Train Pearson: 0.9147 | Valid loss: 0.2936 | Valid Pearson: 0.7948
+Epoch 19/20 | Train loss: 0.0958 | Train Pearson: 0.9569 | Valid loss: 0.2954 | Valid Pearson: 0.7956
+Epoch 20/20 | Train loss: 0.1523 | Train Pearson: 0.9265 | Valid loss: 0.2945 | Valid Pearson: 0.7958
+MSE: 0.29445045377999424
+Pearson r: 0.7957851141644079
+Dropout rate: 0.6, Retained fraction: 0.4: MSE: 0.3815898371832807, Pearson r: 0.7941285917725068
+
+Dropout rate: 0.55
+Fold 1
+Epoch 1/20 | Train loss: 0.8822 | Train Pearson: 0.7431 | Valid loss: 0.4335 | Valid Pearson: 0.7975
+Epoch 2/20 | Train loss: 0.3887 | Train Pearson: 0.7958 | Valid loss: 0.4336 | Valid Pearson: 0.7976
+Epoch 3/20 | Train loss: 0.4017 | Train Pearson: 0.8692 | Valid loss: 0.4294 | Valid Pearson: 0.7990
+Epoch 4/20 | Train loss: 0.3380 | Train Pearson: 0.8542 | Valid loss: 0.4289 | Valid Pearson: 0.7985
+Epoch 5/20 | Train loss: 0.3644 | Train Pearson: 0.8426 | Valid loss: 0.4386 | Valid Pearson: 0.8007
+Epoch 6/20 | Train loss: 0.3577 | Train Pearson: 0.8692 | Valid loss: 0.4629 | Valid Pearson: 0.7956
+Epoch 7/20 | Train loss: 0.2792 | Train Pearson: 0.8738 | Valid loss: 0.4186 | Valid Pearson: 0.7999
+Epoch 8/20 | Train loss: 0.2132 | Train Pearson: 0.9064 | Valid loss: 0.4176 | Valid Pearson: 0.8002
+Epoch 9/20 | Train loss: 0.3341 | Train Pearson: 0.8587 | Valid loss: 0.4186 | Valid Pearson: 0.8003
+Epoch 10/20 | Train loss: 0.3136 | Train Pearson: 0.8830 | Valid loss: 0.4191 | Valid Pearson: 0.8003
+Epoch 11/20 | Train loss: 0.2362 | Train Pearson: 0.8927 | Valid loss: 0.4191 | Valid Pearson: 0.8011
+Epoch 12/20 | Train loss: 0.1763 | Train Pearson: 0.9199 | Valid loss: 0.4167 | Valid Pearson: 0.8005
+Epoch 13/20 | Train loss: 0.2047 | Train Pearson: 0.9114 | Valid loss: 0.4208 | Valid Pearson: 0.8004
+Epoch 14/20 | Train loss: 0.1667 | Train Pearson: 0.9173 | Valid loss: 0.4157 | Valid Pearson: 0.8009
+Epoch 15/20 | Train loss: 0.1802 | Train Pearson: 0.9249 | Valid loss: 0.4338 | Valid Pearson: 0.8002
+Epoch 16/20 | Train loss: 0.1246 | Train Pearson: 0.9430 | Valid loss: 0.4140 | Valid Pearson: 0.8022
+Epoch 17/20 | Train loss: 0.1352 | Train Pearson: 0.9409 | Valid loss: 0.4284 | Valid Pearson: 0.8013
+Epoch 18/20 | Train loss: 0.1159 | Train Pearson: 0.9433 | Valid loss: 0.4133 | Valid Pearson: 0.8023
+Epoch 19/20 | Train loss: 0.1275 | Train Pearson: 0.9399 | Valid loss: 0.4219 | Valid Pearson: 0.8021
+Epoch 20/20 | Train loss: 0.0855 | Train Pearson: 0.9614 | Valid loss: 0.4095 | Valid Pearson: 0.8030
+MSE: 0.40949824642871313
+Pearson r: 0.8030277965532786
+Fold 2
+Epoch 1/20 | Train loss: 0.3762 | Train Pearson: 0.8601 | Valid loss: 0.4893 | Valid Pearson: 0.7698
+Epoch 2/20 | Train loss: 0.3978 | Train Pearson: 0.8421 | Valid loss: 0.4511 | Valid Pearson: 0.7768
+Epoch 3/20 | Train loss: 0.3005 | Train Pearson: 0.8576 | Valid loss: 0.4516 | Valid Pearson: 0.7772
+Epoch 4/20 | Train loss: 0.2699 | Train Pearson: 0.8957 | Valid loss: 0.4554 | Valid Pearson: 0.7778
+Epoch 5/20 | Train loss: 0.2767 | Train Pearson: 0.8699 | Valid loss: 0.4678 | Valid Pearson: 0.7787
+Epoch 6/20 | Train loss: 0.1946 | Train Pearson: 0.9223 | Valid loss: 0.4456 | Valid Pearson: 0.7781
+Epoch 7/20 | Train loss: 0.2364 | Train Pearson: 0.8971 | Valid loss: 0.4444 | Valid Pearson: 0.7782
+Epoch 8/20 | Train loss: 0.2047 | Train Pearson: 0.9102 | Valid loss: 0.4461 | Valid Pearson: 0.7783
+Epoch 9/20 | Train loss: 0.2107 | Train Pearson: 0.9092 | Valid loss: 0.4460 | Valid Pearson: 0.7787
+Epoch 10/20 | Train loss: 0.2010 | Train Pearson: 0.9068 | Valid loss: 0.4615 | Valid Pearson: 0.7815
+Epoch 11/20 | Train loss: 0.1548 | Train Pearson: 0.9265 | Valid loss: 0.4434 | Valid Pearson: 0.7809
+Epoch 12/20 | Train loss: 0.1258 | Train Pearson: 0.9480 | Valid loss: 0.4414 | Valid Pearson: 0.7822
+Epoch 13/20 | Train loss: 0.1015 | Train Pearson: 0.9491 | Valid loss: 0.4415 | Valid Pearson: 0.7825
+Epoch 14/20 | Train loss: 0.1016 | Train Pearson: 0.9534 | Valid loss: 0.4408 | Valid Pearson: 0.7824
+Epoch 15/20 | Train loss: 0.0891 | Train Pearson: 0.9587 | Valid loss: 0.4400 | Valid Pearson: 0.7830
+Epoch 16/20 | Train loss: 0.0839 | Train Pearson: 0.9586 | Valid loss: 0.4555 | Valid Pearson: 0.7837
+Epoch 17/20 | Train loss: 0.0779 | Train Pearson: 0.9634 | Valid loss: 0.4355 | Valid Pearson: 0.7836
+Epoch 18/20 | Train loss: 0.0681 | Train Pearson: 0.9670 | Valid loss: 0.4346 | Valid Pearson: 0.7836
+Epoch 19/20 | Train loss: 0.0768 | Train Pearson: 0.9647 | Valid loss: 0.4345 | Valid Pearson: 0.7836
+Epoch 20/20 | Train loss: 0.0710 | Train Pearson: 0.9645 | Valid loss: 0.4341 | Valid Pearson: 0.7841
+MSE: 0.4341461650994926
+Pearson r: 0.7840804773540269
+Fold 3
+Epoch 1/20 | Train loss: 1.0574 | Train Pearson: 0.5825 | Valid loss: 0.3879 | Valid Pearson: 0.7932
+Epoch 2/20 | Train loss: 0.2757 | Train Pearson: 0.9078 | Valid loss: 0.3086 | Valid Pearson: 0.7861
+Epoch 3/20 | Train loss: 0.3409 | Train Pearson: 0.8319 | Valid loss: 0.3610 | Valid Pearson: 0.7935
+Epoch 4/20 | Train loss: 0.4572 | Train Pearson: 0.8630 | Valid loss: 0.3264 | Valid Pearson: 0.7845
+Epoch 5/20 | Train loss: 0.3083 | Train Pearson: 0.8471 | Valid loss: 0.3297 | Valid Pearson: 0.7935
+Epoch 6/20 | Train loss: 0.2903 | Train Pearson: 0.8904 | Valid loss: 0.3028 | Valid Pearson: 0.7928
+Epoch 7/20 | Train loss: 0.1958 | Train Pearson: 0.9098 | Valid loss: 0.2966 | Valid Pearson: 0.7926
+Epoch 8/20 | Train loss: 0.2016 | Train Pearson: 0.9177 | Valid loss: 0.2986 | Valid Pearson: 0.7930
+Epoch 9/20 | Train loss: 0.2475 | Train Pearson: 0.8922 | Valid loss: 0.2962 | Valid Pearson: 0.7931
+Epoch 10/20 | Train loss: 0.1739 | Train Pearson: 0.9280 | Valid loss: 0.2949 | Valid Pearson: 0.7936
+Epoch 11/20 | Train loss: 0.1665 | Train Pearson: 0.9254 | Valid loss: 0.2933 | Valid Pearson: 0.7937
+Epoch 12/20 | Train loss: 0.1509 | Train Pearson: 0.9290 | Valid loss: 0.2933 | Valid Pearson: 0.7943
+Epoch 13/20 | Train loss: 0.1404 | Train Pearson: 0.9326 | Valid loss: 0.2965 | Valid Pearson: 0.7950
+Epoch 14/20 | Train loss: 0.2056 | Train Pearson: 0.9078 | Valid loss: 0.2935 | Valid Pearson: 0.7955
+Epoch 15/20 | Train loss: 0.1865 | Train Pearson: 0.9229 | Valid loss: 0.2909 | Valid Pearson: 0.7956
+Epoch 16/20 | Train loss: 0.1403 | Train Pearson: 0.9336 | Valid loss: 0.3061 | Valid Pearson: 0.7964
+Epoch 17/20 | Train loss: 0.1083 | Train Pearson: 0.9504 | Valid loss: 0.2907 | Valid Pearson: 0.7957
+Epoch 18/20 | Train loss: 0.1169 | Train Pearson: 0.9436 | Valid loss: 0.2994 | Valid Pearson: 0.7966
+Epoch 19/20 | Train loss: 0.1338 | Train Pearson: 0.9358 | Valid loss: 0.3010 | Valid Pearson: 0.7970
+Epoch 20/20 | Train loss: 0.1032 | Train Pearson: 0.9528 | Valid loss: 0.2932 | Valid Pearson: 0.7966
+MSE: 0.2932076138105609
+Pearson r: 0.7966405137931677
+Dropout rate: 0.55, Retained fraction: 0.45: MSE: 0.3789506751129222, Pearson r: 0.794582929233491
+
+Dropout rate: 0.5
+Fold 1
+Epoch 1/20 | Train loss: 0.4338 | Train Pearson: 0.8368 | Valid loss: 0.4347 | Valid Pearson: 0.7894
+Epoch 2/20 | Train loss: 0.3655 | Train Pearson: 0.8330 | Valid loss: 0.4355 | Valid Pearson: 0.7897
+Epoch 3/20 | Train loss: 0.2679 | Train Pearson: 0.8915 | Valid loss: 0.4330 | Valid Pearson: 0.7910
+Epoch 4/20 | Train loss: 0.2807 | Train Pearson: 0.8759 | Valid loss: 0.4344 | Valid Pearson: 0.7932
+Epoch 5/20 | Train loss: 0.3041 | Train Pearson: 0.8793 | Valid loss: 0.4280 | Valid Pearson: 0.7925
+Epoch 6/20 | Train loss: 0.2236 | Train Pearson: 0.9133 | Valid loss: 0.4389 | Valid Pearson: 0.7914
+Epoch 7/20 | Train loss: 0.1842 | Train Pearson: 0.9212 | Valid loss: 0.4309 | Valid Pearson: 0.7929
+Epoch 8/20 | Train loss: 0.2075 | Train Pearson: 0.8918 | Valid loss: 0.4284 | Valid Pearson: 0.7954
+Epoch 9/20 | Train loss: 0.2481 | Train Pearson: 0.9195 | Valid loss: 0.4581 | Valid Pearson: 0.7919
+Epoch 10/20 | Train loss: 0.1851 | Train Pearson: 0.9159 | Valid loss: 0.4305 | Valid Pearson: 0.7942
+Epoch 11/20 | Train loss: 0.1278 | Train Pearson: 0.9413 | Valid loss: 0.4327 | Valid Pearson: 0.7943
+Epoch 12/20 | Train loss: 0.1479 | Train Pearson: 0.9290 | Valid loss: 0.4227 | Valid Pearson: 0.7968
+Epoch 13/20 | Train loss: 0.1611 | Train Pearson: 0.9283 | Valid loss: 0.4538 | Valid Pearson: 0.7944
+Epoch 14/20 | Train loss: 0.1380 | Train Pearson: 0.9401 | Valid loss: 0.4516 | Valid Pearson: 0.7957
+Epoch 15/20 | Train loss: 0.1377 | Train Pearson: 0.9362 | Valid loss: 0.4172 | Valid Pearson: 0.7984
+Epoch 16/20 | Train loss: 0.1365 | Train Pearson: 0.9364 | Valid loss: 0.4172 | Valid Pearson: 0.7985
+Epoch 17/20 | Train loss: 0.1048 | Train Pearson: 0.9545 | Valid loss: 0.4459 | Valid Pearson: 0.7971
+Epoch 18/20 | Train loss: 0.1429 | Train Pearson: 0.9264 | Valid loss: 0.4238 | Valid Pearson: 0.7999
+Epoch 19/20 | Train loss: 0.1440 | Train Pearson: 0.9312 | Valid loss: 0.4152 | Valid Pearson: 0.7994
+Epoch 20/20 | Train loss: 0.0777 | Train Pearson: 0.9663 | Valid loss: 0.4298 | Valid Pearson: 0.7981
+MSE: 0.4298113199740546
+Pearson r: 0.7981195421224571
+Fold 2
+Epoch 1/20 | Train loss: 0.4215 | Train Pearson: 0.8422 | Valid loss: 0.4628 | Valid Pearson: 0.7673
+Epoch 2/20 | Train loss: 0.1947 | Train Pearson: 0.9017 | Valid loss: 0.5047 | Valid Pearson: 0.7735
+Epoch 3/20 | Train loss: 0.2705 | Train Pearson: 0.9064 | Valid loss: 0.5057 | Valid Pearson: 0.7618
+Epoch 4/20 | Train loss: 0.2600 | Train Pearson: 0.8836 | Valid loss: 0.4578 | Valid Pearson: 0.7709
+Epoch 5/20 | Train loss: 0.2027 | Train Pearson: 0.9134 | Valid loss: 0.4586 | Valid Pearson: 0.7727
+Epoch 6/20 | Train loss: 0.2854 | Train Pearson: 0.8818 | Valid loss: 0.4546 | Valid Pearson: 0.7733
+Epoch 7/20 | Train loss: 0.2926 | Train Pearson: 0.8628 | Valid loss: 0.4637 | Valid Pearson: 0.7749
+Epoch 8/20 | Train loss: 0.1868 | Train Pearson: 0.9288 | Valid loss: 0.4523 | Valid Pearson: 0.7741
+Epoch 9/20 | Train loss: 0.1484 | Train Pearson: 0.9258 | Valid loss: 0.4630 | Valid Pearson: 0.7761
+Epoch 10/20 | Train loss: 0.1657 | Train Pearson: 0.9330 | Valid loss: 0.4505 | Valid Pearson: 0.7747
+Epoch 11/20 | Train loss: 0.1778 | Train Pearson: 0.9255 | Valid loss: 0.4513 | Valid Pearson: 0.7770
+Epoch 12/20 | Train loss: 0.1377 | Train Pearson: 0.9307 | Valid loss: 0.4766 | Valid Pearson: 0.7791
+Epoch 13/20 | Train loss: 0.1235 | Train Pearson: 0.9433 | Valid loss: 0.4457 | Valid Pearson: 0.7786
+Epoch 14/20 | Train loss: 0.1321 | Train Pearson: 0.9433 | Valid loss: 0.4581 | Valid Pearson: 0.7772
+Epoch 15/20 | Train loss: 0.0907 | Train Pearson: 0.9575 | Valid loss: 0.4426 | Valid Pearson: 0.7790
+Epoch 16/20 | Train loss: 0.0806 | Train Pearson: 0.9622 | Valid loss: 0.4472 | Valid Pearson: 0.7784
+Epoch 17/20 | Train loss: 0.0749 | Train Pearson: 0.9620 | Valid loss: 0.4553 | Valid Pearson: 0.7800
+Epoch 18/20 | Train loss: 0.0816 | Train Pearson: 0.9600 | Valid loss: 0.4475 | Valid Pearson: 0.7797
+Epoch 19/20 | Train loss: 0.0699 | Train Pearson: 0.9684 | Valid loss: 0.4467 | Valid Pearson: 0.7785
+Epoch 20/20 | Train loss: 0.0678 | Train Pearson: 0.9678 | Valid loss: 0.4427 | Valid Pearson: 0.7791
+MSE: 0.4426660578561078
+Pearson r: 0.7790699285836407
+Fold 3
+Epoch 1/20 | Train loss: 0.2705 | Train Pearson: 0.8867 | Valid loss: 0.3068 | Valid Pearson: 0.7921
+Epoch 2/20 | Train loss: 0.3451 | Train Pearson: 0.8350 | Valid loss: 0.3474 | Valid Pearson: 0.7943
+Epoch 3/20 | Train loss: 0.2066 | Train Pearson: 0.9284 | Valid loss: 0.3091 | Valid Pearson: 0.7898
+Epoch 4/20 | Train loss: 0.2380 | Train Pearson: 0.8922 | Valid loss: 0.3189 | Valid Pearson: 0.7935
+Epoch 5/20 | Train loss: 0.2515 | Train Pearson: 0.8810 | Valid loss: 0.3154 | Valid Pearson: 0.7936
+Epoch 6/20 | Train loss: 0.2134 | Train Pearson: 0.9285 | Valid loss: 0.3079 | Valid Pearson: 0.7902
+Epoch 7/20 | Train loss: 0.1443 | Train Pearson: 0.9331 | Valid loss: 0.3000 | Valid Pearson: 0.7919
+Epoch 8/20 | Train loss: 0.1853 | Train Pearson: 0.9086 | Valid loss: 0.3116 | Valid Pearson: 0.7936
+Epoch 9/20 | Train loss: 0.2105 | Train Pearson: 0.9117 | Valid loss: 0.3075 | Valid Pearson: 0.7941
+Epoch 10/20 | Train loss: 0.1388 | Train Pearson: 0.9389 | Valid loss: 0.2993 | Valid Pearson: 0.7933
+Epoch 11/20 | Train loss: 0.1280 | Train Pearson: 0.9408 | Valid loss: 0.2978 | Valid Pearson: 0.7917
+Epoch 12/20 | Train loss: 0.1098 | Train Pearson: 0.9519 | Valid loss: 0.2972 | Valid Pearson: 0.7919
+Epoch 13/20 | Train loss: 0.1189 | Train Pearson: 0.9410 | Valid loss: 0.2990 | Valid Pearson: 0.7938
+Epoch 14/20 | Train loss: 0.1138 | Train Pearson: 0.9478 | Valid loss: 0.2964 | Valid Pearson: 0.7928
+Epoch 15/20 | Train loss: 0.0876 | Train Pearson: 0.9604 | Valid loss: 0.2926 | Valid Pearson: 0.7945
+Epoch 16/20 | Train loss: 0.0790 | Train Pearson: 0.9602 | Valid loss: 0.3082 | Valid Pearson: 0.7959
+Epoch 17/20 | Train loss: 0.0611 | Train Pearson: 0.9719 | Valid loss: 0.2916 | Valid Pearson: 0.7952
+Epoch 18/20 | Train loss: 0.1008 | Train Pearson: 0.9532 | Valid loss: 0.2937 | Valid Pearson: 0.7961
+Epoch 19/20 | Train loss: 0.0621 | Train Pearson: 0.9687 | Valid loss: 0.2976 | Valid Pearson: 0.7964
+Epoch 20/20 | Train loss: 0.0717 | Train Pearson: 0.9659 | Valid loss: 0.2914 | Valid Pearson: 0.7961
+MSE: 0.29136121695347805
+Pearson r: 0.7961029427732319
+Dropout rate: 0.5, Retained fraction: 0.5: MSE: 0.3879461982612135, Pearson r: 0.7910974711597766
+
+Dropout rate: 0.44999999999999996
+Fold 1
+Epoch 1/20 | Train loss: 0.3357 | Train Pearson: 0.8820 | Valid loss: 0.4808 | Valid Pearson: 0.7882
+Epoch 2/20 | Train loss: 0.2673 | Train Pearson: 0.8778 | Valid loss: 0.4702 | Valid Pearson: 0.7937
+Epoch 3/20 | Train loss: 0.3324 | Train Pearson: 0.8623 | Valid loss: 0.4654 | Valid Pearson: 0.7904
+Epoch 4/20 | Train loss: 0.2026 | Train Pearson: 0.9246 | Valid loss: 0.4497 | Valid Pearson: 0.7935
+Epoch 5/20 | Train loss: 0.2049 | Train Pearson: 0.9129 | Valid loss: 0.4461 | Valid Pearson: 0.7936
+Epoch 6/20 | Train loss: 0.2312 | Train Pearson: 0.8950 | Valid loss: 0.4543 | Valid Pearson: 0.7976
+Epoch 7/20 | Train loss: 0.2266 | Train Pearson: 0.9027 | Valid loss: 0.4338 | Valid Pearson: 0.7958
+Epoch 8/20 | Train loss: 0.1467 | Train Pearson: 0.9375 | Valid loss: 0.4353 | Valid Pearson: 0.7959
+Epoch 9/20 | Train loss: 0.1897 | Train Pearson: 0.9140 | Valid loss: 0.4361 | Valid Pearson: 0.7964
+Epoch 10/20 | Train loss: 0.1256 | Train Pearson: 0.9407 | Valid loss: 0.4331 | Valid Pearson: 0.7971
+Epoch 11/20 | Train loss: 0.1276 | Train Pearson: 0.9458 | Valid loss: 0.4262 | Valid Pearson: 0.7982
+Epoch 12/20 | Train loss: 0.1108 | Train Pearson: 0.9438 | Valid loss: 0.4197 | Valid Pearson: 0.8000
+Epoch 13/20 | Train loss: 0.1359 | Train Pearson: 0.9363 | Valid loss: 0.4198 | Valid Pearson: 0.8001
+Epoch 14/20 | Train loss: 0.1036 | Train Pearson: 0.9574 | Valid loss: 0.4321 | Valid Pearson: 0.7999
+Epoch 15/20 | Train loss: 0.1697 | Train Pearson: 0.9167 | Valid loss: 0.4253 | Valid Pearson: 0.8018
+Epoch 16/20 | Train loss: 0.0941 | Train Pearson: 0.9526 | Valid loss: 0.4197 | Valid Pearson: 0.8018
+Epoch 17/20 | Train loss: 0.0909 | Train Pearson: 0.9562 | Valid loss: 0.4138 | Valid Pearson: 0.8012
+Epoch 18/20 | Train loss: 0.0844 | Train Pearson: 0.9620 | Valid loss: 0.4412 | Valid Pearson: 0.8008
+Epoch 19/20 | Train loss: 0.0614 | Train Pearson: 0.9711 | Valid loss: 0.4134 | Valid Pearson: 0.8020
+Epoch 20/20 | Train loss: 0.0662 | Train Pearson: 0.9669 | Valid loss: 0.4115 | Valid Pearson: 0.8024
+MSE: 0.4114583531580389
+Pearson r: 0.8023824288741714
+Fold 2
+Epoch 1/20 | Train loss: 0.4732 | Train Pearson: 0.8322 | Valid loss: 0.5196 | Valid Pearson: 0.7724
+Epoch 2/20 | Train loss: 0.2634 | Train Pearson: 0.8746 | Valid loss: 0.4791 | Valid Pearson: 0.7705
+Epoch 3/20 | Train loss: 0.2078 | Train Pearson: 0.9157 | Valid loss: 0.4704 | Valid Pearson: 0.7699
+Epoch 4/20 | Train loss: 0.1848 | Train Pearson: 0.9202 | Valid loss: 0.4675 | Valid Pearson: 0.7697
+Epoch 5/20 | Train loss: 0.2803 | Train Pearson: 0.8857 | Valid loss: 0.4676 | Valid Pearson: 0.7687
+Epoch 6/20 | Train loss: 0.1730 | Train Pearson: 0.9252 | Valid loss: 0.4616 | Valid Pearson: 0.7705
+Epoch 7/20 | Train loss: 0.1744 | Train Pearson: 0.9222 | Valid loss: 0.4612 | Valid Pearson: 0.7707
+Epoch 8/20 | Train loss: 0.1922 | Train Pearson: 0.9186 | Valid loss: 0.4575 | Valid Pearson: 0.7721
+Epoch 9/20 | Train loss: 0.1419 | Train Pearson: 0.9315 | Valid loss: 0.4582 | Valid Pearson: 0.7722
+Epoch 10/20 | Train loss: 0.1282 | Train Pearson: 0.9385 | Valid loss: 0.4590 | Valid Pearson: 0.7725
+Epoch 11/20 | Train loss: 0.1440 | Train Pearson: 0.9367 | Valid loss: 0.4576 | Valid Pearson: 0.7716
+Epoch 12/20 | Train loss: 0.1318 | Train Pearson: 0.9355 | Valid loss: 0.4924 | Valid Pearson: 0.7758
+Epoch 13/20 | Train loss: 0.1399 | Train Pearson: 0.9342 | Valid loss: 0.4580 | Valid Pearson: 0.7749
+Epoch 14/20 | Train loss: 0.1332 | Train Pearson: 0.9471 | Valid loss: 0.4631 | Valid Pearson: 0.7725
+Epoch 15/20 | Train loss: 0.0900 | Train Pearson: 0.9602 | Valid loss: 0.4514 | Valid Pearson: 0.7743
+Epoch 16/20 | Train loss: 0.0782 | Train Pearson: 0.9639 | Valid loss: 0.4508 | Valid Pearson: 0.7746
+Epoch 17/20 | Train loss: 0.0896 | Train Pearson: 0.9550 | Valid loss: 0.4499 | Valid Pearson: 0.7756
+Epoch 18/20 | Train loss: 0.0551 | Train Pearson: 0.9745 | Valid loss: 0.4481 | Valid Pearson: 0.7758
+Epoch 19/20 | Train loss: 0.0716 | Train Pearson: 0.9640 | Valid loss: 0.4487 | Valid Pearson: 0.7770
+Epoch 20/20 | Train loss: 0.0599 | Train Pearson: 0.9721 | Valid loss: 0.4466 | Valid Pearson: 0.7769
+MSE: 0.4466096830201151
+Pearson r: 0.7768604413000193
+Fold 3
+Epoch 1/20 | Train loss: 0.5548 | Train Pearson: 0.7486 | Valid loss: 0.4349 | Valid Pearson: 0.7973
+Epoch 2/20 | Train loss: 0.3306 | Train Pearson: 0.8922 | Valid loss: 0.3330 | Valid Pearson: 0.7877
+Epoch 3/20 | Train loss: 0.3792 | Train Pearson: 0.8347 | Valid loss: 0.3494 | Valid Pearson: 0.7967
+Epoch 4/20 | Train loss: 0.1782 | Train Pearson: 0.9253 | Valid loss: 0.3096 | Valid Pearson: 0.7914
+Epoch 5/20 | Train loss: 0.2234 | Train Pearson: 0.8999 | Valid loss: 0.3217 | Valid Pearson: 0.7963
+Epoch 6/20 | Train loss: 0.1940 | Train Pearson: 0.9155 | Valid loss: 0.2980 | Valid Pearson: 0.7954
+Epoch 7/20 | Train loss: 0.1987 | Train Pearson: 0.9099 | Valid loss: 0.2930 | Valid Pearson: 0.7949
+Epoch 8/20 | Train loss: 0.1583 | Train Pearson: 0.9336 | Valid loss: 0.2970 | Valid Pearson: 0.7958
+Epoch 9/20 | Train loss: 0.2356 | Train Pearson: 0.8922 | Valid loss: 0.2958 | Valid Pearson: 0.7941
+Epoch 10/20 | Train loss: 0.1435 | Train Pearson: 0.9409 | Valid loss: 0.2976 | Valid Pearson: 0.7959
+Epoch 11/20 | Train loss: 0.1554 | Train Pearson: 0.9241 | Valid loss: 0.2918 | Valid Pearson: 0.7957
+Epoch 12/20 | Train loss: 0.1475 | Train Pearson: 0.9396 | Valid loss: 0.2945 | Valid Pearson: 0.7957
+Epoch 13/20 | Train loss: 0.1357 | Train Pearson: 0.9337 | Valid loss: 0.3077 | Valid Pearson: 0.7965
+Epoch 14/20 | Train loss: 0.1047 | Train Pearson: 0.9540 | Valid loss: 0.2914 | Valid Pearson: 0.7953
+Epoch 15/20 | Train loss: 0.0955 | Train Pearson: 0.9549 | Valid loss: 0.3204 | Valid Pearson: 0.7972
+Epoch 16/20 | Train loss: 0.0924 | Train Pearson: 0.9564 | Valid loss: 0.2903 | Valid Pearson: 0.7963
+Epoch 17/20 | Train loss: 0.0845 | Train Pearson: 0.9610 | Valid loss: 0.2906 | Valid Pearson: 0.7958
+Epoch 18/20 | Train loss: 0.0913 | Train Pearson: 0.9549 | Valid loss: 0.2902 | Valid Pearson: 0.7959
+Epoch 19/20 | Train loss: 0.0933 | Train Pearson: 0.9559 | Valid loss: 0.3268 | Valid Pearson: 0.7974
+Epoch 20/20 | Train loss: 0.0743 | Train Pearson: 0.9648 | Valid loss: 0.2919 | Valid Pearson: 0.7965
+MSE: 0.2918728173018034
+Pearson r: 0.7964731556816163
+Dropout rate: 0.44999999999999996, Retained fraction: 0.55: MSE: 0.3833136178266525, Pearson r: 0.7919053419519356
+
+Dropout rate: 0.4
+Fold 1
+Epoch 1/20 | Train loss: 0.2508 | Train Pearson: 0.8955 | Valid loss: 0.4815 | Valid Pearson: 0.7911
+Epoch 2/20 | Train loss: 0.2074 | Train Pearson: 0.9054 | Valid loss: 0.4186 | Valid Pearson: 0.7966
+Epoch 3/20 | Train loss: 0.1555 | Train Pearson: 0.9258 | Valid loss: 0.4178 | Valid Pearson: 0.7979
+Epoch 4/20 | Train loss: 0.2073 | Train Pearson: 0.9094 | Valid loss: 0.4494 | Valid Pearson: 0.7992
+Epoch 5/20 | Train loss: 0.1228 | Train Pearson: 0.9429 | Valid loss: 0.4264 | Valid Pearson: 0.7965
+Epoch 6/20 | Train loss: 0.1331 | Train Pearson: 0.9417 | Valid loss: 0.4238 | Valid Pearson: 0.7970
+Epoch 7/20 | Train loss: 0.1572 | Train Pearson: 0.9269 | Valid loss: 0.4163 | Valid Pearson: 0.7990
+Epoch 8/20 | Train loss: 0.1423 | Train Pearson: 0.9318 | Valid loss: 0.4173 | Valid Pearson: 0.7992
+Epoch 9/20 | Train loss: 0.1577 | Train Pearson: 0.9290 | Valid loss: 0.4250 | Valid Pearson: 0.7979
+Epoch 10/20 | Train loss: 0.1596 | Train Pearson: 0.9298 | Valid loss: 0.4490 | Valid Pearson: 0.7971
+Epoch 11/20 | Train loss: 0.0997 | Train Pearson: 0.9568 | Valid loss: 0.4172 | Valid Pearson: 0.7990
+Epoch 12/20 | Train loss: 0.0894 | Train Pearson: 0.9563 | Valid loss: 0.4113 | Valid Pearson: 0.8000
+Epoch 13/20 | Train loss: 0.0949 | Train Pearson: 0.9538 | Valid loss: 0.4119 | Valid Pearson: 0.7997
+Epoch 14/20 | Train loss: 0.1077 | Train Pearson: 0.9519 | Valid loss: 0.4404 | Valid Pearson: 0.7978
+Epoch 15/20 | Train loss: 0.0883 | Train Pearson: 0.9587 | Valid loss: 0.4316 | Valid Pearson: 0.7974
+Epoch 16/20 | Train loss: 0.0728 | Train Pearson: 0.9650 | Valid loss: 0.4271 | Valid Pearson: 0.7975
+Epoch 17/20 | Train loss: 0.0731 | Train Pearson: 0.9643 | Valid loss: 0.4238 | Valid Pearson: 0.7981
+Epoch 18/20 | Train loss: 0.0661 | Train Pearson: 0.9675 | Valid loss: 0.4182 | Valid Pearson: 0.7989
+Epoch 19/20 | Train loss: 0.0546 | Train Pearson: 0.9744 | Valid loss: 0.4282 | Valid Pearson: 0.7983
+Epoch 20/20 | Train loss: 0.0552 | Train Pearson: 0.9732 | Valid loss: 0.4190 | Valid Pearson: 0.7988
+MSE: 0.4189908485044789
+Pearson r: 0.7987711710806399
+Fold 2
+Epoch 1/20 | Train loss: 0.3175 | Train Pearson: 0.8784 | Valid loss: 0.4559 | Valid Pearson: 0.7727
+Epoch 2/20 | Train loss: 0.2414 | Train Pearson: 0.8768 | Valid loss: 0.6435 | Valid Pearson: 0.7785
+Epoch 3/20 | Train loss: 0.2307 | Train Pearson: 0.9159 | Valid loss: 0.4613 | Valid Pearson: 0.7711
+Epoch 4/20 | Train loss: 0.1837 | Train Pearson: 0.9232 | Valid loss: 0.4523 | Valid Pearson: 0.7734
+Epoch 5/20 | Train loss: 0.1602 | Train Pearson: 0.9201 | Valid loss: 0.4700 | Valid Pearson: 0.7767
+Epoch 6/20 | Train loss: 0.1515 | Train Pearson: 0.9322 | Valid loss: 0.4599 | Valid Pearson: 0.7764
+Epoch 7/20 | Train loss: 0.1526 | Train Pearson: 0.9290 | Valid loss: 0.4494 | Valid Pearson: 0.7760
+Epoch 8/20 | Train loss: 0.1236 | Train Pearson: 0.9526 | Valid loss: 0.4629 | Valid Pearson: 0.7736
+Epoch 9/20 | Train loss: 0.1694 | Train Pearson: 0.9219 | Valid loss: 0.4472 | Valid Pearson: 0.7766
+Epoch 10/20 | Train loss: 0.1201 | Train Pearson: 0.9440 | Valid loss: 0.4473 | Valid Pearson: 0.7763
+Epoch 11/20 | Train loss: 0.1183 | Train Pearson: 0.9462 | Valid loss: 0.4460 | Valid Pearson: 0.7772
+Epoch 12/20 | Train loss: 0.1519 | Train Pearson: 0.9286 | Valid loss: 0.4534 | Valid Pearson: 0.7795
+Epoch 13/20 | Train loss: 0.1182 | Train Pearson: 0.9424 | Valid loss: 0.4874 | Valid Pearson: 0.7803
+Epoch 14/20 | Train loss: 0.0863 | Train Pearson: 0.9590 | Valid loss: 0.4447 | Valid Pearson: 0.7789
+Epoch 15/20 | Train loss: 0.1289 | Train Pearson: 0.9415 | Valid loss: 0.4431 | Valid Pearson: 0.7789
+Epoch 16/20 | Train loss: 0.1044 | Train Pearson: 0.9518 | Valid loss: 0.4483 | Valid Pearson: 0.7805
+Epoch 17/20 | Train loss: 0.0920 | Train Pearson: 0.9604 | Valid loss: 0.4427 | Valid Pearson: 0.7799
+Epoch 18/20 | Train loss: 0.0941 | Train Pearson: 0.9533 | Valid loss: 0.4454 | Valid Pearson: 0.7814
+Epoch 19/20 | Train loss: 0.0724 | Train Pearson: 0.9654 | Valid loss: 0.4397 | Valid Pearson: 0.7809
+Epoch 20/20 | Train loss: 0.0510 | Train Pearson: 0.9752 | Valid loss: 0.4401 | Valid Pearson: 0.7811
+MSE: 0.44014769641830076
+Pearson r: 0.7810765831674825
+Fold 3
+Epoch 1/20 | Train loss: 0.4065 | Train Pearson: 0.8355 | Valid loss: 0.3873 | Valid Pearson: 0.7852
+Epoch 2/20 | Train loss: 0.2216 | Train Pearson: 0.8964 | Valid loss: 0.3219 | Valid Pearson: 0.7721
+Epoch 3/20 | Train loss: 0.1674 | Train Pearson: 0.9348 | Valid loss: 0.3144 | Valid Pearson: 0.7767
+Epoch 4/20 | Train loss: 0.2015 | Train Pearson: 0.9030 | Valid loss: 0.3210 | Valid Pearson: 0.7823
+Epoch 5/20 | Train loss: 0.1473 | Train Pearson: 0.9327 | Valid loss: 0.3151 | Valid Pearson: 0.7817
+Epoch 6/20 | Train loss: 0.1442 | Train Pearson: 0.9345 | Valid loss: 0.3149 | Valid Pearson: 0.7830
+Epoch 7/20 | Train loss: 0.1398 | Train Pearson: 0.9361 | Valid loss: 0.3111 | Valid Pearson: 0.7829
+Epoch 8/20 | Train loss: 0.1388 | Train Pearson: 0.9413 | Valid loss: 0.3096 | Valid Pearson: 0.7805
+Epoch 9/20 | Train loss: 0.1331 | Train Pearson: 0.9428 | Valid loss: 0.3069 | Valid Pearson: 0.7829
+Epoch 10/20 | Train loss: 0.0937 | Train Pearson: 0.9555 | Valid loss: 0.3065 | Valid Pearson: 0.7829
+Epoch 11/20 | Train loss: 0.0760 | Train Pearson: 0.9635 | Valid loss: 0.3051 | Valid Pearson: 0.7842
+Epoch 12/20 | Train loss: 0.1362 | Train Pearson: 0.9358 | Valid loss: 0.3061 | Valid Pearson: 0.7872
+Epoch 13/20 | Train loss: 0.1017 | Train Pearson: 0.9509 | Valid loss: 0.3036 | Valid Pearson: 0.7870
+Epoch 14/20 | Train loss: 0.1071 | Train Pearson: 0.9518 | Valid loss: 0.3024 | Valid Pearson: 0.7862
+Epoch 15/20 | Train loss: 0.1133 | Train Pearson: 0.9469 | Valid loss: 0.3068 | Valid Pearson: 0.7886
+Epoch 16/20 | Train loss: 0.0729 | Train Pearson: 0.9636 | Valid loss: 0.3026 | Valid Pearson: 0.7884
+Epoch 17/20 | Train loss: 0.0731 | Train Pearson: 0.9679 | Valid loss: 0.3095 | Valid Pearson: 0.7856
+Epoch 18/20 | Train loss: 0.0838 | Train Pearson: 0.9598 | Valid loss: 0.3019 | Valid Pearson: 0.7899
+Epoch 19/20 | Train loss: 0.0694 | Train Pearson: 0.9668 | Valid loss: 0.2987 | Valid Pearson: 0.7896
+Epoch 20/20 | Train loss: 0.0580 | Train Pearson: 0.9709 | Valid loss: 0.3276 | Valid Pearson: 0.7927
+MSE: 0.32762308203706186
+Pearson r: 0.7926663997158548
+Dropout rate: 0.4, Retained fraction: 0.6: MSE: 0.39558720898661387, Pearson r: 0.7908380513213258
+
+Dropout rate: 0.35
+Fold 1
+Epoch 1/20 | Train loss: 0.5395 | Train Pearson: 0.7880 | Valid loss: 0.4454 | Valid Pearson: 0.7950
+Epoch 2/20 | Train loss: 0.2335 | Train Pearson: 0.8873 | Valid loss: 0.4372 | Valid Pearson: 0.7913
+Epoch 3/20 | Train loss: 0.1771 | Train Pearson: 0.9220 | Valid loss: 0.4321 | Valid Pearson: 0.7932
+Epoch 4/20 | Train loss: 0.1830 | Train Pearson: 0.9216 | Valid loss: 0.4331 | Valid Pearson: 0.7929
+Epoch 5/20 | Train loss: 0.2077 | Train Pearson: 0.9131 | Valid loss: 0.4306 | Valid Pearson: 0.7940
+Epoch 6/20 | Train loss: 0.1555 | Train Pearson: 0.9237 | Valid loss: 0.4313 | Valid Pearson: 0.7939
+Epoch 7/20 | Train loss: 0.1620 | Train Pearson: 0.9281 | Valid loss: 0.4303 | Valid Pearson: 0.7936
+Epoch 8/20 | Train loss: 0.1692 | Train Pearson: 0.9253 | Valid loss: 0.4548 | Valid Pearson: 0.7905
+Epoch 9/20 | Train loss: 0.1626 | Train Pearson: 0.9236 | Valid loss: 0.4319 | Valid Pearson: 0.7933
+Epoch 10/20 | Train loss: 0.1541 | Train Pearson: 0.9354 | Valid loss: 0.4623 | Valid Pearson: 0.7898
+Epoch 11/20 | Train loss: 0.1250 | Train Pearson: 0.9420 | Valid loss: 0.4315 | Valid Pearson: 0.7938
+Epoch 12/20 | Train loss: 0.1147 | Train Pearson: 0.9429 | Valid loss: 0.4244 | Valid Pearson: 0.7958
+Epoch 13/20 | Train loss: 0.1624 | Train Pearson: 0.9360 | Valid loss: 0.4733 | Valid Pearson: 0.7909
+Epoch 14/20 | Train loss: 0.1133 | Train Pearson: 0.9436 | Valid loss: 0.4255 | Valid Pearson: 0.7964
+Epoch 15/20 | Train loss: 0.1217 | Train Pearson: 0.9428 | Valid loss: 0.4380 | Valid Pearson: 0.7950
+Epoch 16/20 | Train loss: 0.1692 | Train Pearson: 0.9303 | Valid loss: 0.4444 | Valid Pearson: 0.7956
+Epoch 17/20 | Train loss: 0.1077 | Train Pearson: 0.9469 | Valid loss: 0.4212 | Valid Pearson: 0.7980
+Epoch 18/20 | Train loss: 0.0892 | Train Pearson: 0.9585 | Valid loss: 0.4182 | Valid Pearson: 0.7986
+Epoch 19/20 | Train loss: 0.0783 | Train Pearson: 0.9663 | Valid loss: 0.4374 | Valid Pearson: 0.7969
+Epoch 20/20 | Train loss: 0.0895 | Train Pearson: 0.9565 | Valid loss: 0.4166 | Valid Pearson: 0.7988
+MSE: 0.4165814102323579
+Pearson r: 0.7988002842598199
+Fold 2
+Epoch 1/20 | Train loss: 0.4260 | Train Pearson: 0.8226 | Valid loss: 0.4915 | Valid Pearson: 0.7789
+Epoch 2/20 | Train loss: 0.1736 | Train Pearson: 0.9189 | Valid loss: 0.4633 | Valid Pearson: 0.7740
+Epoch 3/20 | Train loss: 0.1901 | Train Pearson: 0.9240 | Valid loss: 0.4489 | Valid Pearson: 0.7767
+Epoch 4/20 | Train loss: 0.1605 | Train Pearson: 0.9268 | Valid loss: 0.4451 | Valid Pearson: 0.7784
+Epoch 5/20 | Train loss: 0.1635 | Train Pearson: 0.9236 | Valid loss: 0.4441 | Valid Pearson: 0.7793
+Epoch 6/20 | Train loss: 0.0950 | Train Pearson: 0.9537 | Valid loss: 0.4568 | Valid Pearson: 0.7806
+Epoch 7/20 | Train loss: 0.0954 | Train Pearson: 0.9633 | Valid loss: 0.4568 | Valid Pearson: 0.7779
+Epoch 8/20 | Train loss: 0.1386 | Train Pearson: 0.9322 | Valid loss: 0.4436 | Valid Pearson: 0.7808
+Epoch 9/20 | Train loss: 0.1286 | Train Pearson: 0.9385 | Valid loss: 0.4467 | Valid Pearson: 0.7815
+Epoch 10/20 | Train loss: 0.0914 | Train Pearson: 0.9591 | Valid loss: 0.4393 | Valid Pearson: 0.7815
+Epoch 11/20 | Train loss: 0.1777 | Train Pearson: 0.9223 | Valid loss: 0.4471 | Valid Pearson: 0.7814
+Epoch 12/20 | Train loss: 0.0933 | Train Pearson: 0.9570 | Valid loss: 0.4388 | Valid Pearson: 0.7830
+Epoch 13/20 | Train loss: 0.0579 | Train Pearson: 0.9723 | Valid loss: 0.4417 | Valid Pearson: 0.7832
+Epoch 14/20 | Train loss: 0.0876 | Train Pearson: 0.9580 | Valid loss: 0.4600 | Valid Pearson: 0.7835
+Epoch 15/20 | Train loss: 0.0747 | Train Pearson: 0.9624 | Valid loss: 0.4524 | Valid Pearson: 0.7833
+Epoch 16/20 | Train loss: 0.0654 | Train Pearson: 0.9715 | Valid loss: 0.4368 | Valid Pearson: 0.7823
+Epoch 17/20 | Train loss: 0.0682 | Train Pearson: 0.9662 | Valid loss: 0.4402 | Valid Pearson: 0.7825
+Epoch 18/20 | Train loss: 0.0506 | Train Pearson: 0.9775 | Valid loss: 0.4376 | Valid Pearson: 0.7819
+Epoch 19/20 | Train loss: 0.0997 | Train Pearson: 0.9532 | Valid loss: 0.4442 | Valid Pearson: 0.7817
+Epoch 20/20 | Train loss: 0.0738 | Train Pearson: 0.9639 | Valid loss: 0.4422 | Valid Pearson: 0.7811
+MSE: 0.4422275751106632
+Pearson r: 0.7810982671048156
+Fold 3
+Epoch 1/20 | Train loss: 0.2473 | Train Pearson: 0.8937 | Valid loss: 0.3075 | Valid Pearson: 0.7848
+Epoch 2/20 | Train loss: 0.1415 | Train Pearson: 0.9396 | Valid loss: 0.3058 | Valid Pearson: 0.7852
+Epoch 3/20 | Train loss: 0.1456 | Train Pearson: 0.9320 | Valid loss: 0.3053 | Valid Pearson: 0.7861
+Epoch 4/20 | Train loss: 0.1098 | Train Pearson: 0.9546 | Valid loss: 0.3073 | Valid Pearson: 0.7871
+Epoch 5/20 | Train loss: 0.1219 | Train Pearson: 0.9416 | Valid loss: 0.3114 | Valid Pearson: 0.7877
+Epoch 6/20 | Train loss: 0.1512 | Train Pearson: 0.9305 | Valid loss: 0.3021 | Valid Pearson: 0.7868
+Epoch 7/20 | Train loss: 0.0830 | Train Pearson: 0.9618 | Valid loss: 0.3035 | Valid Pearson: 0.7886
+Epoch 8/20 | Train loss: 0.1080 | Train Pearson: 0.9506 | Valid loss: 0.3037 | Valid Pearson: 0.7891
+Epoch 9/20 | Train loss: 0.0978 | Train Pearson: 0.9517 | Valid loss: 0.3356 | Valid Pearson: 0.7915
+Epoch 10/20 | Train loss: 0.1059 | Train Pearson: 0.9501 | Valid loss: 0.3219 | Valid Pearson: 0.7914
+Epoch 11/20 | Train loss: 0.0859 | Train Pearson: 0.9615 | Valid loss: 0.3002 | Valid Pearson: 0.7895
+Epoch 12/20 | Train loss: 0.1148 | Train Pearson: 0.9432 | Valid loss: 0.3377 | Valid Pearson: 0.7925
+Epoch 13/20 | Train loss: 0.0948 | Train Pearson: 0.9582 | Valid loss: 0.2981 | Valid Pearson: 0.7898
+Epoch 14/20 | Train loss: 0.0786 | Train Pearson: 0.9650 | Valid loss: 0.3096 | Valid Pearson: 0.7884
+Epoch 15/20 | Train loss: 0.0914 | Train Pearson: 0.9564 | Valid loss: 0.2956 | Valid Pearson: 0.7917
+Epoch 16/20 | Train loss: 0.0793 | Train Pearson: 0.9616 | Valid loss: 0.2952 | Valid Pearson: 0.7919
+Epoch 17/20 | Train loss: 0.0526 | Train Pearson: 0.9744 | Valid loss: 0.2945 | Valid Pearson: 0.7925
+Epoch 18/20 | Train loss: 0.0543 | Train Pearson: 0.9743 | Valid loss: 0.2944 | Valid Pearson: 0.7930
+Epoch 19/20 | Train loss: 0.0538 | Train Pearson: 0.9738 | Valid loss: 0.2944 | Valid Pearson: 0.7927
+Epoch 20/20 | Train loss: 0.0470 | Train Pearson: 0.9771 | Valid loss: 0.2943 | Valid Pearson: 0.7934
+MSE: 0.2942791373126897
+Pearson r: 0.7933799464174988
+Dropout rate: 0.35, Retained fraction: 0.65: MSE: 0.3843627075519036, Pearson r: 0.7910928325940447
+
+Dropout rate: 0.30000000000000004
+Fold 1
+Epoch 1/20 | Train loss: 0.2466 | Train Pearson: 0.8999 | Valid loss: 0.4548 | Valid Pearson: 0.7864
+Epoch 2/20 | Train loss: 0.1796 | Train Pearson: 0.9089 | Valid loss: 0.4987 | Valid Pearson: 0.7935
+Epoch 3/20 | Train loss: 0.1486 | Train Pearson: 0.9343 | Valid loss: 0.4511 | Valid Pearson: 0.7869
+Epoch 4/20 | Train loss: 0.2305 | Train Pearson: 0.9068 | Valid loss: 0.4556 | Valid Pearson: 0.7865
+Epoch 5/20 | Train loss: 0.1021 | Train Pearson: 0.9552 | Valid loss: 0.4617 | Valid Pearson: 0.7865
+Epoch 6/20 | Train loss: 0.1528 | Train Pearson: 0.9232 | Valid loss: 0.4491 | Valid Pearson: 0.7933
+Epoch 7/20 | Train loss: 0.1629 | Train Pearson: 0.9240 | Valid loss: 0.4312 | Valid Pearson: 0.7915
+Epoch 8/20 | Train loss: 0.1577 | Train Pearson: 0.9329 | Valid loss: 0.4742 | Valid Pearson: 0.7867
+Epoch 9/20 | Train loss: 0.1309 | Train Pearson: 0.9451 | Valid loss: 0.4501 | Valid Pearson: 0.7891
+Epoch 10/20 | Train loss: 0.1090 | Train Pearson: 0.9549 | Valid loss: 0.4728 | Valid Pearson: 0.7868
+Epoch 11/20 | Train loss: 0.1149 | Train Pearson: 0.9458 | Valid loss: 0.4394 | Valid Pearson: 0.7901
+Epoch 12/20 | Train loss: 0.0843 | Train Pearson: 0.9574 | Valid loss: 0.4339 | Valid Pearson: 0.7911
+Epoch 13/20 | Train loss: 0.0866 | Train Pearson: 0.9587 | Valid loss: 0.4352 | Valid Pearson: 0.7910
+Epoch 14/20 | Train loss: 0.1077 | Train Pearson: 0.9569 | Valid loss: 0.4399 | Valid Pearson: 0.7898
+Epoch 15/20 | Train loss: 0.0620 | Train Pearson: 0.9706 | Valid loss: 0.4280 | Valid Pearson: 0.7914
+Epoch 16/20 | Train loss: 0.0686 | Train Pearson: 0.9664 | Valid loss: 0.4362 | Valid Pearson: 0.7902
+Epoch 17/20 | Train loss: 0.0739 | Train Pearson: 0.9666 | Valid loss: 0.4439 | Valid Pearson: 0.7899
+Epoch 18/20 | Train loss: 0.0731 | Train Pearson: 0.9644 | Valid loss: 0.4229 | Valid Pearson: 0.7933
+Epoch 19/20 | Train loss: 0.0830 | Train Pearson: 0.9589 | Valid loss: 0.4271 | Valid Pearson: 0.7943
+Epoch 20/20 | Train loss: 0.0544 | Train Pearson: 0.9738 | Valid loss: 0.4351 | Valid Pearson: 0.7916
+MSE: 0.43506668718782887
+Pearson r: 0.7916429432871175
+Fold 2
+Epoch 1/20 | Train loss: 0.3879 | Train Pearson: 0.8389 | Valid loss: 0.5368 | Valid Pearson: 0.7742
+Epoch 2/20 | Train loss: 0.1444 | Train Pearson: 0.9329 | Valid loss: 0.4703 | Valid Pearson: 0.7719
+Epoch 3/20 | Train loss: 0.1785 | Train Pearson: 0.9200 | Valid loss: 0.4605 | Valid Pearson: 0.7712
+Epoch 4/20 | Train loss: 0.1281 | Train Pearson: 0.9449 | Valid loss: 0.4577 | Valid Pearson: 0.7704
+Epoch 5/20 | Train loss: 0.1296 | Train Pearson: 0.9416 | Valid loss: 0.4576 | Valid Pearson: 0.7713
+Epoch 6/20 | Train loss: 0.1639 | Train Pearson: 0.9199 | Valid loss: 0.5034 | Valid Pearson: 0.7743
+Epoch 7/20 | Train loss: 0.1418 | Train Pearson: 0.9367 | Valid loss: 0.4559 | Valid Pearson: 0.7718
+Epoch 8/20 | Train loss: 0.0940 | Train Pearson: 0.9552 | Valid loss: 0.4797 | Valid Pearson: 0.7748
+Epoch 9/20 | Train loss: 0.1218 | Train Pearson: 0.9459 | Valid loss: 0.4576 | Valid Pearson: 0.7715
+Epoch 10/20 | Train loss: 0.1091 | Train Pearson: 0.9486 | Valid loss: 0.4529 | Valid Pearson: 0.7733
+Epoch 11/20 | Train loss: 0.0886 | Train Pearson: 0.9641 | Valid loss: 0.4663 | Valid Pearson: 0.7702
+Epoch 12/20 | Train loss: 0.0973 | Train Pearson: 0.9524 | Valid loss: 0.4554 | Valid Pearson: 0.7735
+Epoch 13/20 | Train loss: 0.0787 | Train Pearson: 0.9626 | Valid loss: 0.4541 | Valid Pearson: 0.7733
+Epoch 14/20 | Train loss: 0.0671 | Train Pearson: 0.9688 | Valid loss: 0.4563 | Valid Pearson: 0.7734
+Epoch 15/20 | Train loss: 0.1049 | Train Pearson: 0.9480 | Valid loss: 0.4730 | Valid Pearson: 0.7744
+Epoch 16/20 | Train loss: 0.0887 | Train Pearson: 0.9573 | Valid loss: 0.4571 | Valid Pearson: 0.7731
+Epoch 17/20 | Train loss: 0.0663 | Train Pearson: 0.9687 | Valid loss: 0.4538 | Valid Pearson: 0.7725
+Epoch 18/20 | Train loss: 0.0744 | Train Pearson: 0.9650 | Valid loss: 0.4540 | Valid Pearson: 0.7741
+Epoch 19/20 | Train loss: 0.0716 | Train Pearson: 0.9662 | Valid loss: 0.4522 | Valid Pearson: 0.7734
+Epoch 20/20 | Train loss: 0.0513 | Train Pearson: 0.9749 | Valid loss: 0.4521 | Valid Pearson: 0.7737
+MSE: 0.45212056020323055
+Pearson r: 0.7737000640638894
+Fold 3
+Epoch 1/20 | Train loss: 0.1439 | Train Pearson: 0.9351 | Valid loss: 0.3169 | Valid Pearson: 0.7817
+Epoch 2/20 | Train loss: 0.1329 | Train Pearson: 0.9456 | Valid loss: 0.3133 | Valid Pearson: 0.7824
+Epoch 3/20 | Train loss: 0.1273 | Train Pearson: 0.9499 | Valid loss: 0.3083 | Valid Pearson: 0.7842
+Epoch 4/20 | Train loss: 0.1371 | Train Pearson: 0.9402 | Valid loss: 0.3041 | Valid Pearson: 0.7876
+Epoch 5/20 | Train loss: 0.0916 | Train Pearson: 0.9570 | Valid loss: 0.3110 | Valid Pearson: 0.7894
+Epoch 6/20 | Train loss: 0.0864 | Train Pearson: 0.9606 | Valid loss: 0.3064 | Valid Pearson: 0.7892
+Epoch 7/20 | Train loss: 0.0811 | Train Pearson: 0.9625 | Valid loss: 0.3002 | Valid Pearson: 0.7882
+Epoch 8/20 | Train loss: 0.1117 | Train Pearson: 0.9532 | Valid loss: 0.3001 | Valid Pearson: 0.7881
+Epoch 9/20 | Train loss: 0.0821 | Train Pearson: 0.9585 | Valid loss: 0.3179 | Valid Pearson: 0.7918
+Epoch 10/20 | Train loss: 0.0761 | Train Pearson: 0.9629 | Valid loss: 0.3137 | Valid Pearson: 0.7924
+Epoch 11/20 | Train loss: 0.0617 | Train Pearson: 0.9711 | Valid loss: 0.3011 | Valid Pearson: 0.7920
+Epoch 12/20 | Train loss: 0.0662 | Train Pearson: 0.9672 | Valid loss: 0.2985 | Valid Pearson: 0.7925
+Epoch 13/20 | Train loss: 0.0540 | Train Pearson: 0.9742 | Valid loss: 0.2957 | Valid Pearson: 0.7917
+Epoch 14/20 | Train loss: 0.0676 | Train Pearson: 0.9673 | Valid loss: 0.2950 | Valid Pearson: 0.7924
+Epoch 15/20 | Train loss: 0.0489 | Train Pearson: 0.9789 | Valid loss: 0.3111 | Valid Pearson: 0.7893
+Epoch 16/20 | Train loss: 0.0742 | Train Pearson: 0.9637 | Valid loss: 0.3083 | Valid Pearson: 0.7896
+Epoch 17/20 | Train loss: 0.0596 | Train Pearson: 0.9712 | Valid loss: 0.2966 | Valid Pearson: 0.7935
+Epoch 18/20 | Train loss: 0.0327 | Train Pearson: 0.9840 | Valid loss: 0.2940 | Valid Pearson: 0.7929
+Epoch 19/20 | Train loss: 0.0385 | Train Pearson: 0.9808 | Valid loss: 0.3005 | Valid Pearson: 0.7943
+Epoch 20/20 | Train loss: 0.0348 | Train Pearson: 0.9837 | Valid loss: 0.2937 | Valid Pearson: 0.7938
+MSE: 0.2937150219186596
+Pearson r: 0.7938193965960646
+Dropout rate: 0.30000000000000004, Retained fraction: 0.7: MSE: 0.3936340897699064, Pearson r: 0.7863874679823571
+
+Dropout rate: 0.25
+Fold 1
+Epoch 1/20 | Train loss: 0.9056 | Train Pearson: 0.5743 | Valid loss: 0.5400 | Valid Pearson: 0.8012
+Epoch 2/20 | Train loss: 0.1883 | Train Pearson: 0.9419 | Valid loss: 0.4791 | Valid Pearson: 0.7931
+Epoch 3/20 | Train loss: 0.0983 | Train Pearson: 0.9506 | Valid loss: 0.4281 | Valid Pearson: 0.7988
+Epoch 4/20 | Train loss: 0.1005 | Train Pearson: 0.9532 | Valid loss: 0.4436 | Valid Pearson: 0.7963
+Epoch 5/20 | Train loss: 0.1201 | Train Pearson: 0.9451 | Valid loss: 0.4437 | Valid Pearson: 0.7961
+Epoch 6/20 | Train loss: 0.0774 | Train Pearson: 0.9654 | Valid loss: 0.4258 | Valid Pearson: 0.7979
+Epoch 7/20 | Train loss: 0.0850 | Train Pearson: 0.9581 | Valid loss: 0.4299 | Valid Pearson: 0.7972
+Epoch 8/20 | Train loss: 0.1254 | Train Pearson: 0.9442 | Valid loss: 0.4409 | Valid Pearson: 0.7963
+Epoch 9/20 | Train loss: 0.0938 | Train Pearson: 0.9551 | Valid loss: 0.4265 | Valid Pearson: 0.7978
+Epoch 10/20 | Train loss: 0.1427 | Train Pearson: 0.9356 | Valid loss: 0.4329 | Valid Pearson: 0.7973
+Epoch 11/20 | Train loss: 0.1156 | Train Pearson: 0.9443 | Valid loss: 0.4188 | Valid Pearson: 0.7992
+Epoch 12/20 | Train loss: 0.0915 | Train Pearson: 0.9565 | Valid loss: 0.4303 | Valid Pearson: 0.7981
+Epoch 13/20 | Train loss: 0.0786 | Train Pearson: 0.9646 | Valid loss: 0.4312 | Valid Pearson: 0.7981
+Epoch 14/20 | Train loss: 0.0875 | Train Pearson: 0.9591 | Valid loss: 0.4189 | Valid Pearson: 0.8003
+Epoch 15/20 | Train loss: 0.0936 | Train Pearson: 0.9532 | Valid loss: 0.4178 | Valid Pearson: 0.7999
+Epoch 16/20 | Train loss: 0.0927 | Train Pearson: 0.9593 | Valid loss: 0.4456 | Valid Pearson: 0.7978
+Epoch 17/20 | Train loss: 0.0691 | Train Pearson: 0.9681 | Valid loss: 0.4172 | Valid Pearson: 0.8002
+Epoch 18/20 | Train loss: 0.1076 | Train Pearson: 0.9498 | Valid loss: 0.4170 | Valid Pearson: 0.8003
+Epoch 19/20 | Train loss: 0.0975 | Train Pearson: 0.9532 | Valid loss: 0.4178 | Valid Pearson: 0.8002
+Epoch 20/20 | Train loss: 0.0810 | Train Pearson: 0.9628 | Valid loss: 0.4168 | Valid Pearson: 0.8006
+MSE: 0.41680736494501375
+Pearson r: 0.8005573056719801
+Fold 2
+Epoch 1/20 | Train loss: 0.2577 | Train Pearson: 0.8942 | Valid loss: 0.4448 | Valid Pearson: 0.7777
+Epoch 2/20 | Train loss: 0.1082 | Train Pearson: 0.9444 | Valid loss: 0.4856 | Valid Pearson: 0.7805
+Epoch 3/20 | Train loss: 0.1168 | Train Pearson: 0.9462 | Valid loss: 0.4486 | Valid Pearson: 0.7793
+Epoch 4/20 | Train loss: 0.0987 | Train Pearson: 0.9548 | Valid loss: 0.4570 | Valid Pearson: 0.7800
+Epoch 5/20 | Train loss: 0.0917 | Train Pearson: 0.9571 | Valid loss: 0.4488 | Valid Pearson: 0.7800
+Epoch 6/20 | Train loss: 0.0871 | Train Pearson: 0.9591 | Valid loss: 0.4499 | Valid Pearson: 0.7808
+Epoch 7/20 | Train loss: 0.0948 | Train Pearson: 0.9540 | Valid loss: 0.4433 | Valid Pearson: 0.7805
+Epoch 8/20 | Train loss: 0.0986 | Train Pearson: 0.9554 | Valid loss: 0.4405 | Valid Pearson: 0.7801
+Epoch 9/20 | Train loss: 0.0881 | Train Pearson: 0.9606 | Valid loss: 0.4557 | Valid Pearson: 0.7788
+Epoch 10/20 | Train loss: 0.1014 | Train Pearson: 0.9515 | Valid loss: 0.4399 | Valid Pearson: 0.7808
+Epoch 11/20 | Train loss: 0.0944 | Train Pearson: 0.9542 | Valid loss: 0.4404 | Valid Pearson: 0.7808
+Epoch 12/20 | Train loss: 0.0977 | Train Pearson: 0.9545 | Valid loss: 0.4382 | Valid Pearson: 0.7814
+Epoch 13/20 | Train loss: 0.0594 | Train Pearson: 0.9711 | Valid loss: 0.4376 | Valid Pearson: 0.7821
+Epoch 14/20 | Train loss: 0.0641 | Train Pearson: 0.9696 | Valid loss: 0.4373 | Valid Pearson: 0.7819
+Epoch 15/20 | Train loss: 0.0536 | Train Pearson: 0.9742 | Valid loss: 0.4382 | Valid Pearson: 0.7820
+Epoch 16/20 | Train loss: 0.0599 | Train Pearson: 0.9711 | Valid loss: 0.4373 | Valid Pearson: 0.7820
+Epoch 17/20 | Train loss: 0.0603 | Train Pearson: 0.9703 | Valid loss: 0.4397 | Valid Pearson: 0.7830
+Epoch 18/20 | Train loss: 0.0518 | Train Pearson: 0.9745 | Valid loss: 0.4374 | Valid Pearson: 0.7834
+Epoch 19/20 | Train loss: 0.0465 | Train Pearson: 0.9776 | Valid loss: 0.4477 | Valid Pearson: 0.7837
+Epoch 20/20 | Train loss: 0.0485 | Train Pearson: 0.9768 | Valid loss: 0.4347 | Valid Pearson: 0.7835
+MSE: 0.43469720172469667
+Pearson r: 0.7835146746684076
+Fold 3
+Epoch 1/20 | Train loss: 0.1691 | Train Pearson: 0.9296 | Valid loss: 0.3153 | Valid Pearson: 0.7976
+Epoch 2/20 | Train loss: 0.1671 | Train Pearson: 0.9222 | Valid loss: 0.3018 | Valid Pearson: 0.7987
+Epoch 3/20 | Train loss: 0.1168 | Train Pearson: 0.9468 | Valid loss: 0.2982 | Valid Pearson: 0.7985
+Epoch 4/20 | Train loss: 0.0875 | Train Pearson: 0.9601 | Valid loss: 0.3026 | Valid Pearson: 0.7996
+Epoch 5/20 | Train loss: 0.1324 | Train Pearson: 0.9365 | Valid loss: 0.2980 | Valid Pearson: 0.7989
+Epoch 6/20 | Train loss: 0.0828 | Train Pearson: 0.9636 | Valid loss: 0.2924 | Valid Pearson: 0.7978
+Epoch 7/20 | Train loss: 0.0986 | Train Pearson: 0.9535 | Valid loss: 0.2919 | Valid Pearson: 0.7977
+Epoch 8/20 | Train loss: 0.0838 | Train Pearson: 0.9603 | Valid loss: 0.2921 | Valid Pearson: 0.7979
+Epoch 9/20 | Train loss: 0.0834 | Train Pearson: 0.9601 | Valid loss: 0.2978 | Valid Pearson: 0.7984
+Epoch 10/20 | Train loss: 0.0714 | Train Pearson: 0.9682 | Valid loss: 0.2919 | Valid Pearson: 0.7985
+Epoch 11/20 | Train loss: 0.0971 | Train Pearson: 0.9559 | Valid loss: 0.2881 | Valid Pearson: 0.7986
+Epoch 12/20 | Train loss: 0.0915 | Train Pearson: 0.9563 | Valid loss: 0.2895 | Valid Pearson: 0.7988
+Epoch 13/20 | Train loss: 0.0764 | Train Pearson: 0.9617 | Valid loss: 0.2888 | Valid Pearson: 0.7987
+Epoch 14/20 | Train loss: 0.0508 | Train Pearson: 0.9752 | Valid loss: 0.2879 | Valid Pearson: 0.7988
+Epoch 15/20 | Train loss: 0.0766 | Train Pearson: 0.9628 | Valid loss: 0.2884 | Valid Pearson: 0.7984
+Epoch 16/20 | Train loss: 0.0614 | Train Pearson: 0.9705 | Valid loss: 0.2876 | Valid Pearson: 0.7987
+Epoch 17/20 | Train loss: 0.0584 | Train Pearson: 0.9715 | Valid loss: 0.2889 | Valid Pearson: 0.7987
+Epoch 18/20 | Train loss: 0.0667 | Train Pearson: 0.9686 | Valid loss: 0.3070 | Valid Pearson: 0.7994
+Epoch 19/20 | Train loss: 0.0479 | Train Pearson: 0.9776 | Valid loss: 0.2873 | Valid Pearson: 0.7984
+Epoch 20/20 | Train loss: 0.0571 | Train Pearson: 0.9722 | Valid loss: 0.2893 | Valid Pearson: 0.7983
+MSE: 0.28929817294252935
+Pearson r: 0.7982544993675031
+Dropout rate: 0.25, Retained fraction: 0.75: MSE: 0.3802675798707466, Pearson r: 0.794108826569297
+
+Dropout rate: 0.19999999999999996
+Fold 1
+Epoch 1/20 | Train loss: 0.6891 | Train Pearson: 0.6815 | Valid loss: 0.6334 | Valid Pearson: 0.8012
+Epoch 2/20 | Train loss: 0.2188 | Train Pearson: 0.9341 | Valid loss: 0.5242 | Valid Pearson: 0.7895
+Epoch 3/20 | Train loss: 0.1439 | Train Pearson: 0.9320 | Valid loss: 0.4357 | Valid Pearson: 0.7978
+Epoch 4/20 | Train loss: 0.0854 | Train Pearson: 0.9632 | Valid loss: 0.4317 | Valid Pearson: 0.7981
+Epoch 5/20 | Train loss: 0.0952 | Train Pearson: 0.9570 | Valid loss: 0.4282 | Valid Pearson: 0.7991
+Epoch 6/20 | Train loss: 0.0832 | Train Pearson: 0.9631 | Valid loss: 0.4262 | Valid Pearson: 0.7981
+Epoch 7/20 | Train loss: 0.0644 | Train Pearson: 0.9718 | Valid loss: 0.4387 | Valid Pearson: 0.7968
+Epoch 8/20 | Train loss: 0.0962 | Train Pearson: 0.9557 | Valid loss: 0.4253 | Valid Pearson: 0.7980
+Epoch 9/20 | Train loss: 0.1035 | Train Pearson: 0.9514 | Valid loss: 0.4178 | Valid Pearson: 0.7987
+Epoch 10/20 | Train loss: 0.0753 | Train Pearson: 0.9632 | Valid loss: 0.4157 | Valid Pearson: 0.7990
+Epoch 11/20 | Train loss: 0.0843 | Train Pearson: 0.9605 | Valid loss: 0.4218 | Valid Pearson: 0.7984
+Epoch 12/20 | Train loss: 0.0764 | Train Pearson: 0.9637 | Valid loss: 0.4161 | Valid Pearson: 0.7989
+Epoch 13/20 | Train loss: 0.0768 | Train Pearson: 0.9655 | Valid loss: 0.4321 | Valid Pearson: 0.7977
+Epoch 14/20 | Train loss: 0.0735 | Train Pearson: 0.9667 | Valid loss: 0.4475 | Valid Pearson: 0.7971
+Epoch 15/20 | Train loss: 0.0634 | Train Pearson: 0.9681 | Valid loss: 0.4109 | Valid Pearson: 0.7996
+Epoch 16/20 | Train loss: 0.0581 | Train Pearson: 0.9710 | Valid loss: 0.4104 | Valid Pearson: 0.8000
+Epoch 17/20 | Train loss: 0.0642 | Train Pearson: 0.9700 | Valid loss: 0.4117 | Valid Pearson: 0.7993
+Epoch 18/20 | Train loss: 0.0727 | Train Pearson: 0.9643 | Valid loss: 0.4090 | Valid Pearson: 0.7999
+Epoch 19/20 | Train loss: 0.0846 | Train Pearson: 0.9602 | Valid loss: 0.4139 | Valid Pearson: 0.7997
+Epoch 20/20 | Train loss: 0.0410 | Train Pearson: 0.9798 | Valid loss: 0.4186 | Valid Pearson: 0.7994
+MSE: 0.4186159571169602
+Pearson r: 0.7993530906133333
+Fold 2
+Epoch 1/20 | Train loss: 0.4714 | Train Pearson: 0.8109 | Valid loss: 0.5101 | Valid Pearson: 0.7874
+Epoch 2/20 | Train loss: 0.1021 | Train Pearson: 0.9528 | Valid loss: 0.4573 | Valid Pearson: 0.7850
+Epoch 3/20 | Train loss: 0.1075 | Train Pearson: 0.9571 | Valid loss: 0.4351 | Valid Pearson: 0.7866
+Epoch 4/20 | Train loss: 0.0940 | Train Pearson: 0.9540 | Valid loss: 0.4390 | Valid Pearson: 0.7873
+Epoch 5/20 | Train loss: 0.0850 | Train Pearson: 0.9614 | Valid loss: 0.4343 | Valid Pearson: 0.7874
+Epoch 6/20 | Train loss: 0.0741 | Train Pearson: 0.9641 | Valid loss: 0.4315 | Valid Pearson: 0.7877
+Epoch 7/20 | Train loss: 0.0676 | Train Pearson: 0.9685 | Valid loss: 0.4290 | Valid Pearson: 0.7876
+Epoch 8/20 | Train loss: 0.0715 | Train Pearson: 0.9664 | Valid loss: 0.4354 | Valid Pearson: 0.7880
+Epoch 9/20 | Train loss: 0.0895 | Train Pearson: 0.9588 | Valid loss: 0.4272 | Valid Pearson: 0.7879
+Epoch 10/20 | Train loss: 0.0825 | Train Pearson: 0.9606 | Valid loss: 0.4275 | Valid Pearson: 0.7881
+Epoch 11/20 | Train loss: 0.0770 | Train Pearson: 0.9654 | Valid loss: 0.4362 | Valid Pearson: 0.7883
+Epoch 12/20 | Train loss: 0.0741 | Train Pearson: 0.9647 | Valid loss: 0.4256 | Valid Pearson: 0.7888
+Epoch 13/20 | Train loss: 0.0632 | Train Pearson: 0.9701 | Valid loss: 0.4250 | Valid Pearson: 0.7891
+Epoch 14/20 | Train loss: 0.0667 | Train Pearson: 0.9671 | Valid loss: 0.4359 | Valid Pearson: 0.7891
+Epoch 15/20 | Train loss: 0.0574 | Train Pearson: 0.9726 | Valid loss: 0.4264 | Valid Pearson: 0.7890
+Epoch 16/20 | Train loss: 0.0633 | Train Pearson: 0.9706 | Valid loss: 0.4254 | Valid Pearson: 0.7889
+Epoch 17/20 | Train loss: 0.0525 | Train Pearson: 0.9738 | Valid loss: 0.4295 | Valid Pearson: 0.7886
+Epoch 18/20 | Train loss: 0.0616 | Train Pearson: 0.9703 | Valid loss: 0.4340 | Valid Pearson: 0.7883
+Epoch 19/20 | Train loss: 0.0502 | Train Pearson: 0.9767 | Valid loss: 0.4278 | Valid Pearson: 0.7882
+Epoch 20/20 | Train loss: 0.0400 | Train Pearson: 0.9816 | Valid loss: 0.4265 | Valid Pearson: 0.7881
+MSE: 0.426512468014394
+Pearson r: 0.7881071416553905
+Fold 3
+Epoch 1/20 | Train loss: 0.3707 | Train Pearson: 0.8439 | Valid loss: 0.3250 | Valid Pearson: 0.7867
+Epoch 2/20 | Train loss: 0.1110 | Train Pearson: 0.9455 | Valid loss: 0.3298 | Valid Pearson: 0.7873
+Epoch 3/20 | Train loss: 0.0898 | Train Pearson: 0.9593 | Valid loss: 0.3179 | Valid Pearson: 0.7867
+Epoch 4/20 | Train loss: 0.0845 | Train Pearson: 0.9656 | Valid loss: 0.3080 | Valid Pearson: 0.7837
+Epoch 5/20 | Train loss: 0.0854 | Train Pearson: 0.9593 | Valid loss: 0.3148 | Valid Pearson: 0.7875
+Epoch 6/20 | Train loss: 0.0695 | Train Pearson: 0.9668 | Valid loss: 0.3106 | Valid Pearson: 0.7876
+Epoch 7/20 | Train loss: 0.0844 | Train Pearson: 0.9593 | Valid loss: 0.3047 | Valid Pearson: 0.7870
+Epoch 8/20 | Train loss: 0.0735 | Train Pearson: 0.9658 | Valid loss: 0.3030 | Valid Pearson: 0.7862
+Epoch 9/20 | Train loss: 0.0800 | Train Pearson: 0.9636 | Valid loss: 0.3062 | Valid Pearson: 0.7848
+Epoch 10/20 | Train loss: 0.0728 | Train Pearson: 0.9650 | Valid loss: 0.3028 | Valid Pearson: 0.7882
+Epoch 11/20 | Train loss: 0.0807 | Train Pearson: 0.9612 | Valid loss: 0.3018 | Valid Pearson: 0.7886
+Epoch 12/20 | Train loss: 0.0695 | Train Pearson: 0.9652 | Valid loss: 0.3092 | Valid Pearson: 0.7899
+Epoch 13/20 | Train loss: 0.0550 | Train Pearson: 0.9734 | Valid loss: 0.3036 | Valid Pearson: 0.7898
+Epoch 14/20 | Train loss: 0.0617 | Train Pearson: 0.9720 | Valid loss: 0.3086 | Valid Pearson: 0.7907
+Epoch 15/20 | Train loss: 0.0548 | Train Pearson: 0.9730 | Valid loss: 0.3071 | Valid Pearson: 0.7908
+Epoch 16/20 | Train loss: 0.0519 | Train Pearson: 0.9748 | Valid loss: 0.3022 | Valid Pearson: 0.7902
+Epoch 17/20 | Train loss: 0.0600 | Train Pearson: 0.9706 | Valid loss: 0.2987 | Valid Pearson: 0.7898
+Epoch 18/20 | Train loss: 0.0548 | Train Pearson: 0.9738 | Valid loss: 0.2987 | Valid Pearson: 0.7901
+Epoch 19/20 | Train loss: 0.0737 | Train Pearson: 0.9661 | Valid loss: 0.2978 | Valid Pearson: 0.7902
+Epoch 20/20 | Train loss: 0.0414 | Train Pearson: 0.9791 | Valid loss: 0.2990 | Valid Pearson: 0.7913
+MSE: 0.29902012166078884
+Pearson r: 0.7912836174697517
+Dropout rate: 0.19999999999999996, Retained fraction: 0.8: MSE: 0.38138284893071434, Pearson r: 0.7929146165794919
+
+Dropout rate: 0.15000000000000002
+Fold 1
+Epoch 1/20 | Train loss: 0.3379 | Train Pearson: 0.8705 | Valid loss: 0.4444 | Valid Pearson: 0.7912
+Epoch 2/20 | Train loss: 0.0837 | Train Pearson: 0.9589 | Valid loss: 0.4381 | Valid Pearson: 0.7943
+Epoch 3/20 | Train loss: 0.0902 | Train Pearson: 0.9594 | Valid loss: 0.4542 | Valid Pearson: 0.7901
+Epoch 4/20 | Train loss: 0.1012 | Train Pearson: 0.9561 | Valid loss: 0.4741 | Valid Pearson: 0.7884
+Epoch 5/20 | Train loss: 0.0675 | Train Pearson: 0.9666 | Valid loss: 0.4326 | Valid Pearson: 0.7940
+Epoch 6/20 | Train loss: 0.0760 | Train Pearson: 0.9616 | Valid loss: 0.4347 | Valid Pearson: 0.7948
+Epoch 7/20 | Train loss: 0.0731 | Train Pearson: 0.9672 | Valid loss: 0.4309 | Valid Pearson: 0.7935
+Epoch 8/20 | Train loss: 0.0566 | Train Pearson: 0.9722 | Valid loss: 0.4294 | Valid Pearson: 0.7945
+Epoch 9/20 | Train loss: 0.0762 | Train Pearson: 0.9638 | Valid loss: 0.4288 | Valid Pearson: 0.7948
+Epoch 10/20 | Train loss: 0.0550 | Train Pearson: 0.9731 | Valid loss: 0.4292 | Valid Pearson: 0.7944
+Epoch 11/20 | Train loss: 0.0614 | Train Pearson: 0.9704 | Valid loss: 0.4445 | Valid Pearson: 0.7929
+Epoch 12/20 | Train loss: 0.0485 | Train Pearson: 0.9765 | Valid loss: 0.4342 | Valid Pearson: 0.7941
+Epoch 13/20 | Train loss: 0.0598 | Train Pearson: 0.9707 | Valid loss: 0.4270 | Valid Pearson: 0.7952
+Epoch 14/20 | Train loss: 0.0630 | Train Pearson: 0.9700 | Valid loss: 0.4259 | Valid Pearson: 0.7957
+Epoch 15/20 | Train loss: 0.0546 | Train Pearson: 0.9729 | Valid loss: 0.4254 | Valid Pearson: 0.7964
+Epoch 16/20 | Train loss: 0.0581 | Train Pearson: 0.9729 | Valid loss: 0.4435 | Valid Pearson: 0.7940
+Epoch 17/20 | Train loss: 0.0527 | Train Pearson: 0.9769 | Valid loss: 0.4676 | Valid Pearson: 0.7924
+Epoch 18/20 | Train loss: 0.0696 | Train Pearson: 0.9664 | Valid loss: 0.4453 | Valid Pearson: 0.7942
+Epoch 19/20 | Train loss: 0.0457 | Train Pearson: 0.9779 | Valid loss: 0.4307 | Valid Pearson: 0.7955
+Epoch 20/20 | Train loss: 0.0378 | Train Pearson: 0.9810 | Valid loss: 0.4209 | Valid Pearson: 0.7966
+MSE: 0.4209115422485653
+Pearson r: 0.796606536078891
+Fold 2
+Epoch 1/20 | Train loss: 0.2515 | Train Pearson: 0.8932 | Valid loss: 0.4507 | Valid Pearson: 0.7755
+Epoch 2/20 | Train loss: 0.0641 | Train Pearson: 0.9685 | Valid loss: 0.4629 | Valid Pearson: 0.7767
+Epoch 3/20 | Train loss: 0.0745 | Train Pearson: 0.9662 | Valid loss: 0.4538 | Valid Pearson: 0.7763
+Epoch 4/20 | Train loss: 0.0672 | Train Pearson: 0.9692 | Valid loss: 0.4562 | Valid Pearson: 0.7737
+Epoch 5/20 | Train loss: 0.0714 | Train Pearson: 0.9685 | Valid loss: 0.4508 | Valid Pearson: 0.7748
+Epoch 6/20 | Train loss: 0.0989 | Train Pearson: 0.9527 | Valid loss: 0.4483 | Valid Pearson: 0.7758
+Epoch 7/20 | Train loss: 0.0530 | Train Pearson: 0.9736 | Valid loss: 0.4479 | Valid Pearson: 0.7761
+Epoch 8/20 | Train loss: 0.0555 | Train Pearson: 0.9735 | Valid loss: 0.4478 | Valid Pearson: 0.7763
+Epoch 9/20 | Train loss: 0.0811 | Train Pearson: 0.9617 | Valid loss: 0.4577 | Valid Pearson: 0.7776
+Epoch 10/20 | Train loss: 0.0576 | Train Pearson: 0.9723 | Valid loss: 0.4472 | Valid Pearson: 0.7770
+Epoch 11/20 | Train loss: 0.0478 | Train Pearson: 0.9760 | Valid loss: 0.4557 | Valid Pearson: 0.7779
+Epoch 12/20 | Train loss: 0.0514 | Train Pearson: 0.9750 | Valid loss: 0.4466 | Valid Pearson: 0.7769
+Epoch 13/20 | Train loss: 0.0449 | Train Pearson: 0.9789 | Valid loss: 0.4462 | Valid Pearson: 0.7771
+Epoch 14/20 | Train loss: 0.0477 | Train Pearson: 0.9771 | Valid loss: 0.4472 | Valid Pearson: 0.7775
+Epoch 15/20 | Train loss: 0.0495 | Train Pearson: 0.9750 | Valid loss: 0.4725 | Valid Pearson: 0.7789
+Epoch 16/20 | Train loss: 0.0546 | Train Pearson: 0.9738 | Valid loss: 0.4697 | Valid Pearson: 0.7790
+Epoch 17/20 | Train loss: 0.0522 | Train Pearson: 0.9750 | Valid loss: 0.4575 | Valid Pearson: 0.7790
+Epoch 18/20 | Train loss: 0.0426 | Train Pearson: 0.9789 | Valid loss: 0.4786 | Valid Pearson: 0.7797
+Epoch 19/20 | Train loss: 0.0533 | Train Pearson: 0.9744 | Valid loss: 0.4735 | Valid Pearson: 0.7797
+Epoch 20/20 | Train loss: 0.0325 | Train Pearson: 0.9840 | Valid loss: 0.4515 | Valid Pearson: 0.7793
+MSE: 0.45151859266934297
+Pearson r: 0.7793395017801591
+Fold 3
+Epoch 1/20 | Train loss: 0.2564 | Train Pearson: 0.9014 | Valid loss: 0.3081 | Valid Pearson: 0.7829
+Epoch 2/20 | Train loss: 0.0996 | Train Pearson: 0.9510 | Valid loss: 0.3184 | Valid Pearson: 0.7877
+Epoch 3/20 | Train loss: 0.0685 | Train Pearson: 0.9674 | Valid loss: 0.3049 | Valid Pearson: 0.7842
+Epoch 4/20 | Train loss: 0.0585 | Train Pearson: 0.9724 | Valid loss: 0.3102 | Valid Pearson: 0.7870
+Epoch 5/20 | Train loss: 0.0553 | Train Pearson: 0.9734 | Valid loss: 0.3058 | Valid Pearson: 0.7837
+Epoch 6/20 | Train loss: 0.0611 | Train Pearson: 0.9698 | Valid loss: 0.3117 | Valid Pearson: 0.7869
+Epoch 7/20 | Train loss: 0.0524 | Train Pearson: 0.9747 | Valid loss: 0.3121 | Valid Pearson: 0.7870
+Epoch 8/20 | Train loss: 0.0467 | Train Pearson: 0.9770 | Valid loss: 0.3061 | Valid Pearson: 0.7860
+Epoch 9/20 | Train loss: 0.0380 | Train Pearson: 0.9825 | Valid loss: 0.3053 | Valid Pearson: 0.7841
+Epoch 10/20 | Train loss: 0.0521 | Train Pearson: 0.9757 | Valid loss: 0.3044 | Valid Pearson: 0.7847
+Epoch 11/20 | Train loss: 0.0456 | Train Pearson: 0.9776 | Valid loss: 0.3046 | Valid Pearson: 0.7855
+Epoch 12/20 | Train loss: 0.0362 | Train Pearson: 0.9820 | Valid loss: 0.3057 | Valid Pearson: 0.7857
+Epoch 13/20 | Train loss: 0.0431 | Train Pearson: 0.9788 | Valid loss: 0.3070 | Valid Pearson: 0.7863
+Epoch 14/20 | Train loss: 0.0345 | Train Pearson: 0.9834 | Valid loss: 0.3038 | Valid Pearson: 0.7858
+Epoch 15/20 | Train loss: 0.0465 | Train Pearson: 0.9772 | Valid loss: 0.3034 | Valid Pearson: 0.7857
+Epoch 16/20 | Train loss: 0.0478 | Train Pearson: 0.9769 | Valid loss: 0.3086 | Valid Pearson: 0.7877
+Epoch 17/20 | Train loss: 0.0390 | Train Pearson: 0.9808 | Valid loss: 0.3136 | Valid Pearson: 0.7885
+Epoch 18/20 | Train loss: 0.0409 | Train Pearson: 0.9813 | Valid loss: 0.3032 | Valid Pearson: 0.7872
+Epoch 19/20 | Train loss: 0.0422 | Train Pearson: 0.9791 | Valid loss: 0.3044 | Valid Pearson: 0.7875
+Epoch 20/20 | Train loss: 0.0353 | Train Pearson: 0.9826 | Valid loss: 0.3095 | Valid Pearson: 0.7886
+MSE: 0.30954569970412016
+Pearson r: 0.788565730568192
+Dropout rate: 0.15000000000000002, Retained fraction: 0.85: MSE: 0.39399194487400946, Pearson r: 0.7881705894757474
+
+Dropout rate: 0.09999999999999998
+Fold 1
+Epoch 1/20 | Train loss: 0.0657 | Train Pearson: 0.9708 | Valid loss: 0.4637 | Valid Pearson: 0.8005
+Epoch 2/20 | Train loss: 0.0616 | Train Pearson: 0.9697 | Valid loss: 0.4468 | Valid Pearson: 0.8011
+Epoch 3/20 | Train loss: 0.0456 | Train Pearson: 0.9773 | Valid loss: 0.4226 | Valid Pearson: 0.8019
+Epoch 4/20 | Train loss: 0.0508 | Train Pearson: 0.9749 | Valid loss: 0.4132 | Valid Pearson: 0.8026
+Epoch 5/20 | Train loss: 0.0390 | Train Pearson: 0.9813 | Valid loss: 0.4123 | Valid Pearson: 0.8028
+Epoch 6/20 | Train loss: 0.0500 | Train Pearson: 0.9766 | Valid loss: 0.4245 | Valid Pearson: 0.8025
+Epoch 7/20 | Train loss: 0.0461 | Train Pearson: 0.9770 | Valid loss: 0.4122 | Valid Pearson: 0.8027
+Epoch 8/20 | Train loss: 0.0330 | Train Pearson: 0.9838 | Valid loss: 0.4100 | Valid Pearson: 0.8028
+Epoch 9/20 | Train loss: 0.0487 | Train Pearson: 0.9773 | Valid loss: 0.4254 | Valid Pearson: 0.8023
+Epoch 10/20 | Train loss: 0.0605 | Train Pearson: 0.9696 | Valid loss: 0.4191 | Valid Pearson: 0.8025
+Epoch 11/20 | Train loss: 0.0315 | Train Pearson: 0.9849 | Valid loss: 0.4258 | Valid Pearson: 0.8024
+Epoch 12/20 | Train loss: 0.0498 | Train Pearson: 0.9753 | Valid loss: 0.4581 | Valid Pearson: 0.8017
+Epoch 13/20 | Train loss: 0.0419 | Train Pearson: 0.9795 | Valid loss: 0.4113 | Valid Pearson: 0.8032
+Epoch 14/20 | Train loss: 0.0334 | Train Pearson: 0.9835 | Valid loss: 0.4073 | Valid Pearson: 0.8034
+Epoch 15/20 | Train loss: 0.0250 | Train Pearson: 0.9875 | Valid loss: 0.4092 | Valid Pearson: 0.8033
+Epoch 16/20 | Train loss: 0.0312 | Train Pearson: 0.9845 | Valid loss: 0.4080 | Valid Pearson: 0.8034
+Epoch 17/20 | Train loss: 0.0351 | Train Pearson: 0.9826 | Valid loss: 0.4162 | Valid Pearson: 0.8036
+Epoch 18/20 | Train loss: 0.0439 | Train Pearson: 0.9796 | Valid loss: 0.4071 | Valid Pearson: 0.8036
+Epoch 19/20 | Train loss: 0.0276 | Train Pearson: 0.9867 | Valid loss: 0.4292 | Valid Pearson: 0.8030
+Epoch 20/20 | Train loss: 0.0444 | Train Pearson: 0.9778 | Valid loss: 0.4347 | Valid Pearson: 0.8029
+MSE: 0.4347262348993143
+Pearson r: 0.802868024178478
+Fold 2
+Epoch 1/20 | Train loss: 0.7019 | Train Pearson: 0.6792 | Valid loss: 0.6651 | Valid Pearson: 0.7814
+Epoch 2/20 | Train loss: 0.0894 | Train Pearson: 0.9644 | Valid loss: 0.4579 | Valid Pearson: 0.7755
+Epoch 3/20 | Train loss: 0.0483 | Train Pearson: 0.9758 | Valid loss: 0.4586 | Valid Pearson: 0.7793
+Epoch 4/20 | Train loss: 0.0451 | Train Pearson: 0.9789 | Valid loss: 0.4459 | Valid Pearson: 0.7784
+Epoch 5/20 | Train loss: 0.0476 | Train Pearson: 0.9765 | Valid loss: 0.4457 | Valid Pearson: 0.7784
+Epoch 6/20 | Train loss: 0.0339 | Train Pearson: 0.9832 | Valid loss: 0.4455 | Valid Pearson: 0.7785
+Epoch 7/20 | Train loss: 0.0527 | Train Pearson: 0.9745 | Valid loss: 0.4449 | Valid Pearson: 0.7786
+Epoch 8/20 | Train loss: 0.0518 | Train Pearson: 0.9744 | Valid loss: 0.4466 | Valid Pearson: 0.7791
+Epoch 9/20 | Train loss: 0.0419 | Train Pearson: 0.9793 | Valid loss: 0.4450 | Valid Pearson: 0.7790
+Epoch 10/20 | Train loss: 0.0333 | Train Pearson: 0.9844 | Valid loss: 0.4442 | Valid Pearson: 0.7782
+Epoch 11/20 | Train loss: 0.0393 | Train Pearson: 0.9809 | Valid loss: 0.4453 | Valid Pearson: 0.7791
+Epoch 12/20 | Train loss: 0.0413 | Train Pearson: 0.9793 | Valid loss: 0.4435 | Valid Pearson: 0.7789
+Epoch 13/20 | Train loss: 0.0393 | Train Pearson: 0.9809 | Valid loss: 0.4436 | Valid Pearson: 0.7790
+Epoch 14/20 | Train loss: 0.0396 | Train Pearson: 0.9802 | Valid loss: 0.4435 | Valid Pearson: 0.7787
+Epoch 15/20 | Train loss: 0.0322 | Train Pearson: 0.9841 | Valid loss: 0.4431 | Valid Pearson: 0.7791
+Epoch 16/20 | Train loss: 0.0408 | Train Pearson: 0.9798 | Valid loss: 0.4525 | Valid Pearson: 0.7802
+Epoch 17/20 | Train loss: 0.0362 | Train Pearson: 0.9819 | Valid loss: 0.4569 | Valid Pearson: 0.7805
+Epoch 18/20 | Train loss: 0.0398 | Train Pearson: 0.9805 | Valid loss: 0.4566 | Valid Pearson: 0.7803
+Epoch 19/20 | Train loss: 0.0406 | Train Pearson: 0.9806 | Valid loss: 0.4450 | Valid Pearson: 0.7798
+Epoch 20/20 | Train loss: 0.0296 | Train Pearson: 0.9854 | Valid loss: 0.4580 | Valid Pearson: 0.7805
+MSE: 0.4579603723290331
+Pearson r: 0.7805019263080858
+Fold 3
+Epoch 1/20 | Train loss: 0.1013 | Train Pearson: 0.9514 | Valid loss: 0.3216 | Valid Pearson: 0.7765
+Epoch 2/20 | Train loss: 0.0876 | Train Pearson: 0.9622 | Valid loss: 0.3199 | Valid Pearson: 0.7752
+Epoch 3/20 | Train loss: 0.0390 | Train Pearson: 0.9841 | Valid loss: 0.3178 | Valid Pearson: 0.7764
+Epoch 4/20 | Train loss: 0.0525 | Train Pearson: 0.9753 | Valid loss: 0.3196 | Valid Pearson: 0.7787
+Epoch 5/20 | Train loss: 0.0350 | Train Pearson: 0.9834 | Valid loss: 0.3191 | Valid Pearson: 0.7789
+Epoch 6/20 | Train loss: 0.0485 | Train Pearson: 0.9760 | Valid loss: 0.3289 | Valid Pearson: 0.7808
+Epoch 7/20 | Train loss: 0.0385 | Train Pearson: 0.9820 | Valid loss: 0.3171 | Valid Pearson: 0.7786
+Epoch 8/20 | Train loss: 0.0339 | Train Pearson: 0.9834 | Valid loss: 0.3172 | Valid Pearson: 0.7789
+Epoch 9/20 | Train loss: 0.0385 | Train Pearson: 0.9814 | Valid loss: 0.3273 | Valid Pearson: 0.7812
+Epoch 10/20 | Train loss: 0.0345 | Train Pearson: 0.9838 | Valid loss: 0.3140 | Valid Pearson: 0.7779
+Epoch 11/20 | Train loss: 0.0282 | Train Pearson: 0.9860 | Valid loss: 0.3137 | Valid Pearson: 0.7775
+Epoch 12/20 | Train loss: 0.0347 | Train Pearson: 0.9835 | Valid loss: 0.3161 | Valid Pearson: 0.7803
+Epoch 13/20 | Train loss: 0.0245 | Train Pearson: 0.9879 | Valid loss: 0.3128 | Valid Pearson: 0.7793
+Epoch 14/20 | Train loss: 0.0274 | Train Pearson: 0.9867 | Valid loss: 0.3118 | Valid Pearson: 0.7795
+Epoch 15/20 | Train loss: 0.0287 | Train Pearson: 0.9857 | Valid loss: 0.3126 | Valid Pearson: 0.7808
+Epoch 16/20 | Train loss: 0.0267 | Train Pearson: 0.9868 | Valid loss: 0.3124 | Valid Pearson: 0.7807
+Epoch 17/20 | Train loss: 0.0296 | Train Pearson: 0.9854 | Valid loss: 0.3150 | Valid Pearson: 0.7818
+Epoch 18/20 | Train loss: 0.0314 | Train Pearson: 0.9846 | Valid loss: 0.3258 | Valid Pearson: 0.7837
+Epoch 19/20 | Train loss: 0.0328 | Train Pearson: 0.9849 | Valid loss: 0.3107 | Valid Pearson: 0.7795
+Epoch 20/20 | Train loss: 0.0368 | Train Pearson: 0.9819 | Valid loss: 0.3157 | Valid Pearson: 0.7774
+MSE: 0.31568126787667483
+Pearson r: 0.7773533742024756
+Dropout rate: 0.09999999999999998, Retained fraction: 0.9: MSE: 0.40278929170167405, Pearson r: 0.7869077748963464
+
+Dropout rate: 0.050000000000000044
+Fold 1
+Epoch 1/20 | Train loss: 0.0451 | Train Pearson: 0.9786 | Valid loss: 0.4072 | Valid Pearson: 0.8027
+Epoch 2/20 | Train loss: 0.0365 | Train Pearson: 0.9833 | Valid loss: 0.4118 | Valid Pearson: 0.8026
+Epoch 3/20 | Train loss: 0.0288 | Train Pearson: 0.9858 | Valid loss: 0.4231 | Valid Pearson: 0.8021
+Epoch 4/20 | Train loss: 0.0328 | Train Pearson: 0.9837 | Valid loss: 0.4157 | Valid Pearson: 0.8027
+Epoch 5/20 | Train loss: 0.0323 | Train Pearson: 0.9844 | Valid loss: 0.4200 | Valid Pearson: 0.8026
+Epoch 6/20 | Train loss: 0.0291 | Train Pearson: 0.9855 | Valid loss: 0.4427 | Valid Pearson: 0.8018
+Epoch 7/20 | Train loss: 0.0336 | Train Pearson: 0.9832 | Valid loss: 0.4129 | Valid Pearson: 0.8031
+Epoch 8/20 | Train loss: 0.0257 | Train Pearson: 0.9873 | Valid loss: 0.4119 | Valid Pearson: 0.8032
+Epoch 9/20 | Train loss: 0.0252 | Train Pearson: 0.9875 | Valid loss: 0.4095 | Valid Pearson: 0.8033
+Epoch 10/20 | Train loss: 0.0263 | Train Pearson: 0.9871 | Valid loss: 0.4276 | Valid Pearson: 0.8025
+Epoch 11/20 | Train loss: 0.0279 | Train Pearson: 0.9862 | Valid loss: 0.4100 | Valid Pearson: 0.8032
+Epoch 12/20 | Train loss: 0.0196 | Train Pearson: 0.9903 | Valid loss: 0.4110 | Valid Pearson: 0.8030
+Epoch 13/20 | Train loss: 0.0196 | Train Pearson: 0.9902 | Valid loss: 0.4091 | Valid Pearson: 0.8031
+Epoch 14/20 | Train loss: 0.0234 | Train Pearson: 0.9887 | Valid loss: 0.4177 | Valid Pearson: 0.8029
+Epoch 15/20 | Train loss: 0.0230 | Train Pearson: 0.9886 | Valid loss: 0.4268 | Valid Pearson: 0.8029
+Epoch 16/20 | Train loss: 0.0353 | Train Pearson: 0.9824 | Valid loss: 0.4107 | Valid Pearson: 0.8034
+Epoch 17/20 | Train loss: 0.0292 | Train Pearson: 0.9868 | Valid loss: 0.4203 | Valid Pearson: 0.8026
+Epoch 18/20 | Train loss: 0.0228 | Train Pearson: 0.9886 | Valid loss: 0.4119 | Valid Pearson: 0.8027
+Epoch 19/20 | Train loss: 0.0181 | Train Pearson: 0.9910 | Valid loss: 0.4113 | Valid Pearson: 0.8026
+Epoch 20/20 | Train loss: 0.0168 | Train Pearson: 0.9917 | Valid loss: 0.4098 | Valid Pearson: 0.8028
+MSE: 0.40976507522258404
+Pearson r: 0.8027923734649361
+Fold 2
+Epoch 1/20 | Train loss: 0.0919 | Train Pearson: 0.9593 | Valid loss: 0.4695 | Valid Pearson: 0.7677
+Epoch 2/20 | Train loss: 0.0301 | Train Pearson: 0.9871 | Valid loss: 0.4771 | Valid Pearson: 0.7659
+Epoch 3/20 | Train loss: 0.0424 | Train Pearson: 0.9802 | Valid loss: 0.4620 | Valid Pearson: 0.7693
+Epoch 4/20 | Train loss: 0.0255 | Train Pearson: 0.9877 | Valid loss: 0.4601 | Valid Pearson: 0.7704
+Epoch 5/20 | Train loss: 0.0242 | Train Pearson: 0.9886 | Valid loss: 0.4594 | Valid Pearson: 0.7699
+Epoch 6/20 | Train loss: 0.0243 | Train Pearson: 0.9883 | Valid loss: 0.4588 | Valid Pearson: 0.7700
+Epoch 7/20 | Train loss: 0.0246 | Train Pearson: 0.9879 | Valid loss: 0.4598 | Valid Pearson: 0.7699
+Epoch 8/20 | Train loss: 0.0324 | Train Pearson: 0.9837 | Valid loss: 0.4598 | Valid Pearson: 0.7730
+Epoch 9/20 | Train loss: 0.0263 | Train Pearson: 0.9874 | Valid loss: 0.4590 | Valid Pearson: 0.7733
+Epoch 10/20 | Train loss: 0.0261 | Train Pearson: 0.9874 | Valid loss: 0.4547 | Valid Pearson: 0.7730
+Epoch 11/20 | Train loss: 0.0240 | Train Pearson: 0.9882 | Valid loss: 0.4540 | Valid Pearson: 0.7736
+Epoch 12/20 | Train loss: 0.0240 | Train Pearson: 0.9885 | Valid loss: 0.4524 | Valid Pearson: 0.7738
+Epoch 13/20 | Train loss: 0.0343 | Train Pearson: 0.9830 | Valid loss: 0.4625 | Valid Pearson: 0.7718
+Epoch 14/20 | Train loss: 0.0223 | Train Pearson: 0.9889 | Valid loss: 0.4531 | Valid Pearson: 0.7735
+Epoch 15/20 | Train loss: 0.0239 | Train Pearson: 0.9882 | Valid loss: 0.4650 | Valid Pearson: 0.7763
+Epoch 16/20 | Train loss: 0.0195 | Train Pearson: 0.9903 | Valid loss: 0.4517 | Valid Pearson: 0.7753
+Epoch 17/20 | Train loss: 0.0202 | Train Pearson: 0.9900 | Valid loss: 0.4520 | Valid Pearson: 0.7754
+Epoch 18/20 | Train loss: 0.0201 | Train Pearson: 0.9903 | Valid loss: 0.4497 | Valid Pearson: 0.7750
+Epoch 19/20 | Train loss: 0.0206 | Train Pearson: 0.9897 | Valid loss: 0.4500 | Valid Pearson: 0.7749
+Epoch 20/20 | Train loss: 0.0151 | Train Pearson: 0.9926 | Valid loss: 0.4512 | Valid Pearson: 0.7746
+MSE: 0.4512204991422274
+Pearson r: 0.7746068537534743
+Fold 3
+Epoch 1/20 | Train loss: 0.1301 | Train Pearson: 0.9496 | Valid loss: 0.3131 | Valid Pearson: 0.7916
+Epoch 2/20 | Train loss: 0.0462 | Train Pearson: 0.9838 | Valid loss: 0.3042 | Valid Pearson: 0.7936
+Epoch 3/20 | Train loss: 0.0352 | Train Pearson: 0.9872 | Valid loss: 0.3083 | Valid Pearson: 0.7947
+Epoch 4/20 | Train loss: 0.0257 | Train Pearson: 0.9902 | Valid loss: 0.2994 | Valid Pearson: 0.7935
+Epoch 5/20 | Train loss: 0.0263 | Train Pearson: 0.9897 | Valid loss: 0.2987 | Valid Pearson: 0.7937
+Epoch 6/20 | Train loss: 0.0234 | Train Pearson: 0.9895 | Valid loss: 0.3103 | Valid Pearson: 0.7947
+Epoch 7/20 | Train loss: 0.0276 | Train Pearson: 0.9880 | Valid loss: 0.3013 | Valid Pearson: 0.7939
+Epoch 8/20 | Train loss: 0.0250 | Train Pearson: 0.9879 | Valid loss: 0.2968 | Valid Pearson: 0.7932
+Epoch 9/20 | Train loss: 0.0187 | Train Pearson: 0.9908 | Valid loss: 0.2962 | Valid Pearson: 0.7929
+Epoch 10/20 | Train loss: 0.0211 | Train Pearson: 0.9900 | Valid loss: 0.2952 | Valid Pearson: 0.7927
+Epoch 11/20 | Train loss: 0.0293 | Train Pearson: 0.9857 | Valid loss: 0.2966 | Valid Pearson: 0.7914
+Epoch 12/20 | Train loss: 0.0188 | Train Pearson: 0.9907 | Valid loss: 0.2973 | Valid Pearson: 0.7931
+Epoch 13/20 | Train loss: 0.0159 | Train Pearson: 0.9920 | Valid loss: 0.2975 | Valid Pearson: 0.7932
+Epoch 14/20 | Train loss: 0.0240 | Train Pearson: 0.9883 | Valid loss: 0.2991 | Valid Pearson: 0.7936
+Epoch 15/20 | Train loss: 0.0242 | Train Pearson: 0.9884 | Valid loss: 0.2963 | Valid Pearson: 0.7915
+Epoch 16/20 | Train loss: 0.0260 | Train Pearson: 0.9869 | Valid loss: 0.2961 | Valid Pearson: 0.7930
+Epoch 17/20 | Train loss: 0.0168 | Train Pearson: 0.9916 | Valid loss: 0.3039 | Valid Pearson: 0.7940
+Epoch 18/20 | Train loss: 0.0293 | Train Pearson: 0.9870 | Valid loss: 0.2949 | Valid Pearson: 0.7921
+Epoch 19/20 | Train loss: 0.0230 | Train Pearson: 0.9884 | Valid loss: 0.2962 | Valid Pearson: 0.7914
+Epoch 20/20 | Train loss: 0.0262 | Train Pearson: 0.9869 | Valid loss: 0.3100 | Valid Pearson: 0.7938
+MSE: 0.31003053156865945
+Pearson r: 0.7938179867433341
+Dropout rate: 0.050000000000000044, Retained fraction: 0.95: MSE: 0.39033870197782355, Pearson r: 0.7904057379872483
+
+Dropout rate: 0.0
+Fold 1
+Epoch 1/20 | Train loss: 0.7470 | Train Pearson: 0.6598 | Valid loss: 0.6546 | Valid Pearson: 0.8041
+Epoch 2/20 | Train loss: 0.1152 | Train Pearson: 0.9649 | Valid loss: 0.4969 | Valid Pearson: 0.7987
+Epoch 3/20 | Train loss: 0.0400 | Train Pearson: 0.9838 | Valid loss: 0.4442 | Valid Pearson: 0.8026
+Epoch 4/20 | Train loss: 0.0253 | Train Pearson: 0.9915 | Valid loss: 0.4457 | Valid Pearson: 0.8016
+Epoch 5/20 | Train loss: 0.0212 | Train Pearson: 0.9922 | Valid loss: 0.4369 | Valid Pearson: 0.8021
+Epoch 6/20 | Train loss: 0.0195 | Train Pearson: 0.9921 | Valid loss: 0.4315 | Valid Pearson: 0.8023
+Epoch 7/20 | Train loss: 0.0174 | Train Pearson: 0.9926 | Valid loss: 0.4286 | Valid Pearson: 0.8023
+Epoch 8/20 | Train loss: 0.0166 | Train Pearson: 0.9926 | Valid loss: 0.4260 | Valid Pearson: 0.8024
+Epoch 9/20 | Train loss: 0.0156 | Train Pearson: 0.9928 | Valid loss: 0.4235 | Valid Pearson: 0.8025
+Epoch 10/20 | Train loss: 0.0149 | Train Pearson: 0.9928 | Valid loss: 0.4193 | Valid Pearson: 0.8027
+Epoch 11/20 | Train loss: 0.0147 | Train Pearson: 0.9929 | Valid loss: 0.4195 | Valid Pearson: 0.8026
+Epoch 12/20 | Train loss: 0.0147 | Train Pearson: 0.9929 | Valid loss: 0.4161 | Valid Pearson: 0.8028
+Epoch 13/20 | Train loss: 0.0153 | Train Pearson: 0.9923 | Valid loss: 0.4143 | Valid Pearson: 0.8029
+Epoch 14/20 | Train loss: 0.0138 | Train Pearson: 0.9931 | Valid loss: 0.4148 | Valid Pearson: 0.8027
+Epoch 15/20 | Train loss: 0.0149 | Train Pearson: 0.9925 | Valid loss: 0.4135 | Valid Pearson: 0.8028
+Epoch 16/20 | Train loss: 0.0158 | Train Pearson: 0.9921 | Valid loss: 0.4124 | Valid Pearson: 0.8028
+Epoch 17/20 | Train loss: 0.0142 | Train Pearson: 0.9930 | Valid loss: 0.4150 | Valid Pearson: 0.8025
+Epoch 18/20 | Train loss: 0.0136 | Train Pearson: 0.9933 | Valid loss: 0.4165 | Valid Pearson: 0.8024
+Epoch 19/20 | Train loss: 0.0128 | Train Pearson: 0.9936 | Valid loss: 0.4155 | Valid Pearson: 0.8024
+Epoch 20/20 | Train loss: 0.0127 | Train Pearson: 0.9937 | Valid loss: 0.4168 | Valid Pearson: 0.8023
+MSE: 0.41682125234281536
+Pearson r: 0.8022507959233002
+Fold 2
+Epoch 1/20 | Train loss: 0.2889 | Train Pearson: 0.8822 | Valid loss: 0.4343 | Valid Pearson: 0.7849
+Epoch 2/20 | Train loss: 0.0424 | Train Pearson: 0.9822 | Valid loss: 0.4380 | Valid Pearson: 0.7851
+Epoch 3/20 | Train loss: 0.0289 | Train Pearson: 0.9880 | Valid loss: 0.4507 | Valid Pearson: 0.7838
+Epoch 4/20 | Train loss: 0.0250 | Train Pearson: 0.9881 | Valid loss: 0.4339 | Valid Pearson: 0.7847
+Epoch 5/20 | Train loss: 0.0229 | Train Pearson: 0.9886 | Valid loss: 0.4351 | Valid Pearson: 0.7854
+Epoch 6/20 | Train loss: 0.0156 | Train Pearson: 0.9923 | Valid loss: 0.4328 | Valid Pearson: 0.7851
+Epoch 7/20 | Train loss: 0.0172 | Train Pearson: 0.9913 | Valid loss: 0.4315 | Valid Pearson: 0.7854
+Epoch 8/20 | Train loss: 0.0155 | Train Pearson: 0.9922 | Valid loss: 0.4308 | Valid Pearson: 0.7857
+Epoch 9/20 | Train loss: 0.0156 | Train Pearson: 0.9923 | Valid loss: 0.4303 | Valid Pearson: 0.7860
+Epoch 10/20 | Train loss: 0.0162 | Train Pearson: 0.9919 | Valid loss: 0.4318 | Valid Pearson: 0.7863
+Epoch 11/20 | Train loss: 0.0149 | Train Pearson: 0.9925 | Valid loss: 0.4345 | Valid Pearson: 0.7864
+Epoch 12/20 | Train loss: 0.0178 | Train Pearson: 0.9912 | Valid loss: 0.4300 | Valid Pearson: 0.7865
+Epoch 13/20 | Train loss: 0.0186 | Train Pearson: 0.9907 | Valid loss: 0.4318 | Valid Pearson: 0.7866
+Epoch 14/20 | Train loss: 0.0162 | Train Pearson: 0.9921 | Valid loss: 0.4292 | Valid Pearson: 0.7867
+Epoch 15/20 | Train loss: 0.0137 | Train Pearson: 0.9931 | Valid loss: 0.4288 | Valid Pearson: 0.7868
+Epoch 16/20 | Train loss: 0.0144 | Train Pearson: 0.9929 | Valid loss: 0.4284 | Valid Pearson: 0.7870
+Epoch 17/20 | Train loss: 0.0123 | Train Pearson: 0.9938 | Valid loss: 0.4283 | Valid Pearson: 0.7872
+Epoch 18/20 | Train loss: 0.0141 | Train Pearson: 0.9930 | Valid loss: 0.4286 | Valid Pearson: 0.7873
+Epoch 19/20 | Train loss: 0.0132 | Train Pearson: 0.9935 | Valid loss: 0.4316 | Valid Pearson: 0.7875
+Epoch 20/20 | Train loss: 0.0149 | Train Pearson: 0.9925 | Valid loss: 0.4278 | Valid Pearson: 0.7878
+MSE: 0.42775573663021166
+Pearson r: 0.7877862969753058
+Fold 3
+Epoch 1/20 | Train loss: 0.0340 | Train Pearson: 0.9829 | Valid loss: 0.2953 | Valid Pearson: 0.8017
+Epoch 2/20 | Train loss: 0.0260 | Train Pearson: 0.9875 | Valid loss: 0.2952 | Valid Pearson: 0.8016
+Epoch 3/20 | Train loss: 0.0172 | Train Pearson: 0.9915 | Valid loss: 0.2853 | Valid Pearson: 0.8015
+Epoch 4/20 | Train loss: 0.0204 | Train Pearson: 0.9898 | Valid loss: 0.2875 | Valid Pearson: 0.8016
+Epoch 5/20 | Train loss: 0.0168 | Train Pearson: 0.9917 | Valid loss: 0.2982 | Valid Pearson: 0.8016
+Epoch 6/20 | Train loss: 0.0184 | Train Pearson: 0.9910 | Valid loss: 0.2889 | Valid Pearson: 0.8015
+Epoch 7/20 | Train loss: 0.0143 | Train Pearson: 0.9928 | Valid loss: 0.2856 | Valid Pearson: 0.8012
+Epoch 8/20 | Train loss: 0.0132 | Train Pearson: 0.9934 | Valid loss: 0.2898 | Valid Pearson: 0.8011
+Epoch 9/20 | Train loss: 0.0119 | Train Pearson: 0.9941 | Valid loss: 0.2862 | Valid Pearson: 0.8007
+Epoch 10/20 | Train loss: 0.0131 | Train Pearson: 0.9934 | Valid loss: 0.2898 | Valid Pearson: 0.8005
+Epoch 11/20 | Train loss: 0.0126 | Train Pearson: 0.9939 | Valid loss: 0.2854 | Valid Pearson: 0.7997
+Epoch 12/20 | Train loss: 0.0111 | Train Pearson: 0.9945 | Valid loss: 0.2883 | Valid Pearson: 0.7997
+Epoch 13/20 | Train loss: 0.0099 | Train Pearson: 0.9950 | Valid loss: 0.2889 | Valid Pearson: 0.7994
+Epoch 14/20 | Train loss: 0.0091 | Train Pearson: 0.9954 | Valid loss: 0.2985 | Valid Pearson: 0.7994
+Epoch 15/20 | Train loss: 0.0106 | Train Pearson: 0.9948 | Valid loss: 0.2872 | Valid Pearson: 0.7985
+Epoch 16/20 | Train loss: 0.0090 | Train Pearson: 0.9955 | Valid loss: 0.2964 | Valid Pearson: 0.7988
+Epoch 17/20 | Train loss: 0.0129 | Train Pearson: 0.9936 | Valid loss: 0.2897 | Valid Pearson: 0.7980
+Epoch 18/20 | Train loss: 0.0094 | Train Pearson: 0.9953 | Valid loss: 0.2890 | Valid Pearson: 0.7974
+Epoch 19/20 | Train loss: 0.0081 | Train Pearson: 0.9960 | Valid loss: 0.2892 | Valid Pearson: 0.7970
+Epoch 20/20 | Train loss: 0.0089 | Train Pearson: 0.9955 | Valid loss: 0.2974 | Valid Pearson: 0.7975
+MSE: 0.29740704610633717
+Pearson r: 0.7974722213391944
+Dropout rate: 0.0, Retained fraction: 1.0: MSE: 0.3806613450264547, Pearson r: 0.7958364380792667
+
