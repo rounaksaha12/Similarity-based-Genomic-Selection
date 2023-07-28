@@ -43,8 +43,6 @@ def seed_everything(seed=42):
 
 	return random_state
 
-seed=42
-random_state = seed_everything(seed=seed)
 
 # data.py
 
